@@ -3,13 +3,13 @@ project:
   output-dir: docs
 
 # Meta
-description-meta: "Quarto Academic Website Template adapted by Dr. Gang He"
-author-meta: "Dr. Gang He"
+description-meta: "Prof. Dr. Christian Rauh"
+author-meta: "Christian Rauh"
 
 website:
-  title: "Quarto Academic"
-  image: "https://quarto.org/quarto.png"
-  description: "Quarto Academic Website Template adapted by Dr. Gang He"
+  title: "Christian Rauh"
+  image: "https://www.wzb.eu/themes/custom/wzb_theme/images/Logo_deutsch.svg"
+  description: "Personal website of Prof. Dr. Christian Rauh"
  
   navbar:
     background: light  # You can change the background color here
