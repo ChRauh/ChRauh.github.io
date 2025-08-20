@@ -1,7 +1,7 @@
 ---
-title: "Quarto Academic, PhD"
-description-meta: "Quarto Academic Website Template adapted by Dr. Gang He"
-image: "files/images/placeholder4.JPG"
+title: "Prof Dr. Christian Rauh"
+description-meta: "Personal Website of Prof. Dr. Christian Rauh"
+image: "files/images/CR_Portrait_round.png"
 page-navigation: false
 toc: false
 #sidebar: false
@@ -10,97 +10,107 @@ page-layout: full
 about:
   id: hero-heading
   template: trestles
-  image-width: 70%
+  image-width: 90%
   links:
-    - icon: sun
-      text: Lab
-      href: https://www.github.com
+    - icon: building
+      text: WZB
+      href: https://www.wzb.eu/en/persons/christian-rauh
       target: _blank
-    - icon: globe
-      text: Uprofile
-      href: https://baruch.cuny.edu
-      target: _blank
+      
     - icon: envelope
-      text: E-mail
-      href: mailto:email@gmail.com    
+      text: Mail
+      href: mailto:christian.rauh@wzb.eu  
+        
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com
+      href: https://www.linkedin.com/in/chrauh/
       target: _blank
+
+    - text: "{{< fa brands bluesky >}} BlueSky"
+      href: https://bsky.app/profile/chrauh.bsky.social  
+      target: _blank
+                  
+    - icon: github
+      text: GitHub
+      href: https://github.com/ChRauh/  
+      target: _blank
+      
+    - text: "{{< ai google-scholar >}} Google Scholar"
+      href: https://scholar.google.de/citations?hl=en&user=kIwmmTAAAAAJ
+      target: _blank
+
+    - text: "{{< ai orcid >}} ORCID"   # use academic icons, "" are needed, you also need to install the fontawesome extension
+      href: https://orcid.org/0000-0001-9357-9506
+      target: _blank
+      
+    - text: "{{< ai clarivate >}} WoS"
+      href: https://www.webofscience.com/wos/author/record/AAG-9839-2019  
+      target: _blank
+      
+    - text: "{{< ai researchgate >}} Research Gate"
+      href: https://www.researchgate.net/profile/Christian-Rauh
+      target: _blank
+                  
     - icon: youtube
       text: YouTube
-      href: https://www.youtube.com     
+      href: https://www.youtube.com/@rauhchristian6885     
       target: _blank 
-    - text: "{{< ai orcid >}} ORCID"   # use academic icons, "" are needed, you also need to install the fontawesome extension
-      href: https://orcid.org
+      
+    - icon: strava
+      text: Strava
+      href: https://www.strava.com/athletes/31201349
       target: _blank
-    - text: "{{< ai clarivate >}} Web of Science"
-      href: https://www.webofscience.com  
-      target: _blank
-    - text: "{{< ai scopus >}} Scopus"
-      href: https://www.scopus.com
-      target: _blank
-    - text: "{{< ai google-scholar >}} Google Scholar"
-      href: https://scholar.google.com
-      target: _blank
-#    - text: "{{< ai researchgate >}} Research Gate"
-#      href: https://www.researchgate.net
-#      target: _blank
 
-listing:   # Comment the listing section and delete corresponding lines in the index.qmd file to remove the recent posts
-  - id: recent-posts
-    contents: 
-      - posts
-      - posts/post-links.yml
-    exclude:
-      title: ""
-    type: grid
-    max-items: 3
-#    image-height: 150px
-    page-size: 3 #set same as max-times to remove the page number setting
-    fields: [image, date, title, subtitle]
-    max-description-length: 75
-    sort: 
-      - "date desc"
-      - "title asc"
+# listing:   # Comment the listing section and delete corresponding lines in the index.qmd file to remove the recent posts
+#   - id: recent-posts
+#     contents: 
+#       - posts
+#       - posts/post-links.yml
+#     exclude:
+#       title: ""
+#     type: grid
+#     max-items: 3
+# #    image-height: 150px
+#     page-size: 3 #set same as max-times to remove the page number setting
+#     fields: [image, date, title, subtitle]
+#     max-description-length: 75
+#     sort: 
+#       - "date desc"
+#       - "title asc"
 ---
 
 :::{#hero-heading}
 
-I'm a [Quarto Academeic Website Template](https://github.com/drganghe/quarto-academic-website-template) adapted by [Dr. Gang He](http://drganghe.github.io).
+## Welcome! (Website under construction)
 
-I'm a template that you can fork to build your own website with easy adaptation and deployment.
+I am a senior researcher in the Global Governance unit of the [WZB Berlin Social Science Center](http://www.wzb.eu/en) and a Professor for the 'Politics of Multilevel Governance' at the [University of Potsdam](https://www.uni-potsdam.de/de/wiso/fakultaet/fachgruppen/politik-und-verwaltungswissenschaft). 
 
-1. **Star** this repository to bookmark it for future reference.  
-1. **Fork** this repository and rename it to `YourGitHubUserName.github.io`.  
-1. **Update** the `_quarto.yml` file to configure your site’s basic settings.  
-1. **Add or edit content** in the following files and folders:
-   - `/posts/` – posts about publications, news, events  
-   - `teaching.qmd` – teaching information  
-   - `projects.yml` – research or other projects  
-   - `people.qmd` and `/people/` – team or collaborators  
-   - `/files/` - profiles, images, pdfs, and includes 
-1. [**Render and preview**](https://quarto.org/docs/websites/) your site locally.  
-1. [**Publish**](https://quarto.org/docs/publishing/github-pages.html) your site using GitHub Pages (make sure [configuring](https://quarto.org/docs/publishing/images/gh-pages-docs-dir.png) your GitHub repository to publish from the `docs` directory, not the `root` folder). 
-1. **Refine and polish** your content and design as needed.  
-1. ✅ Enjoy your new website!
+My research and teaching interests lie broadly at the intersection of EU studies, international relations and comparative politics. Key focus areas include:
 
-## Experience
+* Decision-making of and in the European Commission
+* Public political debates about European and international institutions
+* The EU's role in the international order
 
-- Researcher, Univerisity
+My work aims to combine solid theory with innovative empirical analysis. Luckily, this often involves the more immediate gratifications of a little programming, quantitative text analysis, and data visualization.
 
-## Education
+This website contains information on my professional bio, summarizes my academic record, provides replication data, and will once in a while offer some personal musings on politics and its scientific analysis.
 
-- PhD, Univerisity
+Please do have a look and get in touch!
+
+<!-- ## Experience -->
+
+<!-- | -->
+<!-- -----|----- -->
+<!-- 03/2023-*current*|**S/W2 Professor for ‘Politics of Multilevel Governance’**, University of Potsdam -->
+<!-- 04/2012-*current*|**Senior research fellow**, Research Unit 'Global Governance', WZB Berlin Social Science Center -->
+<!-- 04/2020-09/2020|**Professor of 'International Politics and Law' (interim)**, Freie Universität Berlin -->
+<!-- 09/2008-03/2020|**Researcher** -->
+
+<!-- |:----|:----| -->
+<!-- | 03/2023 - current | S/W2 Professor for ‘Politics of Multilevel Governance’, University of Potsdam | -->
+<!-- | 04/2012 - current | Senior research fellow, Research Unit 'Global Governance', WZB Berlin Social Science Center | -->
+
+
 
 :::
 
-
-<!-- Delete the following section and delete corresponding lines in the yaml part to remove the recent posts -->
-## Recent Posts
-Check out the latest &nbsp;[Papers](posts.qmd#category=paper)&nbsp;, &nbsp;[News](posts.qmd#category=news)&nbsp;, &nbsp;[Events](posts.qmd#category=event)&nbsp;, and &nbsp;[More »](/posts.qmd)
-
-:::{#recent-posts}
-:::
-
-<p align="right">[All Posts »](/posts.qmd)</p>

@@ -1,0 +1,43 @@
+---
+title: "Experience and education"
+description-meta: "Curriculum Vitae"
+title-block-banner: true
+---
+## Employments
+&nbsp;     
+     
+|  |   |
+|:------------------------------------|:------------------------------------|
+| 03/2023-*current* | **S/W2 Professor for ‘Politics of Multilevel Governance’**, University of Potsdam |
+| 04/2012-*current* | **Senior research fellow**, Research Unit 'Global Governance', WZB Berlin Social Science Center |
+| 04/2020-09/2020 | **Professor of 'International Politics and Law' (interim)**, Freie Universität Berlin |
+| 09/2008-03/2020 | **PhD Researcher**, Junior Research Group 'Position Formation in the EU Commission', WZB Berlin Social Science Center |
+| 07/2006-05/2010 | **Organisation and supervision of simulations on political decision-making**, EuroSoc GmbH - Think Tank for European Decisions |
+| *since* 10/2005  | **Various teaching assignments** at different European universities |
+| 03/2005-10/2007  | **Managing Editor**, European Union Politics (Academic journal) |
+| 08/2004-02/2005  | **Political Consultant in EU affairs**, Berlin Business Representation, Brussels |
+: {tbl-colwidths="[20,80]"}   
+
+&nbsp;    
+
+## Education
+&nbsp;    
+
+|  |   |
+|:------------------------------------|:------------------------------------|
+| 01/2012 | **Dr. rer. pol.**, Freie Universität Berlin. Thesis ‘Politicisation, issue salience, and consumer policies of the European Commission’; Supervisors: Prof.Dr. Miriam Hartlapp / Prof. Dr. Michael Zürn; *summa cum laude*; Winner of the ECPR Jean Blondel Prize for the best thesis in politics 2013|
+| 09/2009 | **ECPR Carlo Alberto Summer School on Analytical Politics**, Moncalieri, Italy |
+| 04/2008 | **M.A. Politics and Management**, University of Konstanz. Thesis: ‘From Chicago to Brussels: EU regulation of international air transport and the stock market performance of internationally operating airlines.’ Supervisor: Prof. Dr. Gerald Schneider; *very good*; Winner of the 2009 VEUK e.V. award for the best diploma thesis in politics and management|
+| 06/2001 | **A-levels**, Hochrhein Gymnasium Waldshut(1,9) |
+: {tbl-colwidths="[20,80]"}   
+
+&nbsp;    
+
+
+
+
+## Detailed CV
+
+<iframe src="files/CV_Rauh_EN.pdf" width="100%" height="1000px" style="border:none;">
+</iframe>
+

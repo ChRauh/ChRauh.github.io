@@ -4,21 +4,21 @@
     "href": "posts.html",
     "title": "What’s New & Updated",
     "section": "",
-    "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nQuarto Academic Website Examples and Tips\n\n\n\n\n\n\nnews\n\n\n\nExamples and tips for Quarto Academic Website\n\n\n\n\n\nOct 15, 2024\n\n\nDr. Gang He\n\n\n\n\n\n\n\n\n\n\n\n\nEvent item\n\n\n\n\n\n\nevent\n\npresentation\n\n\n\nAbout Event item.\n\n\n\n\n\nSep 3, 2024\n\n\nEvent\n\n\n\n\n\n\n\n\n\n\n\n\nNews item\n\n\n\n\n\n\nnews\n\n\n\nAbout new item\n\n\n\n\n\nJun 24, 2024\n\n\nNews\n\n\n\n\n\n\n\n\n\n\n\n\nCan quantum-mechanical description of physical reality be considered complete?\n\n\nPhysical Review\n\n\n\npaper\n\n\n\nOne is thus led to conclude that the description of reality as given by a wave function is not complete.\n\n\n\n\n\nMay 15, 1935\n\n\nAlbert Einstein, Boris Podolsky, Nathan Rosen\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nQuarto Academic Website Examples and Tips\n\n\n\n\n\n\nnews\n\n\n\nExamples and tips for Quarto Academic Website\n\n\n\n\n\nOct 15, 2024\n\n\nDr. Gang He\n\n\n\n\n\n\n\n\n\n\n\n\nEvent item\n\n\n\n\n\n\nevent\n\n\npresentation\n\n\n\nAbout Event item.\n\n\n\n\n\nSep 3, 2024\n\n\nEvent\n\n\n\n\n\n\n\n\n\n\n\n\nNews item\n\n\n\n\n\n\nnews\n\n\n\nAbout new item\n\n\n\n\n\nJun 24, 2024\n\n\nNews\n\n\n\n\n\n\n\n\n\n\n\n\nCan quantum-mechanical description of physical reality be considered complete?\n\n\nPhysical Review\n\n\n\npaper\n\n\n\nOne is thus led to conclude that the description of reality as given by a wave function is not complete.\n\n\n\n\n\nMay 15, 1935\n\n\nAlbert Einstein, Boris Podolsky, Nathan Rosen\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "publications.html",
     "href": "publications.html",
     "title": "Publications",
     "section": "",
-    "text": "Notes: * corresponding author; GS graduate student advisee; VS visiting scholar;  ESI Highly Cited Paper (top 1%);  ESI Hot Paper (top 0.1%)\nTotal citations as of January 2025:"
+    "text": "✓ indicates peer reviewed work"
   },
   {
     "objectID": "publications.html#selected-work",
     "href": "publications.html#selected-work",
     "title": "Publications",
     "section": "Selected Work",
-    "text": "Selected Work\nEinstein, A., Podolsky, B., & Rosen, N. (1935). Can quantum-mechanical description of physical reality be considered complete?. Physical review, 47(10), 777. [pdf] [code and data]   \n\n\n\n\n\n\nEinstein, A. (1965). Concerning an heuristic point of view toward the emission and transformation of light. American Journal of Physics, 33(5), 367. [pdf]"
+    "text": "Selected Work\nEinstein, A., Podolsky, B., & Rosen, N. (1935). Can quantum-mechanical description of physical reality be considered complete?. Physical review, 47(10), 777. [pdf] [code and data]  \n\n\n\n\n\n\nEinstein, A. (1965). Concerning an heuristic point of view toward the emission and transformation of light. American Journal of Physics, 33(5), 367. [pdf]"
   },
   {
     "objectID": "projects.html",
@@ -93,30 +93,30 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Quarto Academic, PhD",
+    "title": "Prof Dr. Christian Rauh",
     "section": "",
-    "text": "Lab\n  \n  \n    \n     Uprofile\n  \n  \n    \n     E-mail\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     YouTube\n  \n  \n      ORCID\n  \n  \n      Web of Science\n  \n  \n      Scopus\n  \n  \n      Google Scholar\n  \n\n  \n  \nI’m a Quarto Academeic Website Template adapted by Dr. Gang He.\nI’m a template that you can fork to build your own website with easy adaptation and deployment.\n\nStar this repository to bookmark it for future reference.\n\nFork this repository and rename it to YourGitHubUserName.github.io.\n\nUpdate the _quarto.yml file to configure your site’s basic settings.\n\nAdd or edit content in the following files and folders:\n\n/posts/ – posts about publications, news, events\n\nteaching.qmd – teaching information\n\nprojects.yml – research or other projects\n\npeople.qmd and /people/ – team or collaborators\n\n/files/ - profiles, images, pdfs, and includes\n\nRender and preview your site locally.\n\nPublish your site using GitHub Pages (make sure configuring your GitHub repository to publish from the docs directory, not the root folder).\nRefine and polish your content and design as needed.\n\n✅ Enjoy your new website!\n\n\n\n\nResearcher, Univerisity\n\n\n\n\n\nPhD, Univerisity"
+    "text": "WZB\n  \n  \n    \n     Mail\n  \n  \n    \n     LinkedIn\n  \n  \n      BlueSky\n  \n  \n    \n     GitHub\n  \n  \n      Google Scholar\n  \n  \n      ORCID\n  \n  \n      WoS\n  \n  \n      Research Gate\n  \n  \n    \n     YouTube\n  \n  \n    \n     Strava\n  \n\n  \n  \n\n\nI am a senior researcher in the Global Governance unit of the WZB Berlin Social Science Center and a Professor for the ‘Politics of Multilevel Governance’ at the University of Potsdam.\nMy research and teaching interests lie broadly at the intersection of EU studies, international relations and comparative politics. Key focus areas include:\n\nDecision-making of and in the European Commission\nPublic political debates about European and international institutions\nThe EU’s role in the international order\n\nMy work aims to combine solid theory with innovative empirical analysis. Luckily, this often involves the more immediate gratifications of a little programming, quantitative text analysis, and data visualization.\nThis website contains information on my professional bio, summarizes my academic record, provides replication data, and will once in a while offer some personal musings on politics and its scientific analysis.\nPlease do have a look and get in touch!"
   },
   {
     "objectID": "index.html#experience",
     "href": "index.html#experience",
-    "title": "Quarto Academic, PhD",
+    "title": "Prof Dr. Christian Rauh",
     "section": "",
-    "text": "Researcher, Univerisity"
+    "text": "03/2023-current\nS/W2 Professor for ‘Politics of Multilevel Governance’, University of Potsdam\n\n\n04/2012-current\nSenior research fellow, Research Unit ‘Global Governance’, WZB Berlin Social Science Center\n\n\n04/2020-09/2020\nProfessor of ‘International Politics and Law’ (interim), Freie Universität Berlin\n\n\n09/2008-03/2020\nResearcher\n\n\n\n|:—-|:—-| | 03/2023 - current | S/W2 Professor for ‘Politics of Multilevel Governance’, University of Potsdam | | 04/2012 - current | Senior research fellow, Research Unit ‘Global Governance’, WZB Berlin Social Science Center |"
   },
   {
     "objectID": "index.html#education",
     "href": "index.html#education",
-    "title": "Quarto Academic, PhD",
+    "title": "Prof Dr. Christian Rauh",
     "section": "",
     "text": "PhD, Univerisity"
   },
   {
     "objectID": "index.html#recent-posts",
     "href": "index.html#recent-posts",
-    "title": "Quarto Academic, PhD",
+    "title": "Prof Dr. Christian Rauh",
     "section": "Recent Posts",
-    "text": "Recent Posts\nCheck out the latest  Papers ,  News ,  Events , and  More »\n\n\n\n\n\n\n\n\n\n\nQuarto Academic Website Examples and Tips\n\n\n\nOct 15, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nEvent item\n\n\n\nSep 3, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nNews item\n\n\n\nJun 24, 2024\n\n\n\n\n\n\nNo matching items\n\n\nAll Posts »"
+    "text": "Recent Posts\nCheck out the latest  Papers ,  News ,  Events , and  More »\n\n\n\n\n\n\n\n\n\n\nQuarto Academic Website Examples and Tips\n\n\n\nOct 15, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEvent item\n\n\n\nSep 3, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNews item\n\n\n\nJun 24, 2024\n\n\n\n\n\n\n\n\nNo matching items\n\n\n\nAll Posts »"
   },
   {
     "objectID": "people.html",
@@ -138,5 +138,89 @@
     "title": "People",
     "section": "Alumni",
     "text": "Alumni\n\n\n   \n    \n    \n      Order By\n      Default\n      \n      \n      \n        Name\n      \n      \n        Role\n      \n      \n        Started\n      \n      \n        Ended\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n \n\n\n\nName\n\n\n\nRole\n\n\n\nStarted\n\n\n\nEnded\n\n\n\n\n\n\n\n\n\n\n\nAlumni A\n\n\nPhD Alumni\n\n\n2024\n\n\n2025\n\n\n\n\n\n\n\n\n\nAlumni B\n\n\nMasters Alumni\n\n\n2024\n\n\n2025\n\n\n\n\n\n\n\n\n\nAlumni C\n\n\nUndergraduate Alumni\n\n\n2024\n\n\n2025\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html#welcome-website-under-construction",
+    "href": "index.html#welcome-website-under-construction",
+    "title": "Prof Dr. Christian Rauh",
+    "section": "",
+    "text": "I am a senior researcher in the Global Governance unit of the WZB Berlin Social Science Center and a Professor for the ‘Politics of Multilevel Governance’ at the University of Potsdam.\nMy research and teaching interests lie broadly at the intersection of EU studies, international relations and comparative politics. Key focus areas include:\n\nDecision-making of and in the European Commission\nPublic political debates about European and international institutions\nThe EU’s role in the international order\n\nMy work aims to combine solid theory with innovative empirical analysis. Luckily, this often involves the more immediate gratifications of a little programming, quantitative text analysis, and data visualization.\nThis website contains information on my professional bio, summarizes my academic record, provides replication data, and will once in a while offer some personal musings on politics and its scientific analysis.\nPlease do have a look and get in touch!"
+  },
+  {
+    "objectID": "experience.html",
+    "href": "experience.html",
+    "title": "Experience and education",
+    "section": "",
+    "text": "03/2023-current\nS/W2 Professor for ‘Politics of Multilevel Governance’, University of Potsdam\n\n\n04/2012-current\nSenior research fellow, Research Unit ‘Global Governance’, WZB Berlin Social Science Center\n\n\n04/2020-09/2020\nProfessor of ‘International Politics and Law’ (interim), Freie Universität Berlin\n\n\n09/2008-03/2020\nPhD Researcher, Junior Research Group ‘Position Formation in the EU Commission’, WZB Berlin Social Science Center\n\n\n07/2006-05/2010\nOrganisation and supervision of simulations on political decision-making, EuroSoc GmbH - Think Tank for European Decisions\n\n\nsince 10/2005\nVarious teaching assignments at different European universities\n\n\n03/2005-10/2007\nManaging Editor, European Union Politics (Academic journal)\n\n\n08/2004-02/2005\nPolitical Consultant in EU affairs, Berlin Business Representation, Brussels"
+  },
+  {
+    "objectID": "experience.html#relevant-jobs",
+    "href": "experience.html#relevant-jobs",
+    "title": "Experience and education",
+    "section": "",
+    "text": "03/2023-current\nS/W2 Professor for ‘Politics of Multilevel Governance’, University of Potsdam\n\n\n04/2012-current\nSenior research fellow, Research Unit ‘Global Governance’, WZB Berlin Social Science Center\n\n\n04/2020-09/2020\nProfessor of ‘International Politics and Law’ (interim), Freie Universität Berlin\n\n\n09/2008-03/2020\nResearcher"
+  },
+  {
+    "objectID": "experience.html#education",
+    "href": "experience.html#education",
+    "title": "Experience and education",
+    "section": "Education",
+    "text": "Education\n \n\n\n\n\n\n\n\n01/2012\nDr. rer. pol., Freie Universität Berlin. Thesis ‘Politicisation, issue salience, and consumer policies of the European Commission’; Supervisors: Prof.Dr. Miriam Hartlapp / Prof. Dr. Michael Zürn; summa cum laude; Winner of the ECPR Jean Blondel Prize for the best thesis in politics 2013\n\n\n09/2009\nECPR Carlo Alberto Summer School on Analytical Politics, Moncalieri, Italy\n\n\n04/2008\nM.A. Politics and Management, University of Konstanz. Thesis: ‘From Chicago to Brussels: EU regulation of international air transport and the stock market performance of internationally operating airlines.’ Supervisor: Prof. Dr. Gerald Schneider; very good; Winner of the 2009 VEUK e.V. award for the best diploma thesis in politics and management\n\n\n06/2001\nA-levels, Hochrhein Gymnasium Waldshut(1,9)"
+  },
+  {
+    "objectID": "experience.html#relevant-employments",
+    "href": "experience.html#relevant-employments",
+    "title": "Experience and education",
+    "section": "Relevant employments",
+    "text": "Relevant employments\n \n\n\n\n\n\n\n\n03/2023-current\nS/W2 Professor for ‘Politics of Multilevel Governance’, University of Potsdam\n\n\n04/2012-current\nSenior research fellow, Research Unit ‘Global Governance’, WZB Berlin Social Science Center\n\n\n04/2020-09/2020\nProfessor of ‘International Politics and Law’ (interim), Freie Universität Berlin\n\n\n09/2008-03/2020\nPhD Researcher, Junior Research Group ‘Position Formation in the EU Commission’, WZB Berlin Social Science Center\n\n\n07/2006-05/2010\nOrganisation and supervision of simulations on political decision-making, EuroSoc GmbH - Think Tank for European Decisions\n\n\nsince 10/2005\nVarious teaching assignments at different European universities\n\n\n03/2005-10/2007\nManaging Editor, European Union Politics (Academic journal)\n\n\n08/2004-02/2005\nPolitical Consultant in EU affairs, Berlin Business Representation, Brussels"
+  },
+  {
+    "objectID": "experience.html#full-cv",
+    "href": "experience.html#full-cv",
+    "title": "Experience and education",
+    "section": "Full CV",
+    "text": "Full CV"
+  },
+  {
+    "objectID": "experience.html#employments",
+    "href": "experience.html#employments",
+    "title": "Experience and education",
+    "section": "",
+    "text": "03/2023-current\nS/W2 Professor for ‘Politics of Multilevel Governance’, University of Potsdam\n\n\n04/2012-current\nSenior research fellow, Research Unit ‘Global Governance’, WZB Berlin Social Science Center\n\n\n04/2020-09/2020\nProfessor of ‘International Politics and Law’ (interim), Freie Universität Berlin\n\n\n09/2008-03/2020\nPhD Researcher, Junior Research Group ‘Position Formation in the EU Commission’, WZB Berlin Social Science Center\n\n\n07/2006-05/2010\nOrganisation and supervision of simulations on political decision-making, EuroSoc GmbH - Think Tank for European Decisions\n\n\nsince 10/2005\nVarious teaching assignments at different European universities\n\n\n03/2005-10/2007\nManaging Editor, European Union Politics (Academic journal)\n\n\n08/2004-02/2005\nPolitical Consultant in EU affairs, Berlin Business Representation, Brussels"
+  },
+  {
+    "objectID": "experience.html#detailed-cv",
+    "href": "experience.html#detailed-cv",
+    "title": "Experience and education",
+    "section": "Detailed CV",
+    "text": "Detailed CV"
+  },
+  {
+    "objectID": "publications.html#books",
+    "href": "publications.html#books",
+    "title": "Publications",
+    "section": "Books",
+    "text": "Books\n\nA responsive technocracy? EU politicisation and the consumer policies of the European Commission. 2016. ECPR Press. ✓\nWhich policy for Europe? Power and conflict inside the European Commission. 2014. Oxford University Press. [With Miriam Hartlapp and Julia Metz] ✓"
+  },
+  {
+    "objectID": "publications.html#journal-articles",
+    "href": "publications.html#journal-articles",
+    "title": "Publications",
+    "section": "Journal articles",
+    "text": "Journal articles\n\nInternational recognition of European Union “actorness”: Language-based evidence from United Nations general debate speeches 1970–2020. International Interactions: Online First.\nConverging on Europe? The European Union in mediatised debates during the COVID-19 and Ukraine shocks. Journal of European Public Policy 31(10): 3036-3065. [With Michal Parizek]\n\nComparative European legislative research in the age of large-scale computational text analysis: A review article. International Political Science Review 46(1): 18-39. [with Miklós Sebők, Sven-Oliver Proksch, Péter Visnovitz, Gergő Balázs, and Jan Schwalbach]\nClear messages to the European Public? The language of European Commission press releases 1985–2020. Journal of European Integration 45(4): 683-701.\nA bird’s eye view: Supranational EU actors on Twitter. Politics and Governance 10(1): 133-45. [With Sina F. Özdemir]\nSupranational emergency politics? What executives’ public crisis communication may tell us. Journal of European Public Policy 29(6): 966-978.\nOne agenda-setter or many? The varying success of policy initiatives by individual Directorates-General of the European Commission 1994–2016. European Union Politics 22(1): 3-24.\nGoing full circle: the need for procedural perspectives on EU responsiveness. Journal of European Public Policy 26(11): 1737-1748. [With Pieter De Wilde]\nAuthority, Politicization, and Alternative Justifications: Endogenous Legitimation Dynamics in Global Economic Governance. Review of International Political Economy 27(3): 583-611. [With Michael Zürn]\nUndermining, defusing, or defending European integration? Assessing public communication of European executives in times of EU politicization. European Journal of Political Research 59(2): 397-423. [With Bart Joachim Bes and Martijn Schoonvelde]\nValidating a sentiment dictionary for German political language - a workbench note. Journal of Information Technology & Politics 15(4): 319-343 .\nEU politicization and policy initiatives of the European Commission: the case of consumer policy. Journal of European Public Policy 26(3): 344-365 .\nThe Opposition deficit in EU accountability: Evidence from over 20 years of plenary debate in four member states.European Journal of Political Research 57(1): 194-216. [With Pieter De Wilde]\nHas Eurosceptic Mobilization Become More Contagious? Comparing the 2009 and 2014 EP election campaigns in The Netherlands and France. Politics and Governance 4(1): 83-103. [With Maurits Meijers]\nWer mäßigt den Agenda-Setter im EU-System und wie? Drei Modi der Positionsbildung in der EU-Kommission. Zeitschrift für Politikwissenschaft 26(S1): 85-98. [With Miriam Hartlapp and Julia Metz]\nCommunicating supranational governance? The salience of EU affairs in the German Bundestag, 1991-2013. European Union Politics 16(1): 116-138.\nThere is no such thing as a free open sky: Financial markets and the struggle over European competences in international air transport. Journal of Common Market Studies 51(6): 1124–1140. [With Gerald Schneider]\nThe Commission’s internal conditions for social re-regulation: Market efficiency and wider social goals in setting the rules for financial services in Europe. European Journal of Government and Economics 2(1): 25-40. [With Miriam Hartlapp].\nLinking Agenda Setting to Coordination Structures: Bureaucratic Politics inside the European Commission. Journal of European Integration 35(4): 425-441. [With Miriam Hartlapp and Julia Metz]\nPolitical Parties and Higher Education Spending: Who Favours Redistribution? West European Politics 34 (6): 1185-1206 [With Antje Kirchner and Roland Kappe]"
+  },
+  {
+    "objectID": "publications.html#chapters",
+    "href": "publications.html#chapters",
+    "title": "Publications",
+    "section": "Chapters",
+    "text": "Chapters\n\nResponsiveness. In Brandsma, Gijs Jan (ed.) Handbook on European Union Public Administration. Cheltenham, UK: Edward Elgar Publishing Ltd. [with Reinout van Der Veer]\nCollecting large-scale comparative text data on legislative debates. In H. Bäck, M. Debus, and J.M. Fernandes (eds.) The Politics of Legislative Debate. Oxford, UK: Oxford University Press. [With Jan Schwalbach]\nBetween neo-functionalist optimism and post-functionalist pessimism: Integrating politicisation into integration theory. In Nathalie Brack and Seda Gürkan (eds.) Theorizing the Crises of the European Union. Abingdon-on-Thames, UK: Routledge\nThe Commission services: a powerful permanent bureaucracy. In: Dermot Hodson and John Peterson (eds.) The institutions of the European Union, 4th ed. Oxford, UK: Oxford University Press. [With Liesbet Hooghe]\nInternationale Organisationen in der deutschen Öffentlichkeit - ein Text Mining Ansatz. In: M. Lemke and G. Wiedemann (eds.) Text-Mining in den Sozialwissenschaften. Grundlagen und Anwendungen zwischen qualitativer und quantitativer Diskursanalyse: 289-314. Wiesbaden: Springer VS. [With Sebastian Bödeker]\nDie Politisierung der Europäischen Union als Chance nutzen. In: Claudio Franzius, Franz C. Mayer, Jürgen Neyer (eds.) Modelle des Parlamentarismus im 21. Jahrhundert: 469-486. Baden-Baden: Nomos. [With Michael Zürn]. Reprinted in integration 39(1): 3-12.\nZur Politisierung der EU in der Krise. In: M. Heidenreich (ed.) Krise der europäischen Vergesellschaftung? Soziologische Perspektiven: 121-145. Wiesbaden: Springer VS. [With Michael Zürn]"
+  },
+  {
+    "objectID": "publications.html#other-selected",
+    "href": "publications.html#other-selected",
+    "title": "Publications",
+    "section": "Other (selected)",
+    "text": "Other (selected)\n\nWidersprüchliche Signale; Wie EU-Staaten vor dem Ukrainekrieg über Russland sprachen. WZB Mitteilungen 176: 45-8. [With Johannes Scherzinger]\nThe ParlSpeech V2 data set: Full-text corpora of 6.3 million parliamentary speeches in the key legislative chambers of nine representative democracies. V1, Harvard Dataverse. [With Jan Schwalbach]\nAutorität ohne Rückhalt: Das Legitimatätsdefizit internationaler Organisationen. WZB Mitteilungen 167. [With Michael Zürn]\nUntergraben, verschleiern, verteidigen: Politische Kommunikation zur Europäischen Union. WZB Mitteilungen 165: 34-5.\nChristina J. Schneider: The Responsive Union. National Elections and European Governance. Cambridge: Cambridge University Press 2018 [Book review]. Review of International Organizations: Online First.\nThe ParlSpeech data set: Annotated full-text vectors of 3.9 million plenary speeches in the key legislative chambers of seven European states. V1, Harvard Dataverse. [With Pieter De Wilde and Jan Schwalbach]\nDie schiere Menge sagt noch nichts: Big Data in den Sozialwissenschaften. WZB Mitteilungen 150: 6-9. [With Alexandros Tokhi]\nBrüssel im Bundestag: Wann spricht wer über die Europäische Union? WZB-Mitteilungen 148: 20-22.\nLegitimität und Politisierung globaler Steuerung. Informationen zur Politischen Bildung 2015/1 (325): 25-28.\nLegitimationsprobleme im Früheuropäismus. Frankfurter Allgemeine Zeitung (18.05.2014): 6. [With Michael Zürn]\nÜber den Tellerrand: Zunehmend werden auch die Entscheidungen internationaler Institutionen öffentlich politisiert. WZB-Mitteilungen 141: 21-23. [With Pieter de Wilde]\nUnd sie hört doch hin – manchmal. Öffentliche Debatten können die Politik der EU-Kommission beeinflussen. WZB-Mitteilungen 139: 29-31\nPolitisieren lassen oder politisieren? Die europäische Öffentlichkeit fordert ihr Recht. Neue Gesellschaft/Frankfurter Hefte 60 (1/2): 53-6\nHow External Interests Enter the European Commission. Mechanisms at Play in Legislative Position Formation. WZB Discussion Paper SP IV 2010-501 [With Miriam Hartlapp and Julia Metz]\nMade in Brussels. Wie externe Interessen ihren Weg in die Politikformulierung der EU Kommission finden. WZB-Mitteilungen 130: 7-10 [With Miriam Hartlapp and Julia Metz]\nThe Agenda Set by the EU Commission. The Result of Balanced or Biased Aggregation of Positions? LSE ‘Europe in Question’ Discussion Paper Series 21/2010 [With Miriam Hartlapp and Julia Metz]\nThe Repeatedly Low Turnout in EP Elections. Political Elites Fail in Politicising Citizens. A Different View - IAPSS Monthly News Magazine 31: 3-5\n\nNotes: * corresponding author; GS graduate student advisee; VS visiting scholar;  ESI Highly Cited Paper (top 1%);  ESI Hot Paper (top 0.1%)\nTotal citations as of August 2025:\n\nWeb of Science: 100,000 (h-index = 100)\n\nGoogle Scholar: 179,000 (h-index = 127, i10-index = 377)"
   }
 ]
