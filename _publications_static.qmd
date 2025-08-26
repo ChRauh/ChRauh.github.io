@@ -1,0 +1,148 @@
+---
+title: "Publications"
+description-meta: "Information, pdfs, and social metrics of papers"
+#page-layout: full
+#back-to-top-navigation: true
+title-block-banner: true
+css: custom.css
+---
+
+<!-- Badges: https://drganghe.github.io/quarto-academic-site-examples.html#useful-tips-for-building-an-academic-quarto-site -->
+
+<!--Include academic icons or buttons-->
+
+{{< include /files/includes/_academic.qmd >}} 
+
+
+**✓** *indicates peer reviewed work* 
+
+
+## Books
+
+-   A responsive technocracy? EU politicisation and the consumer policies of the European Commission. 2016. ECPR Press. ✓
+
+-   Which policy for Europe? Power and conflict inside the European Commission. 2014. Oxford University Press. \[With *Miriam Hartlapp* and *Julia Metz*\] ✓
+
+## Journal articles
+
+-   International recognition of European Union “actorness”: Language-based evidence from United Nations general debate speeches 1970–2020. International Interactions: Online First.
+
+-   Converging on Europe? The European Union in mediatised debates during the COVID-19 and Ukraine shocks. Journal of European Public Policy 31(10): 3036-3065. \[With Michal Parizek\]\
+
+
+-   Comparative European legislative research in the age of large-scale computational text analysis: A review article. International Political Science Review 46(1): 18-39. \[with Miklós Sebők, Sven-Oliver Proksch, Péter Visnovitz, Gergő Balázs, and Jan Schwalbach\]
+
+-   Clear messages to the European Public? The language of European Commission press releases 1985–2020. Journal of European Integration 45(4): 683-701.
+
+-   A bird’s eye view: Supranational EU actors on Twitter. Politics and Governance 10(1): 133-45. \[With Sina F. Özdemir\]
+
+-   Supranational emergency politics? What executives’ public crisis communication may tell us. Journal of European Public Policy 29(6): 966-978.
+
+-   One agenda-setter or many? The varying success of policy initiatives by individual Directorates-General of the European Commission 1994–2016. European Union Politics 22(1): 3-24.
+
+-   Going full circle: the need for procedural perspectives on EU responsiveness. Journal of European Public Policy 26(11): 1737-1748. \[With Pieter De Wilde\]
+
+-   Authority, Politicization, and Alternative Justifications: Endogenous Legitimation Dynamics in Global Economic Governance. Review of International Political Economy 27(3): 583-611. \[With Michael Zürn\]
+
+-   Undermining, defusing, or defending European integration? Assessing public communication of European executives in times of EU politicization. European Journal of Political Research 59(2): 397-423. \[With Bart Joachim Bes and Martijn Schoonvelde\]
+
+-   Validating a sentiment dictionary for German political language - a workbench note. Journal of Information Technology & Politics 15(4): 319-343 .
+
+-   EU politicization and policy initiatives of the European Commission: the case of consumer policy. Journal of European Public Policy 26(3): 344-365 .
+
+-   The Opposition deficit in EU accountability: Evidence from over 20 years of plenary debate in four member states.European Journal of Political Research 57(1): 194-216. \[With Pieter De Wilde\]
+
+-   Has Eurosceptic Mobilization Become More Contagious? Comparing the 2009 and 2014 EP election campaigns in The Netherlands and France. Politics and Governance 4(1): 83-103. \[With Maurits Meijers\]
+
+-   Wer mäßigt den Agenda-Setter im EU-System und wie? Drei Modi der Positionsbildung in der EU-Kommission. Zeitschrift für Politikwissenschaft 26(S1): 85-98. \[With Miriam Hartlapp and Julia Metz\]
+
+-   Communicating supranational governance? The salience of EU affairs in the German Bundestag, 1991-2013. European Union Politics 16(1): 116-138.
+
+-   There is no such thing as a free open sky: Financial markets and the struggle over European competences in international air transport. Journal of Common Market Studies 51(6): 1124–1140. \[With Gerald Schneider\]
+
+-   The Commission’s internal conditions for social re-regulation: Market efficiency and wider social goals in setting the rules for financial services in Europe. European Journal of Government and Economics 2(1): 25-40. \[With Miriam Hartlapp\].
+
+-   Linking Agenda Setting to Coordination Structures: Bureaucratic Politics inside the European Commission. Journal of European Integration 35(4): 425-441. \[With Miriam Hartlapp and Julia Metz\]
+
+-   Political Parties and Higher Education Spending: Who Favours Redistribution? West European Politics 34 (6): 1185-1206 \[With Antje Kirchner and Roland Kappe\]
+
+## Chapters
+
+-   Responsiveness. In Brandsma, Gijs Jan (ed.) Handbook on European Union Public Administration. Cheltenham, UK: Edward Elgar Publishing Ltd. \[with Reinout van Der Veer\]
+
+-   Collecting large-scale comparative text data on legislative debates. In H. Bäck, M. Debus, and J.M. Fernandes (eds.) The Politics of Legislative Debate. Oxford, UK: Oxford University Press. \[With Jan Schwalbach\]
+
+-   Between neo-functionalist optimism and post-functionalist pessimism: Integrating politicisation into integration theory. In Nathalie Brack and Seda Gürkan (eds.) Theorizing the Crises of the European Union. Abingdon-on-Thames, UK: Routledge
+
+-   The Commission services: a powerful permanent bureaucracy. In: Dermot Hodson and John Peterson (eds.) The institutions of the European Union, 4th ed. Oxford, UK: Oxford University Press. \[With Liesbet Hooghe\]
+
+-   Internationale Organisationen in der deutschen Öffentlichkeit - ein Text Mining Ansatz. In: M. Lemke and G. Wiedemann (eds.) Text-Mining in den Sozialwissenschaften. Grundlagen und Anwendungen zwischen qualitativer und quantitativer Diskursanalyse: 289-314. Wiesbaden: Springer VS. \[With Sebastian Bödeker\]
+
+-   Die Politisierung der Europäischen Union als Chance nutzen. In: Claudio Franzius, Franz C. Mayer, Jürgen Neyer (eds.) Modelle des Parlamentarismus im 21. Jahrhundert: 469-486. Baden-Baden: Nomos. \[With Michael Zürn\]. Reprinted in integration 39(1): 3-12.
+
+-   Zur Politisierung der EU in der Krise. In: M. Heidenreich (ed.) Krise der europäischen Vergesellschaftung? Soziologische Perspektiven: 121-145. Wiesbaden: Springer VS. \[With Michael Zürn\]
+
+## Other (selected)
+
+-   Widersprüchliche Signale; Wie EU-Staaten vor dem Ukrainekrieg über Russland sprachen. WZB Mitteilungen 176: 45-8. \[With Johannes Scherzinger\]
+
+-   The ParlSpeech V2 data set: Full-text corpora of 6.3 million parliamentary speeches in the key legislative chambers of nine representative democracies. V1, Harvard Dataverse. \[With Jan Schwalbach\]
+
+-   Autorität ohne Rückhalt: Das Legitimatätsdefizit internationaler Organisationen. WZB Mitteilungen 167. \[With Michael Zürn\]
+
+-   Untergraben, verschleiern, verteidigen: Politische Kommunikation zur Europäischen Union. WZB Mitteilungen 165: 34-5.
+
+-   Christina J. Schneider: The Responsive Union. National Elections and European Governance. Cambridge: Cambridge University Press 2018 \[Book review\]. Review of International Organizations: Online First.
+
+-   The ParlSpeech data set: Annotated full-text vectors of 3.9 million plenary speeches in the key legislative chambers of seven European states. V1, Harvard Dataverse. \[With Pieter De Wilde and Jan Schwalbach\]
+
+-   Die schiere Menge sagt noch nichts: Big Data in den Sozialwissenschaften. WZB Mitteilungen 150: 6-9. \[With Alexandros Tokhi\]
+
+-   Brüssel im Bundestag: Wann spricht wer über die Europäische Union? WZB-Mitteilungen 148: 20-22.
+
+-   Legitimität und Politisierung globaler Steuerung. Informationen zur Politischen Bildung 2015/1 (325): 25-28.
+
+-   Legitimationsprobleme im Früheuropäismus. Frankfurter Allgemeine Zeitung (18.05.2014): 6. \[With Michael Zürn\]
+
+* Über den Tellerrand: Zunehmend werden auch die Entscheidungen internationaler Institutionen öffentlich politisiert. WZB-Mitteilungen 141: 21-23. \[With Pieter de Wilde\]
+
+* Und sie hört doch hin – manchmal. Öffentliche Debatten können die Politik der EU-Kommission beeinflussen. WZB-Mitteilungen 139: 29-31
+
+* Politisieren lassen oder politisieren? Die europäische Öffentlichkeit fordert ihr Recht. Neue Gesellschaft/Frankfurter Hefte 60 (1/2): 53-6
+
+* How External Interests Enter the European Commission. Mechanisms at Play in Legislative Position Formation. WZB Discussion Paper SP IV 2010-501 \[With Miriam Hartlapp and Julia Metz\]
+
+* Made in Brussels. Wie externe Interessen ihren Weg in die Politikformulierung der EU Kommission finden. WZB-Mitteilungen 130: 7-10 \[With Miriam Hartlapp and Julia Metz\]
+
+-   The Agenda Set by the EU Commission. The Result of Balanced or Biased Aggregation of Positions? LSE 'Europe in Question' Discussion Paper Series 21/2010 \[With Miriam Hartlapp and Julia Metz\]
+
+-   The Repeatedly Low Turnout in EP Elections. Political Elites Fail in Politicising Citizens. A Different View - IAPSS Monthly News Magazine 31: 3-5
+
+Notes: \* corresponding author; <sup>GS</sup> graduate student advisee; <sup>VS</sup> visiting scholar; ![](https://drganghe.github.io/files/images/highly-cited-paper-badge.png "ESI Highly Cited Paper"){width="20" fig-alt="Highly cited paper"} ESI [Highly Cited Paper](https://webofscience.help.clarivate.com/en-us/Content/esi-highly-cited-papers.html) (top 1%); ![](https://drganghe.github.io/files/images/hot-paper-badge.png "ESI Hot Paper"){width="20" fig-alt="Hot paper"} ESI [Hot Paper](https://webofscience.help.clarivate.com/en-us/Content/esi-hot-papers.html) (top 0.1%)
+
+Total citations as of August 2025:
+
+-   [Web of Science](https://www.webofscience.com): 100,000 (h-index = 100)\
+-   [Google Scholar](https://scholar.google.com/citations?user=qc6CJjYAAAAJ&hl=en): 179,000 (h-index = 127, i10-index = 377)
+
+## Selected Work
+
+Einstein, A., Podolsky, B., & Rosen, N. (1935). [Can quantum-mechanical description of physical reality be considered complete?](posts/paper-title/index.qmd). *Physical review*, 47(10), 777. \[[pdf](https://scholar.google.com/)\] \[[code and data](https://doi.org)\] ![](https://drganghe.github.io/files/images/highly-cited-paper-badge.png "ESI Highly Cited Paper"){width="20" fig-alt="Highly cited paper"} ![](https://drganghe.github.io/files/images/hot-paper-badge.png "ESI Hot Paper"){width="20" fig-alt="Hot paper"}
+
+::: {.altmetric-embed data-badge-popover="right" data-badge-type="1" data-doi="10.1103/PhysRev.47.777" data-hide-no-mentions="true"}
+:::
+
+<center>
+
+<hr style="width:50%">
+
+</center>
+
+Einstein, A. (1965). Concerning an heuristic point of view toward the emission and transformation of light. *American Journal of Physics*, 33(5), 367. \[[pdf](https://icg.isy.liu.se/en/phd-courses/quantum_foundations/references/Einstein1905b.pdf)\]
+
+::: {.altmetric-embed data-badge-popover="right" data-badge-type="1" data-doi="10.1038/s41560-023-01304-w" data-hide-no-mentions="true"}
+:::
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}
