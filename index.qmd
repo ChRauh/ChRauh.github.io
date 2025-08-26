@@ -97,20 +97,6 @@ This website contains information on my professional bio, summarizes my academic
 
 Please do have a look and get in touch!
 
-<!-- ## Experience -->
-
-<!-- | -->
-<!-- -----|----- -->
-<!-- 03/2023-*current*|**S/W2 Professor for ‘Politics of Multilevel Governance’**, University of Potsdam -->
-<!-- 04/2012-*current*|**Senior research fellow**, Research Unit 'Global Governance', WZB Berlin Social Science Center -->
-<!-- 04/2020-09/2020|**Professor of 'International Politics and Law' (interim)**, Freie Universität Berlin -->
-<!-- 09/2008-03/2020|**Researcher** -->
-
-<!-- |:----|:----| -->
-<!-- | 03/2023 - current | S/W2 Professor for ‘Politics of Multilevel Governance’, University of Potsdam | -->
-<!-- | 04/2012 - current | Senior research fellow, Research Unit 'Global Governance', WZB Berlin Social Science Center | -->
-
-
 
 :::
 

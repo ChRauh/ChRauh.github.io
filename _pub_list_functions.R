@@ -2,6 +2,7 @@ library(htmltools)
 library(stringr)
 library(dplyr)
 library(readr)
+library(tidyverse)
 library(fontawesome)
 
 knitr::opts_chunk$set(
@@ -28,6 +29,22 @@ get_cites <- function(url) {
   return(cites)
 }
 
+get_cite_count <- function(url) {
+  citations <- 
+    xml2::read_html(url) %>% 
+    rvest::html_elements("div.gs_ab_mdw") %>%   # CSS selector, several of those
+    rvest::html_text2() %>% 
+    keep(~ str_detect(.x, regex("\\bresults\\b", ignore_case = TRUE))) %>% # Filter results counter
+    first() %>% 
+    str_extract("[0-9]{1,5}") %>% # First number in there, up to 99k citations ;)
+    as.numeric()
+  return(glue::glue(
+    '**GS citations: *{citations}***'
+  ))
+}
+
+
+
 get_pubs <- function() {
     # pubs <- gsheet::gsheet2tbl(
     #     url = 'https://docs.google.com/spreadsheets/d/1BVjjPqwwBmiaMBF_aFhB3hbpAThQuz2cenXxDjshXaQ/edit?usp=sharing')
@@ -50,7 +67,7 @@ make_citations <- function(pubs) {
 
 make_citation <- function(pub) {
   if (!is.na(pub$source)) {
-    pub$source <- glue::glue('_{pub$source}_.')
+    pub$source <- glue::glue('_{pub$source}_, ')
   }
   if (!is.na(pub$number)) {
     pub$number <- glue::glue('{pub$number}.')
@@ -60,10 +77,13 @@ make_citation <- function(pub) {
   }
   pub$year <- glue::glue("({pub$year})")
   pub$title <- glue::glue('"{pub$title}"')
+  if (!is.na(pub$eds)) {
+    pub$eds <- glue::glue('{pub$eds}')
+  }
   pub[,which(is.na(pub))] <- ''
   return(paste(
-    pub$author, pub$year, pub$title, pub$source, 
-    pub$number, pub$doi
+    pub$author, pub$year, pub$title, pub$eds, pub$source, 
+    pub$number, pub$reviewed
   ))
 }
 
@@ -90,7 +110,9 @@ make_pub_list <- function(pubs, category) {
     for (i in 1:nrow(x)) {
       pub_list[[i]] <- make_pub(x[i,], index = i)
     }
-    return(htmltools::HTML(paste(unlist(pub_list), collapse = "")))
+    return(htmltools::HTML(paste(unlist(pub_list), collapse = "<br>")%>% 
+                             str_replace_all("<ol", "<ul") %>% # I want an unordered list, the dirty way
+                             str_replace_all("ol>", "ul>")))
 }
 
 make_pub <- function(pub, index = NULL) {
@@ -117,8 +139,9 @@ make_pub <- function(pub, index = NULL) {
 
 make_altmetric <- function(pub) {
   altmetric <- ""
-  if (pub$category == 'Journal article') {
-    altmetric <- glue::glue('<div data-badge-type="donut" data-doi="{pub$doi}" data-hide-no-mentions="true" class="altmetric-embed"></div>')
+  # if (pub$category == 'Journal article') { # Basically I want it for everything that has a doi
+  if (!is.na(pub$doi)) {
+    altmetric <- glue::glue('<div data-badge-type="donut" data-doi="{pub$doi}" data-hide-no-mentions="true" data-badge-popover="right" class="altmetric-embed"></div>')
   }
   return(altmetric)
 }
@@ -181,7 +204,7 @@ make_icons <- function(pub) {
   html <- c()
   if (pub$summary) {
     html <- c(html, as.character(icon_link(
-      icon = "fas fa-external-link-alt",
+      icon = "fa fa-link",
       text = "Summary",
       url  = pub$url_summary, 
       class = "icon-link-summary", 
@@ -190,21 +213,21 @@ make_icons <- function(pub) {
   }
   if (!is.na(pub$url_pub)) {
     html <- c(html, as.character(icon_link(
-      icon = "fas fa-external-link-alt",
+      icon = "fa fa-link",
       text = "View",
       url  = pub$url_pub
     )))
   }
   if (!is.na(pub$url_pdf)) {
     html <- c(html, as.character(icon_link(
-      icon = "fa fa-file-pdf",
+      icon = "fa fa-file",
       text = "PDF",
       url  = pub$url_pdf
     )))
   }
   if (!is.na(pub$url_repo)) {
     html <- c(html, as.character(icon_link(
-      icon = "fab fa-github",
+      icon = "fa fa-github",
       text = "Code & Data",
       url  = pub$url_repo
     )))
@@ -220,19 +243,26 @@ make_icons <- function(pub) {
     html <- c(html, as.character(icon_link(
       icon = "ai ai-researchgate",
       # text = "&nbsp;",
-      text = "RG",
+      text = "Research Gate",
       url  = pub$url_rg
     )))
   }
   if (!is.na(pub$url_scholar)) {
     html <- c(html, as.character(icon_link(
       icon = "ai ai-google-scholar",
-      # text = "&nbsp;",
-      text = "Scholar",
+      text = "Google Scholar",
+      # text = get_cite_count(pub$url_gs), # Works in principle, but Google blocks off bc too many requests ...
       url  = pub$url_scholar
     )))
   }
-  return(paste(html, collapse = ""))
+  if (!is.na(pub$doi)) {
+    html <- c(html, as.character(icon_link(
+      icon = "ai ai-crossref",
+      text = paste0("CrossRef citations: ", rcrossref::cr_citation_count(doi = pub$doi)[1,2]), # Slows down rendering, of course
+      url  = paste0("https://search.crossref.org/?from_ui=yes&q=", pub$doi  %>% str_replace_all(fixed("/"), "%2F"))
+    )))
+  }
+  return(paste(html, collapse = "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"))
 }
 
 # The icon_link() function is in {distilltools}, but I've modified this
@@ -244,13 +274,14 @@ icon_link <- function(
   text = NULL,
   url = NULL,
   class = "icon-link",
-  target = "_blank"
+  target = "_blank",
+  style = "text-decoration: none; color: #003399"
 ) {
   if (!is.null(icon)) {
     text <- make_icon_text(icon, text)
   }
   return(htmltools::a(
-    href = url, text, class = class, target = target, rel = "noopener"
+    href = url, text, class = class, target = target, rel = "noopener", style = style
   ))
 }
 
@@ -272,21 +303,39 @@ last_updated <- function() {
   )
 }
 
-make_media_list <- function() {
-  media <- gsheet::gsheet2tbl(
-    url = 'https://docs.google.com/spreadsheets/d/1xyzgW5h1rVkmtO1rduLsoNRF9vszwfFZPd72zrNmhmU/edit#gid=2088158801')
-  temp <- media %>% 
-    mutate(
-      date = format(date, format = "%b %d, %Y"), 
-      outlet = paste0("**", outlet, "**"),
-      post = paste0("- ", date, " - ", outlet, ": ", post)
-    )
-  return(paste(temp$post, collapse = "\n"))
-}
+
 
 
 # pubs <- get_pubs()
 # test <- make_pub_list(pubs, "Other")
+# test <- test %>% str_replace_all("<ol", "<ul") %>% str_replace_all("ol>", "ul>")
 # writeLines(test, "_testpub.html")
 
 
+# cites <- get_cites("https://scholar.google.de/citations?hl=de&user=kIwmmTAAAAAJ")
+# paste0("**<a href = \"https://scholar.google.de/citations?hl=en&user=kIwmmTAAAAAJ\">Google Scholar:</a>**  *Citations*: ", cites[1,1], "  -  *H-Index:* ", cites[1,2], "  -  i10-Index: ", cites[1,3])
+
+
+# Crossref citations (hinges on DOI, though)
+# https://docs.ropensci.org/rcrossref/articles/rcrossref.html
+# library(rcrossref)
+# cr_citation_count(doi = "10.1080/13501763.2024.2344849")
+
+
+# GS citations
+# https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1236898548868579695,13525180722372907951,14135509442548774749
+# get_cite_count <- function(url) {
+#   citations <- 
+#     xml2::read_html(url) %>% 
+#     rvest::html_elements("div.gs_ab_mdw") %>%   # CSS selector, several of those
+#     rvest::html_text2() %>% 
+#     keep(~ str_detect(.x, regex("\\bresults\\b", ignore_case = TRUE))) %>% # Filter results counter
+#     first() %>% 
+#     str_extract("[0-9]{1,5}") %>% # First number in there, up to 99k citations ;)
+#     as.numeric()
+#   return(glue::glue(
+#     '**GS citations: *{citations}***'
+#   ))
+# }
+# 
+# get_cite_count("https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1236898548868579695,13525180722372907951,14135509442548774749")

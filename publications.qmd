@@ -21,9 +21,6 @@ toc-location: right
 {{< include /files/includes/_academic.qmd >}} 
 
 
-**✓** *indicates peer reviewed work* 
-
-
 <!-- Remove margin under list items -->
 
 <style>
@@ -52,10 +49,19 @@ pubs <- get_pubs()
 
 <center>
 
+**&#10003;** *indicates peer reviewed work* 
 
-`r htmltools::HTML(paste0(icon_link(icon = "ai ai-google-scholar", text = "Google Scholar", url  = "https://scholar.google.com/citations?user=DY2D56IAAAAJ"), icon_link(icon = "ai ai-orcid", text = "ORCID", url  = "https://orcid.org/0000-0002-2657-9191"), icon_link(icon = "ai ai-researchgate", text = "Research Gate", url = "https://www.researchgate.net/profile/John_Helveston")))`
+Publication and citation data last updated: `r Sys.Date()`
+
+<div style="font-size: 1.5em">
+`r htmltools::HTML(paste0(icon_link(icon = "ai ai-google-scholar", text = " ", url  = "https://scholar.google.com/citations?user=kIwmmTAAAAAJ"), "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;" ,icon_link(icon = "ai ai-orcid", text = " ", url  = "https://orcid.org/0000-0001-9357-9506"), "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;" ,icon_link(icon = "ai ai-researchgate", text = " ", url = "https://www.researchgate.net/profile/Christian-Rauh"), "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;", icon_link(icon = "ai ai-clarivate", text = " ", url = "https://www.webofscience.com/wos/author/record/AAG-9839-2019")))`
+</div>
 
 <br>
+
+
+
+
 
 </center>
 
@@ -64,46 +70,28 @@ pubs <- get_pubs()
 ## Books
 
 `r make_pub_list(pubs, "Book")`
+<br>
 
 ## Journal Articles
 
 `r make_pub_list(pubs, "Journal article")`
+<br>
 
-## Chapters
+## Book chapters
 
 `r make_pub_list(pubs, "Book chapter")`
+<br>
 
-## Other
+## Other publications
 
 `r make_pub_list(pubs, "Other")`
+<br>
 
-
-
-Notes: \* corresponding author; <sup>GS</sup> graduate student advisee; <sup>VS</sup> visiting scholar; ![](https://drganghe.github.io/files/images/highly-cited-paper-badge.png "ESI Highly Cited Paper"){width="20" fig-alt="Highly cited paper"} ESI [Highly Cited Paper](https://webofscience.help.clarivate.com/en-us/Content/esi-highly-cited-papers.html) (top 1%); ![](https://drganghe.github.io/files/images/hot-paper-badge.png "ESI Hot Paper"){width="20" fig-alt="Hot paper"} ESI [Hot Paper](https://webofscience.help.clarivate.com/en-us/Content/esi-hot-papers.html) (top 0.1%)
-
-Total citations as of August 2025:
-
--   [Web of Science](https://www.webofscience.com): 100,000 (h-index = 100)\
--   [Google Scholar](https://scholar.google.com/citations?user=qc6CJjYAAAAJ&hl=en): 179,000 (h-index = 127, i10-index = 377)
-
-## Selected Work
-
-Einstein, A., Podolsky, B., & Rosen, N. (1935). [Can quantum-mechanical description of physical reality be considered complete?](posts/paper-title/index.qmd). *Physical review*, 47(10), 777. \[[pdf](https://scholar.google.com/)\] \[[code and data](https://doi.org)\] ![](https://drganghe.github.io/files/images/highly-cited-paper-badge.png "ESI Highly Cited Paper"){width="20" fig-alt="Highly cited paper"} ![](https://drganghe.github.io/files/images/hot-paper-badge.png "ESI Hot Paper"){width="20" fig-alt="Hot paper"}
-
-::: {.altmetric-embed data-badge-popover="right" data-badge-type="1" data-doi="10.1103/PhysRev.47.777" data-hide-no-mentions="true"}
-:::
-
+## Citation metrics
 <center>
-
-<hr style="width:50%">
-
+`r # cites <- get_cites("https://scholar.google.de/citations?hl=en&user=kIwmmTAAAAAJ")`
+`r # paste0("**<a href = \"https://scholar.google.de/citations?hl=en&user=kIwmmTAAAAAJ\">Google Scholar:</a>**<br>*Citations*:&nbsp;", cites[1,1], "&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;*H-Index:*&nbsp;", cites[1,2], "&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;i10-Index:&nbsp;", cites[1,3])`
+<br>
+<br>
+[Web of Science Author Record](https://www.webofscience.com/wos/author/record/AAG-9839-2019)
 </center>
-
-Einstein, A. (1965). Concerning an heuristic point of view toward the emission and transformation of light. *American Journal of Physics*, 33(5), 367. \[[pdf](https://icg.isy.liu.se/en/phd-courses/quantum_foundations/references/Einstein1905b.pdf)\]
-
-::: {.altmetric-embed data-badge-popover="right" data-badge-type="1" data-doi="10.1038/s41560-023-01304-w" data-hide-no-mentions="true"}
-:::
-
-<!--Include social share buttons-->
-
-{{< include /files/includes/_socialshare.qmd >}}
