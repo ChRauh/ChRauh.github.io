@@ -14,10 +14,7 @@ toc: true
 toc-location: right
 ---
 
-<!-- Badges: https://drganghe.github.io/quarto-academic-site-examples.html#useful-tips-for-building-an-academic-quarto-site -->
-
 <!--Include academic icons or buttons-->
-
 {{< include /files/includes/_academic.qmd >}} 
 
 

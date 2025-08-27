@@ -1,6 +1,6 @@
 ---
 title: "Prof Dr. Christian Rauh"
-description-meta: "Personal Website of Prof. Dr. Christian Rauh"
+description-meta: " Website - Christian Rauh"
 image: "files/images/CR_Portrait_round.png"
 page-navigation: false
 toc: false
@@ -10,7 +10,7 @@ page-layout: full
 about:
   id: hero-heading
   template: trestles
-  image-width: 90%
+  image-width: 60%
   links:
     - icon: building
       text: WZB
@@ -47,14 +47,14 @@ about:
       href: https://www.webofscience.com/wos/author/record/AAG-9839-2019  
       target: _blank
       
-    - text: "{{< ai researchgate >}} Research Gate"
-      href: https://www.researchgate.net/profile/Christian-Rauh
-      target: _blank
+    # - text: "{{< ai researchgate >}} Research Gate"
+    #   href: https://www.researchgate.net/profile/Christian-Rauh
+    #   target: _blank
                   
-    - icon: youtube
-      text: YouTube
-      href: https://www.youtube.com/@rauhchristian6885     
-      target: _blank 
+    # - icon: youtube
+    #   text: YouTube
+    #   href: https://www.youtube.com/@rauhchristian6885     
+    #   target: _blank 
       
     - icon: strava
       text: Strava
@@ -82,18 +82,17 @@ about:
 :::{#hero-heading}
 
 ## Welcome! (Website under construction)
-
-I am a senior researcher in the Global Governance unit of the [WZB Berlin Social Science Center](http://www.wzb.eu/en) and a Professor for the 'Politics of Multilevel Governance' at the [University of Potsdam](https://www.uni-potsdam.de/de/wiso/fakultaet/fachgruppen/politik-und-verwaltungswissenschaft). 
-
-My research and teaching interests lie broadly at the intersection of EU studies, international relations and comparative politics. Key focus areas include:
-
+I am a senior researcher in the Global Governance unit of the [WZB Berlin Social Science Center](http://www.wzb.eu/en) and a Professor for the 'Politics of Multilevel Governance' at the [University of Potsdam](https://www.uni-potsdam.de/de/wiso/fakultaet/fachgruppen/politik-und-verwaltungswissenschaft).
+    
+My research and teaching interests lie at the intersection of EU studies, comparative politics, and international relations. Focus areas include:
+    
 * Decision-making of and in the European Commission
-* Public political debates about European and international institutions
+* Public debates about European and international institutions
 * The EU's role in the international order
 
-My work aims to combine solid theory with innovative empirical analysis. Luckily, this often involves the more immediate gratifications of a little programming, quantitative text analysis, and data visualization.
+My work combines solid theory with innovative empirical analysis. Luckily, this often involves the more immediate gratifications of a little programming, quantitative text analysis, and data visualization.
 
-This website contains information on my professional bio, summarizes my academic record, provides replication data, and will once in a while offer some personal musings on politics and its scientific analysis.
+<!-- This website contains information on my professional bio, summarizes my academic record, provides replication data, and will once in a while offer some personal musings on politics and its scientific analysis. -->
 
 Please do have a look and get in touch!
 

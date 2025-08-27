@@ -10,6 +10,7 @@ website:
   title: "Christian Rauh"
   image: "https://www.wzb.eu/themes/custom/wzb_theme/images/Logo_deutsch.svg"
   description: "Personal website of Prof. Dr. Christian Rauh"
+  favicon: files/favicon_CR.png
  
   navbar:
     background: "#003399"  # You can change the background color here
@@ -22,6 +23,8 @@ website:
         href: experience.qmd             
       - text: Publications
         href: publications.qmd
+      - text: Data & Resources
+        href: data-and-resources.qmd
       - text: Teaching # Comment the Teaching part out to remove the Teaching page
         href: teaching.qmd
       - text: Blog et al.
@@ -41,7 +44,7 @@ website:
   page-navigation: true
   
   page-footer: 
-    left: "[Christian Rauh](http://www.github.com/ChRauh) &copy; <script>document.write(new Date().getFullYear())</script>" 
+    left: "![](files/favicon_CR.png){width=30px height=30px}  [Christian Rauh](http://www.github.com/ChRauh) &copy; <script>document.write(new Date().getFullYear())</script>" 
     center: "Build on [Quarto Academic Website Template](https://github.com/drganghe/quarto-academic-website-template) adapted by [Dr. Gang He](http://drganghe.github.io)"
     right:  
       - icon: envelope

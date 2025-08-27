@@ -1,6 +1,6 @@
 ---
-title: "Experience and education"
-description-meta: "Curriculum Vitae"
+title: "Curriculum Vitae"
+description-meta: "CV - Christian Rauh"
 title-block-banner: true
 ---
 ## Employments
@@ -36,7 +36,11 @@ title-block-banner: true
 
 
 
-## Detailed CV
+## Full CV
+
+<a class="btn btn-primary" href="files/CV_Rauh_EN.pdf" download>
+   <i class="fas fa-download"></i> Download CV (pdf)
+</a>
 
 <iframe src="files/CV_Rauh_EN.pdf" width="100%" height="1000px" style="border:none;">
 </iframe>

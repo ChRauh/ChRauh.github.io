@@ -1,2 +1,37 @@
 /* css styles */
 
+/* remove underlines from all links */
+a {
+  text-decoration: none;
+}
+
+/* Links underlined only on hover */
+a:hover {
+  text-decoration: underline;
+}
+
+/* reduce top margin/padding above the about hero heading */
+#hero-heading {
+  margin-top: 0 !important;   /* or e.g. 0.5rem */
+  padding-top: 0rem !important; /* adjust to taste */
+}
+
+
+/* reduce space above the trestles about block */
+.quarto-about-trestles.column-page {
+  margin-top: 0 !important;     /* outside spacing */
+  padding-top: 1rem !important; /* adjust or set 0 if you want it flush */
+}
+
+/* tighten up the main content container */
+.quarto-document-content.content.column-page {
+  margin-top: 0 !important;
+  padding-top: 1rem !important;  /* adjust or remove completely */
+  margin-bottom: 0 !important;
+}
+
+/* adjust vertical padding of the title banner */
+.quarto-title-banner.page-columns.page-full {
+  padding-top: 0.5rem !important;   /* reduce top space */
+  padding-bottom: 1rem !important; /* reduce bottom space */
+}

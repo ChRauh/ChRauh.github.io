@@ -1,0 +1,77 @@
+---
+title: "Data and resources"
+description-meta: "Data - Christian Rauh"
+title-block-banner: true
+engine: knitr
+format: html
+execute: 
+  echo: false
+  message: false
+  warning: false
+---
+
+<!--Include academic icons or buttons-->
+{{< include /files/includes/_academic.qmd >}}
+
+<center>
+::: {style="font-size: 0.8em"}
+<i>This page assembles datasets, code, and analytical tools I have developed through my research.<br> You are invited to use these resources in your work, but please refer to and/or cite the source.<br> Most items listed here come under a [CC BY 4.0 license](https://creativecommons.org/licenses/by/4.0/).\
+If you have questions or build on these resources, I'd be happy to hear from you!</i><br>
+:::
+
+::: {style="font-size: 1.5em"}
+<a href = "https://github.com/ChRauh/" style = "color: #003399">{{< fa brands github size=1.5x >}}</a>      <a href = "https://dataverse.harvard.edu/dataverse/chrauh/" style = "color: #003399">{{< ai dataverse size=1.5x >}}</a> <br>
+:::
+
+</center>
+
+## General purpose data and tools
+
+
+* [ParlLawSpeech - Linked full-text corpora of 43,582 bills, 28,124 laws, and 3,092,431 plenary speeches from eight European parliaments - Schwalbach / Hetzer / Proksch / Rauh / Sebők](https://parllawspeech.org/data/)
+
+* [ParlSpeech V2 - Full-text corpora of 6.3 million parliamentary speeches in the key legislative chambers of nine representative democracies - Rauh / Schwalbach](https://doi.org/10.7910/DVN/L4OAKN)
+
+* [ParlSpeech - Full-text corpora of 3.9 million plenary speeches in seven European states - Rauh / De Wilde / Schwalbach](https://doi.org/10.7910/DVN/E4RSP9)
+
+* [EU Commissioner speeches - Full-text of corpus of all 13,618 speeches  between 1985 and 2020](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/M2QFGM)
+
+* [EU Commission press releases - Full-text corpus of all 44,978 press releases published between January 17, 1985, and January 8, 2021](https://doi.org/10.7910/DVN/UGGXUF) 
+
+
+* [Sentiment dicitionary for German political language](https://doi.org/10.7910/DVN/BKBXWD)
+
+* [PastTwitter - R functions to scrape and plot Twitter account info for past points in time from web.archive.org snapshots](https://github.com/ChRauh/PastTwitter)
+
+* [ShinyApps for human coding of text snippets](https://github.com/ChRauh/TRIAS-ValidationApps)
+
+* [ShinyApps for descriptive analysis and sharing of text corpora](https://github.com/ChRauh/OPTED-WP5-Apps-AMCAT)
+
+
+## Replication data and scripts
+
+If you are missing something here, please do not hesitate to [contact](mailto:christian.rauh@wzb.eu) me directly.
+
+-   [Rauh (2022) - Clarity of EU Commission press releases - Journal of European Integration](https://doi.org/10.7910/DVN/UGGXUF)
+
+-   [Rauh (2021) - Emergency emphasis in supranational speeches - Journal of European Public Policy](https://doi.org/10.7910/DVN/M2QFGM)
+
+-   [Rauh / Zürn (2020) - Global economic governance legitimation - Review of International Political Economy](https://doi.org/10.7910/DVN/FZ1HZR)
+
+-   [Rauh / Bes / Schoonvelde (2020) - Executive EU communication - European Journal of Political Research](https://doi.org/10.7910/DVN/NDJY0J)
+
+-   [Rauh / De Wilde (2018) - EU salience in parliaments - European Journal of Political Research](https://www.dropbox.com/s/s70y0u5alr01rqg/RdW_2017_EJPR_Replication.rar)
+
+-   [Rauh (2018) - Validation of German sentiment dictionary - Journal of Information Technology & Politics](https://doi.org/10.7910/DVN/BKBXWD)
+
+-   [Rauh (2016) - EU politicisation and EC consumer policy - ECPR Press](https://www.dropbox.com/s/7s0krtfpxcb6l29/Rauh-ResponsiveTechnocracy-ECPRpress2016-RepMaterial.rar)
+
+-   [Meijers / Rauh (2016) - EP election campaigns NL/FR - Politics & Governance](https://www.dropbox.com/s/2a2gjd6lt49eqfl/MeijersRauh_2016_PAG_ReplicationArchive.rar)
+
+-   [Rauh (2015) - EU salience in Bundestag - European Union Politics](https://www.dropbox.com/s/7p5nmt1ycsheod1/Rauh_2015_ReplicationArchive.rar)
+
+-   [Rauh / Schneider (2013) - Air transport regulation and stock markets - Journal of Common Market Studies](https://www.dropbox.com/s/g9faa3nocpa7pg7/Rauh%26Schneider-JCMS-Air%20Transport-ReplicationArchive.zip)
+
+-   [Rauh / Kirchner / Kappe (2011) - Partisan funding of higher education in Germany - West European Politics](https://www.dropbox.com/s/xhouh8q10drrboe/hochschulausgaben.dta)
+
+## Data viz examples
