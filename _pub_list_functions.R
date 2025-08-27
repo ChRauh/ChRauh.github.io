@@ -220,14 +220,16 @@ make_icons <- function(pub) {
   }
   if (!is.na(pub$url_pdf)) {
     html <- c(html, as.character(icon_link(
-      icon = "fa fa-file",
+      # icon = "fa fa-file",
+      icon = "bi bi-filetype-pdf",
       text = "PDF",
       url  = pub$url_pdf
     )))
   }
   if (!is.na(pub$url_repo)) {
     html <- c(html, as.character(icon_link(
-      icon = "fa fa-github",
+      # icon = "fa fa-github",
+      icon = "fa-brands fa-github",
       text = "Code & Data",
       url  = pub$url_repo
     )))
