@@ -1,61 +1,5 @@
 [
   {
-    "objectID": "posts.html",
-    "href": "posts.html",
-    "title": "What’s New & Updated",
-    "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nQuarto Academic Website Examples and Tips\n\n\n\n\n\n\nnews\n\n\n\nExamples and tips for Quarto Academic Website\n\n\n\n\n\nOct 15, 2024\n\n\nDr. Gang He\n\n\n\n\n\n\n\n\n\n\n\n\nEvent item\n\n\n\n\n\n\nevent\n\n\npresentation\n\n\n\nAbout Event item.\n\n\n\n\n\nSep 3, 2024\n\n\nEvent\n\n\n\n\n\n\n\n\n\n\n\n\nNews item\n\n\n\n\n\n\nnews\n\n\n\nAbout new item\n\n\n\n\n\nJun 24, 2024\n\n\nNews\n\n\n\n\n\n\n\n\n\n\n\n\nCan quantum-mechanical description of physical reality be considered complete?\n\n\nPhysical Review\n\n\n\npaper\n\n\n\nOne is thus led to conclude that the description of reality as given by a wave function is not complete.\n\n\n\n\n\nMay 15, 1935\n\n\nAlbert Einstein, Boris Podolsky, Nathan Rosen\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "publications.html",
-    "href": "publications.html",
-    "title": "Publications",
-    "section": "",
-    "text": "✓ indicates peer reviewed work"
-  },
-  {
-    "objectID": "publications.html#selected-work",
-    "href": "publications.html#selected-work",
-    "title": "Publications",
-    "section": "Selected Work",
-    "text": "Selected Work\nEinstein, A., Podolsky, B., & Rosen, N. (1935). Can quantum-mechanical description of physical reality be considered complete?. Physical review, 47(10), 777. [pdf] [code and data]  \n\n\n\n\n\n\nEinstein, A. (1965). Concerning an heuristic point of view toward the emission and transformation of light. American Journal of Physics, 33(5), 367. [pdf]"
-  },
-  {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Projects",
-    "section": "",
-    "text": "Order By\n      Default\n      \n      \n      \n        Title\n      \n      \n        Team\n      \n      \n        Funder\n      \n      \n        Description\n      \n      \n        Start\n      \n      \n        End\n      \n      \n        Funding\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n \n\n\n\nTitle\n\n\n\nTeam\n\n\n\nFunder\n\n\n\nDescription\n\n\n\nFunding\n\n\n\nStart\n\n\n\nEnd\n\n\n\n\n\n\n\n\n\n\n\nExploring \n\n\nAcademic Website\n\n\nFunder\n\n\nThe goal of this project is to investigate .\n\n\n$0\n\n\n2024\n\n\n2025\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "posts/news-title/index.html",
-    "href": "posts/news-title/index.html",
-    "title": "News item",
-    "section": "",
-    "text": "About the news"
-  },
-  {
-    "objectID": "posts/news-title/index.html#summary",
-    "href": "posts/news-title/index.html#summary",
-    "title": "News item",
-    "section": "",
-    "text": "About the news"
-  },
-  {
-    "objectID": "posts/paper-title/index.html#abstract",
-    "href": "posts/paper-title/index.html#abstract",
-    "title": "Can quantum-mechanical description of physical reality be considered complete?",
-    "section": "Abstract",
-    "text": "Abstract\nIn a complete theory there is an element corresponding to each element of reality. A sufficient condition for the reality of a physical quantity is the possibility of predicting it with certainty, without disturbing the system. In quantum mechanics in the case of two physical quantities described by non-commuting operators, the knowledge of one precludes the knowledge of the other. Then either (1) the description of reality given by the wave function in quantum mechanics is not complete or (2) these two quantities cannot have simultaneous reality. Consideration of the problem of making predictions concerning a system on the basis of measurements made on another system that had previously interacted with it leads to the result that if (1) is false then (2) is also false. One is thus led to conclude that the description of reality as given by a wave function is not complete."
-  },
-  {
-    "objectID": "posts/paper-title/index.html#links",
-    "href": "posts/paper-title/index.html#links",
-    "title": "Can quantum-mechanical description of physical reality be considered complete?",
-    "section": "Links",
-    "text": "Links\nPublished paper"
-  },
-  {
     "objectID": "teaching.html",
     "href": "teaching.html",
     "title": "Teaching",
@@ -84,11 +28,25 @@
     "text": "Class 3\n\n\n\n\n\nSpring 2025,   Spring 2024\nClass 3 introduction."
   },
   {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact",
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
     "section": "",
-    "text": "Quarto Academic\nSchool\nCollege\nUniversity\nAddress:\nPhone:\nE-mail:"
+    "text": "Order By\n       Default\n         \n        \n         \n          Title\n        \n         \n          Team\n        \n         \n          Funder\n        \n         \n          Description\n        \n         \n          Start\n        \n         \n          End\n        \n         \n          Funding\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n \n\n\nTitle\n\n\nTeam\n\n\nFunder\n\n\nDescription\n\n\nFunding\n\n\nStart\n\n\nEnd\n\n\n\n\n\n\n\n\n\nExploring \n\n\nAcademic Website\n\n\nFunder\n\n\nThe goal of this project is to investigate .\n\n\n$0\n\n\n2024\n\n\n2025\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/paper-title/index.html#abstract",
+    "href": "posts/paper-title/index.html#abstract",
+    "title": "Can quantum-mechanical description of physical reality be considered complete?",
+    "section": "Abstract",
+    "text": "Abstract\nIn a complete theory there is an element corresponding to each element of reality. A sufficient condition for the reality of a physical quantity is the possibility of predicting it with certainty, without disturbing the system. In quantum mechanics in the case of two physical quantities described by non-commuting operators, the knowledge of one precludes the knowledge of the other. Then either (1) the description of reality given by the wave function in quantum mechanics is not complete or (2) these two quantities cannot have simultaneous reality. Consideration of the problem of making predictions concerning a system on the basis of measurements made on another system that had previously interacted with it leads to the result that if (1) is false then (2) is also false. One is thus led to conclude that the description of reality as given by a wave function is not complete."
+  },
+  {
+    "objectID": "posts/paper-title/index.html#links",
+    "href": "posts/paper-title/index.html#links",
+    "title": "Can quantum-mechanical description of physical reality be considered complete?",
+    "section": "Links",
+    "text": "Links\nPublished paper"
   },
   {
     "objectID": "index.html",
@@ -98,53 +56,18 @@
     "text": "WZB\n  \n  \n    \n     Mail\n  \n  \n    \n     LinkedIn\n  \n  \n      BlueSky\n  \n  \n    \n     GitHub\n  \n  \n      Google Scholar\n  \n  \n      ORCID\n  \n  \n      WoS\n  \n  \n      Research Gate\n  \n  \n    \n     YouTube\n  \n  \n    \n     Strava\n  \n\n  \n  \n\n\nI am a senior researcher in the Global Governance unit of the WZB Berlin Social Science Center and a Professor for the ‘Politics of Multilevel Governance’ at the University of Potsdam.\nMy research and teaching interests lie broadly at the intersection of EU studies, international relations and comparative politics. Key focus areas include:\n\nDecision-making of and in the European Commission\nPublic political debates about European and international institutions\nThe EU’s role in the international order\n\nMy work aims to combine solid theory with innovative empirical analysis. Luckily, this often involves the more immediate gratifications of a little programming, quantitative text analysis, and data visualization.\nThis website contains information on my professional bio, summarizes my academic record, provides replication data, and will once in a while offer some personal musings on politics and its scientific analysis.\nPlease do have a look and get in touch!"
   },
   {
-    "objectID": "index.html#experience",
-    "href": "index.html#experience",
-    "title": "Prof Dr. Christian Rauh",
-    "section": "",
-    "text": "03/2023-current\nS/W2 Professor for ‘Politics of Multilevel Governance’, University of Potsdam\n\n\n04/2012-current\nSenior research fellow, Research Unit ‘Global Governance’, WZB Berlin Social Science Center\n\n\n04/2020-09/2020\nProfessor of ‘International Politics and Law’ (interim), Freie Universität Berlin\n\n\n09/2008-03/2020\nResearcher\n\n\n\n|:—-|:—-| | 03/2023 - current | S/W2 Professor for ‘Politics of Multilevel Governance’, University of Potsdam | | 04/2012 - current | Senior research fellow, Research Unit ‘Global Governance’, WZB Berlin Social Science Center |"
-  },
-  {
-    "objectID": "index.html#education",
-    "href": "index.html#education",
-    "title": "Prof Dr. Christian Rauh",
-    "section": "",
-    "text": "PhD, Univerisity"
-  },
-  {
-    "objectID": "index.html#recent-posts",
-    "href": "index.html#recent-posts",
-    "title": "Prof Dr. Christian Rauh",
-    "section": "Recent Posts",
-    "text": "Recent Posts\nCheck out the latest  Papers ,  News ,  Events , and  More »\n\n\n\n\n\n\n\n\n\n\nQuarto Academic Website Examples and Tips\n\n\n\nOct 15, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEvent item\n\n\n\nSep 3, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNews item\n\n\n\nJun 24, 2024\n\n\n\n\n\n\n\n\nNo matching items\n\n\n\nAll Posts »"
-  },
-  {
-    "objectID": "people.html",
-    "href": "people.html",
-    "title": "People",
-    "section": "",
-    "text": "PhD Student\n\n\n\n\n\n\n\n\n\n\n\n\n\nMasters Student\n\n\n\n\n\n\n\n\n\n\n\n\n\nUndergraduate Student\n\n\n\n\n\n\n\n\n\n\n\n\n\nPI\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "people.html#team",
-    "href": "people.html#team",
-    "title": "People",
-    "section": "",
-    "text": "PhD Student\n\n\n\n\n\n\n\n\n\n\n\n\n\nMasters Student\n\n\n\n\n\n\n\n\n\n\n\n\n\nUndergraduate Student\n\n\n\n\n\n\n\n\n\n\n\n\n\nPI\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "people.html#alumni",
-    "href": "people.html#alumni",
-    "title": "People",
-    "section": "Alumni",
-    "text": "Alumni\n\n\n   \n    \n    \n      Order By\n      Default\n      \n      \n      \n        Name\n      \n      \n        Role\n      \n      \n        Started\n      \n      \n        Ended\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n \n\n\n\nName\n\n\n\nRole\n\n\n\nStarted\n\n\n\nEnded\n\n\n\n\n\n\n\n\n\n\n\nAlumni A\n\n\nPhD Alumni\n\n\n2024\n\n\n2025\n\n\n\n\n\n\n\n\n\nAlumni B\n\n\nMasters Alumni\n\n\n2024\n\n\n2025\n\n\n\n\n\n\n\n\n\nAlumni C\n\n\nUndergraduate Alumni\n\n\n2024\n\n\n2025\n\n\n\n\n\n\nNo matching items"
-  },
-  {
     "objectID": "index.html#welcome-website-under-construction",
     "href": "index.html#welcome-website-under-construction",
     "title": "Prof Dr. Christian Rauh",
     "section": "",
     "text": "I am a senior researcher in the Global Governance unit of the WZB Berlin Social Science Center and a Professor for the ‘Politics of Multilevel Governance’ at the University of Potsdam.\nMy research and teaching interests lie broadly at the intersection of EU studies, international relations and comparative politics. Key focus areas include:\n\nDecision-making of and in the European Commission\nPublic political debates about European and international institutions\nThe EU’s role in the international order\n\nMy work aims to combine solid theory with innovative empirical analysis. Luckily, this often involves the more immediate gratifications of a little programming, quantitative text analysis, and data visualization.\nThis website contains information on my professional bio, summarizes my academic record, provides replication data, and will once in a while offer some personal musings on politics and its scientific analysis.\nPlease do have a look and get in touch!"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Quarto Academic\nSchool\nCollege\nUniversity\nAddress:\nPhone:\nE-mail:"
   },
   {
     "objectID": "experience.html",
@@ -154,11 +77,11 @@
     "text": "03/2023-current\nS/W2 Professor for ‘Politics of Multilevel Governance’, University of Potsdam\n\n\n04/2012-current\nSenior research fellow, Research Unit ‘Global Governance’, WZB Berlin Social Science Center\n\n\n04/2020-09/2020\nProfessor of ‘International Politics and Law’ (interim), Freie Universität Berlin\n\n\n09/2008-03/2020\nPhD Researcher, Junior Research Group ‘Position Formation in the EU Commission’, WZB Berlin Social Science Center\n\n\n07/2006-05/2010\nOrganisation and supervision of simulations on political decision-making, EuroSoc GmbH - Think Tank for European Decisions\n\n\nsince 10/2005\nVarious teaching assignments at different European universities\n\n\n03/2005-10/2007\nManaging Editor, European Union Politics (Academic journal)\n\n\n08/2004-02/2005\nPolitical Consultant in EU affairs, Berlin Business Representation, Brussels"
   },
   {
-    "objectID": "experience.html#relevant-jobs",
-    "href": "experience.html#relevant-jobs",
+    "objectID": "experience.html#employments",
+    "href": "experience.html#employments",
     "title": "Experience and education",
     "section": "",
-    "text": "03/2023-current\nS/W2 Professor for ‘Politics of Multilevel Governance’, University of Potsdam\n\n\n04/2012-current\nSenior research fellow, Research Unit ‘Global Governance’, WZB Berlin Social Science Center\n\n\n04/2020-09/2020\nProfessor of ‘International Politics and Law’ (interim), Freie Universität Berlin\n\n\n09/2008-03/2020\nResearcher"
+    "text": "03/2023-current\nS/W2 Professor for ‘Politics of Multilevel Governance’, University of Potsdam\n\n\n04/2012-current\nSenior research fellow, Research Unit ‘Global Governance’, WZB Berlin Social Science Center\n\n\n04/2020-09/2020\nProfessor of ‘International Politics and Law’ (interim), Freie Universität Berlin\n\n\n09/2008-03/2020\nPhD Researcher, Junior Research Group ‘Position Formation in the EU Commission’, WZB Berlin Social Science Center\n\n\n07/2006-05/2010\nOrganisation and supervision of simulations on political decision-making, EuroSoc GmbH - Think Tank for European Decisions\n\n\nsince 10/2005\nVarious teaching assignments at different European universities\n\n\n03/2005-10/2007\nManaging Editor, European Union Politics (Academic journal)\n\n\n08/2004-02/2005\nPolitical Consultant in EU affairs, Berlin Business Representation, Brussels"
   },
   {
     "objectID": "experience.html#education",
@@ -168,32 +91,53 @@
     "text": "Education\n \n\n\n\n\n\n\n\n01/2012\nDr. rer. pol., Freie Universität Berlin. Thesis ‘Politicisation, issue salience, and consumer policies of the European Commission’; Supervisors: Prof.Dr. Miriam Hartlapp / Prof. Dr. Michael Zürn; summa cum laude; Winner of the ECPR Jean Blondel Prize for the best thesis in politics 2013\n\n\n09/2009\nECPR Carlo Alberto Summer School on Analytical Politics, Moncalieri, Italy\n\n\n04/2008\nM.A. Politics and Management, University of Konstanz. Thesis: ‘From Chicago to Brussels: EU regulation of international air transport and the stock market performance of internationally operating airlines.’ Supervisor: Prof. Dr. Gerald Schneider; very good; Winner of the 2009 VEUK e.V. award for the best diploma thesis in politics and management\n\n\n06/2001\nA-levels, Hochrhein Gymnasium Waldshut(1,9)"
   },
   {
-    "objectID": "experience.html#relevant-employments",
-    "href": "experience.html#relevant-employments",
-    "title": "Experience and education",
-    "section": "Relevant employments",
-    "text": "Relevant employments\n \n\n\n\n\n\n\n\n03/2023-current\nS/W2 Professor for ‘Politics of Multilevel Governance’, University of Potsdam\n\n\n04/2012-current\nSenior research fellow, Research Unit ‘Global Governance’, WZB Berlin Social Science Center\n\n\n04/2020-09/2020\nProfessor of ‘International Politics and Law’ (interim), Freie Universität Berlin\n\n\n09/2008-03/2020\nPhD Researcher, Junior Research Group ‘Position Formation in the EU Commission’, WZB Berlin Social Science Center\n\n\n07/2006-05/2010\nOrganisation and supervision of simulations on political decision-making, EuroSoc GmbH - Think Tank for European Decisions\n\n\nsince 10/2005\nVarious teaching assignments at different European universities\n\n\n03/2005-10/2007\nManaging Editor, European Union Politics (Academic journal)\n\n\n08/2004-02/2005\nPolitical Consultant in EU affairs, Berlin Business Representation, Brussels"
-  },
-  {
-    "objectID": "experience.html#full-cv",
-    "href": "experience.html#full-cv",
-    "title": "Experience and education",
-    "section": "Full CV",
-    "text": "Full CV"
-  },
-  {
-    "objectID": "experience.html#employments",
-    "href": "experience.html#employments",
-    "title": "Experience and education",
-    "section": "",
-    "text": "03/2023-current\nS/W2 Professor for ‘Politics of Multilevel Governance’, University of Potsdam\n\n\n04/2012-current\nSenior research fellow, Research Unit ‘Global Governance’, WZB Berlin Social Science Center\n\n\n04/2020-09/2020\nProfessor of ‘International Politics and Law’ (interim), Freie Universität Berlin\n\n\n09/2008-03/2020\nPhD Researcher, Junior Research Group ‘Position Formation in the EU Commission’, WZB Berlin Social Science Center\n\n\n07/2006-05/2010\nOrganisation and supervision of simulations on political decision-making, EuroSoc GmbH - Think Tank for European Decisions\n\n\nsince 10/2005\nVarious teaching assignments at different European universities\n\n\n03/2005-10/2007\nManaging Editor, European Union Politics (Academic journal)\n\n\n08/2004-02/2005\nPolitical Consultant in EU affairs, Berlin Business Representation, Brussels"
-  },
-  {
     "objectID": "experience.html#detailed-cv",
     "href": "experience.html#detailed-cv",
     "title": "Experience and education",
     "section": "Detailed CV",
     "text": "Detailed CV"
+  },
+  {
+    "objectID": "people.html",
+    "href": "people.html",
+    "title": "People",
+    "section": "",
+    "text": "PhD Student\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMasters Student\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nUndergraduate Student\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPI\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "people.html#team",
+    "href": "people.html#team",
+    "title": "People",
+    "section": "",
+    "text": "PhD Student\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMasters Student\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nUndergraduate Student\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPI\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "people.html#alumni",
+    "href": "people.html#alumni",
+    "title": "People",
+    "section": "Alumni",
+    "text": "Alumni\n\n\n   \n     \n     \n       Order By\n       Default\n         \n        \n         \n          Name\n        \n         \n          Role\n        \n         \n          Started\n        \n         \n          Ended\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n \n\n\nName\n\n\nRole\n\n\nStarted\n\n\nEnded\n\n\n\n\n\n\n\n\n\nAlumni A\n\n\nPhD Alumni\n\n\n2024\n\n\n2025\n\n\n\n\n\n\n\nAlumni B\n\n\nMasters Alumni\n\n\n2024\n\n\n2025\n\n\n\n\n\n\n\nAlumni C\n\n\nUndergraduate Alumni\n\n\n2024\n\n\n2025\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/news-title/index.html",
+    "href": "posts/news-title/index.html",
+    "title": "News item",
+    "section": "",
+    "text": "About the news"
+  },
+  {
+    "objectID": "posts/news-title/index.html#summary",
+    "href": "posts/news-title/index.html#summary",
+    "title": "News item",
+    "section": "",
+    "text": "About the news"
+  },
+  {
+    "objectID": "posts.html",
+    "href": "posts.html",
+    "title": "What’s New & Updated",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nQuarto Academic Website Examples and Tips\n\n\n\n\n\n\nnews\n\n\n\nExamples and tips for Quarto Academic Website\n\n\n\n\n\nOct 15, 2024\n\n\nDr. Gang He\n\n\n\n\n\n\n\n\n\n\n\n\nEvent item\n\n\n\n\n\n\nevent\n\n\npresentation\n\n\n\nAbout Event item.\n\n\n\n\n\nSep 3, 2024\n\n\nEvent\n\n\n\n\n\n\n\n\n\n\n\n\nNews item\n\n\n\n\n\n\nnews\n\n\n\nAbout new item\n\n\n\n\n\nJun 24, 2024\n\n\nNews\n\n\n\n\n\n\n\n\n\n\n\n\nCan quantum-mechanical description of physical reality be considered complete?\n\n\nPhysical Review\n\n\n\npaper\n\n\n\nOne is thus led to conclude that the description of reality as given by a wave function is not complete.\n\n\n\n\n\nMay 15, 1935\n\n\nAlbert Einstein, Boris Podolsky, Nathan Rosen\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "publications.html#books",
@@ -210,41 +154,6 @@
     "text": "Journal Articles\n    Christian Rauh (2025) “International recognition of European Union “actorness”: Language-based evidence from United Nations general debate speeches 1970–2020”  International Interactions,  Online First. ✓         View      PDF      Code & Data      Google Scholar      CrossRef citations: 0    Miklos Sebők, Sven Oliver Proksch, Christian Rauh, P Visnovitz, G Balázs, Jan Schwalbach (2025) “Comparative European legislative research in the age of large-scale computational text analysis: A review article”  International Political Science Review,  46(1): 18-39. ✓         View      PDF      Code & Data      Google Scholar      CrossRef citations: 2    Christian Rauh, Michal Parizek (2024) “Converging on Europe? The European Union in mediatised debates during the COVID-19 and Ukraine shocks”  Journal of European Public Policy,  31(10): 3036-3065. ✓         View      PDF      Code & Data      Google Scholar      CrossRef citations: 5    Christian Rauh (2023) “Clear messages to the European public? The language of European Commission press releases 1985–2020”  Journal of European Integration,  45(4): 683-701. ✓         View      PDF      Code & Data      Google Scholar      CrossRef citations: 27    Christian Rauh (2022) “Supranational emergency politics? What executives’ public crisis communication may tell us”  Journal of European Public Policy,  29(6): 966-978. ✓         View      PDF      Code & Data      Google Scholar      CrossRef citations: 19    Sina Özdemir, Christian Rauh (2022) “A Bird’s Eye View: Supranational EU Actors on Twitter”  Politics and Governance,  10(1): 133-145. ✓         View      PDF      Code & Data      Google Scholar      CrossRef citations: 8    Christian Rauh (2021) “One agenda-setter or many? The varying success of policy initiatives by individual Directorates-General of the European Commission 1994–2016”  European Union Politics,  22(1): 3-24. ✓         View      PDF      Code & Data      Google Scholar      CrossRef citations: 24    Christian Rauh, Bart J. Bes, Martijn Schoonvelde (2020) “Undermining, defusing or defending European integration? Assessing public communication of European executives in times of EU politicisation”  European Journal of Political Research,  59(2): 397-423. ✓         View      PDF      Code & Data      Google Scholar      CrossRef citations: 46    Christian Rauh, Michael Zürn (2020) “Authority, politicization, and alternative justifications: endogenous legitimation dynamics in global economic governance1”  Review of International Political Economy,  27(3): 583-611. ✓         View      PDF      Code & Data      Google Scholar      CrossRef citations: 33    Christian Rauh (2020) “Christina J. Schneider. 2018. The Responsive Union: National Elections and European Governance.(Cambridge: Cambridge University Press)”  The Review of International Organizations,  15(1): 307-310.         View      PDF      Google Scholar      CrossRef citations: 0    Christian Rauh (2019) “EU politicization and policy initiatives of the European Commission: the case of consumer policy”  Journal of European Public Policy,  26(3): 344-365. ✓         View      PDF      Code & Data      Google Scholar      CrossRef citations: 70    Pieter De Wilde, Christian Rauh (2019) “Going full circle: the need for procedural perspectives on EU responsiveness”  Journal of European Public Policy,  26(11): 1737-1748. ✓         View      PDF      Google Scholar      CrossRef citations: 15    Christian Rauh (2018) “Validating a sentiment dictionary for German political language—a workbench note”  Journal of Information Technology &Politics,  15(4): 319-343. ✓         View      PDF      Code & Data      Google Scholar      CrossRef citations: 68    Christian Rauh, Pieter De Wilde (2018) “The opposition deficit in EU accountability: Evidence from over 20 years of plenary debate in four member states”  European Journal of Political Research,  57(1): 194-216. ✓         View      PDF      Code & Data      Google Scholar      CrossRef citations: 69    Maurits J. Meijers, Christian Rauh (2016) “Has Eurosceptic mobilization become more contagious? Comparing the 2009 and 2014 EP Election campaigns in The Netherlands and France”  Politics and Governance,  4(1): 83-103. ✓         View      PDF      Code & Data      Google Scholar      CrossRef citations: 25    Miriam Hartlapp, Julia Metz, Christian Rauh (2016) “Wer mäßigt den Agenda-Setter im EU-System und wie? Drei Modi der Positionsbildung in der EU-Kommission”  Zeitschrift für Politikwissenschaft,  26(1): 85-98. ✓         View      PDF      Google Scholar      CrossRef citations: 0    Christian Rauh, Michael Zürn (2016) “Die Politisierung der Europäischen Union als Chance nutzen”  integration,  39(1): 3-14. ✓         View      PDF      Google Scholar    Christian Rauh (2015) “Communicating supranational governance? The salience of EU affairs in the German Bundestag, 1991–2013”  European Union Politics,  16(1): 116-138. ✓         View      PDF      Code & Data      Google Scholar      CrossRef citations: 65    Christian Rauh, G Schneider (2013) “There is No such Thing as a Free Open Sky: Financial Markets and the Struggle over European Competences in International Air Transport”  JCMS: Journal of Common Market Studies,  51(6): 1124-1140. ✓         View      PDF      Code & Data      Google Scholar      CrossRef citations: 4    Miriam Hartlapp, Christian Rauh (2013) “The Commission’s internal conditions for social re-regulation: Market efficiency and wider social goals in setting the rules for financial services in Europe”  European Journal of Government and Economics,  2(1): 25-40. ✓         View      PDF      Google Scholar      CrossRef citations: 4    Miriam Hartlapp, Julia Metz, Christian Rauh (2012) “Linking Agenda Setting to Coordination Structures: Bureaucratic Politics inside the European Commission”  Journal of European Integration,  35(4): 425-441. ✓         View      PDF      Google Scholar      CrossRef citations: 63    Christian Rauh, Antje Kirchner, Roland Kappe (2011) “Political Parties and Higher Education Spending: Who Favours Redistribution?”  West European Politics,  34(6): 1185-1206. ✓         View      PDF      Google Scholar      CrossRef citations: 27"
   },
   {
-    "objectID": "publications.html#chapters",
-    "href": "publications.html#chapters",
-    "title": "Publications",
-    "section": "Chapters",
-    "text": "Chapters\n    ✓ Christian Rauh, Reinout van der Veer (2024) “Responsiveness” Handbook on European Union Public Administration. 362-376. DOI: 10.4337/9781802209013.00035         View      Google Scholar    ✓ Christian Rauh (2021) “Between neo-functionalist optimism and post-functionalist pessimism: Integrating politicisation into integration theory” Theorising the crises of the European Union. 119-137. DOI: 10.4324/9781003001423-7         View      Research Gate      Google Scholar    Jan Schwalbach, Christian Rauh (2021) “Collecting large-scale comparative text data on legislative debates” The Politics of Legislative Debates, Oxford University Press, Oxford. 91-109. DOI: 10.1093/oso/9780198849063.003.0006         View      Google Scholar    ✓ Liesbet Hooghe, Christian Rauh (2017) “The Commission’s services: A powerful permanent bureaucracy” The Institutions of the European Union. 4187-212.         View      Research Gate      Google Scholar    ✓ Christian Rauh, S Bödeker (2015) “Internationale Organisationen in der deutschen Öffentlichkeit: Ein Text Mining-Ansatz” ext-Mining in den Sozialwissenschaften. Grundlagen und Anwendungen zwischen qualitativer und quantitativer Diskursanalyse.  DOI: 10.1007/978-3-658-07224-7_11         View      Research Gate      Google Scholar    ✓ Christian Rauh, Michael Zürn (2015) “Die Politisierung der Europäischen Union als Chance nutzen” Modelle des Parlamentarismus im 21. Jahrhundert. 469-486. DOI: 10.5771/9783845267449-469         View    ✓ Christian Rauh, Michael Zürn (2014) “Zur Politisierung der EU in der Krise” Krise der europäischen Vergesellschaftung? Soziologische Perspektiven. 121-145. DOI: 10.1007/978-3-658-03925-7_5         View      Google Scholar"
-  },
-  {
-    "objectID": "publications.html#other-selected",
-    "href": "publications.html#other-selected",
-    "title": "Publications",
-    "section": "Other (selected)",
-    "text": "Other (selected)\n\nWidersprüchliche Signale; Wie EU-Staaten vor dem Ukrainekrieg über Russland sprachen. WZB Mitteilungen 176: 45-8. [With Johannes Scherzinger]\nThe ParlSpeech V2 data set: Full-text corpora of 6.3 million parliamentary speeches in the key legislative chambers of nine representative democracies. V1, Harvard Dataverse. [With Jan Schwalbach]\nAutorität ohne Rückhalt: Das Legitimatätsdefizit internationaler Organisationen. WZB Mitteilungen 167. [With Michael Zürn]\nUntergraben, verschleiern, verteidigen: Politische Kommunikation zur Europäischen Union. WZB Mitteilungen 165: 34-5.\nChristina J. Schneider: The Responsive Union. National Elections and European Governance. Cambridge: Cambridge University Press 2018 [Book review]. Review of International Organizations: Online First.\nThe ParlSpeech data set: Annotated full-text vectors of 3.9 million plenary speeches in the key legislative chambers of seven European states. V1, Harvard Dataverse. [With Pieter De Wilde and Jan Schwalbach]\nDie schiere Menge sagt noch nichts: Big Data in den Sozialwissenschaften. WZB Mitteilungen 150: 6-9. [With Alexandros Tokhi]\nBrüssel im Bundestag: Wann spricht wer über die Europäische Union? WZB-Mitteilungen 148: 20-22.\nLegitimität und Politisierung globaler Steuerung. Informationen zur Politischen Bildung 2015/1 (325): 25-28.\nLegitimationsprobleme im Früheuropäismus. Frankfurter Allgemeine Zeitung (18.05.2014): 6. [With Michael Zürn]\nÜber den Tellerrand: Zunehmend werden auch die Entscheidungen internationaler Institutionen öffentlich politisiert. WZB-Mitteilungen 141: 21-23. [With Pieter de Wilde]\nUnd sie hört doch hin – manchmal. Öffentliche Debatten können die Politik der EU-Kommission beeinflussen. WZB-Mitteilungen 139: 29-31\nPolitisieren lassen oder politisieren? Die europäische Öffentlichkeit fordert ihr Recht. Neue Gesellschaft/Frankfurter Hefte 60 (1/2): 53-6\nHow External Interests Enter the European Commission. Mechanisms at Play in Legislative Position Formation. WZB Discussion Paper SP IV 2010-501 [With Miriam Hartlapp and Julia Metz]\nMade in Brussels. Wie externe Interessen ihren Weg in die Politikformulierung der EU Kommission finden. WZB-Mitteilungen 130: 7-10 [With Miriam Hartlapp and Julia Metz]\nThe Agenda Set by the EU Commission. The Result of Balanced or Biased Aggregation of Positions? LSE ‘Europe in Question’ Discussion Paper Series 21/2010 [With Miriam Hartlapp and Julia Metz]\nThe Repeatedly Low Turnout in EP Elections. Political Elites Fail in Politicising Citizens. A Different View - IAPSS Monthly News Magazine 31: 3-5\n\nNotes: * corresponding author; GS graduate student advisee; VS visiting scholar;  ESI Highly Cited Paper (top 1%);  ESI Hot Paper (top 0.1%)\nTotal citations as of August 2025:\n\nWeb of Science: 100,000 (h-index = 100)\n\nGoogle Scholar: 179,000 (h-index = 127, i10-index = 377)"
-  },
-  {
-    "objectID": "publications.html#other",
-    "href": "publications.html#other",
-    "title": "Publications",
-    "section": "Other",
-    "text": "Other\n    Jan Schwalbach, L Hetzer, Sven Oliver Proksch, Christian Rauh, Miklos Sebők (2025) “ParlLawSpeech” https://doi.org/10.7802/.         Scholar    A Anegundi, K Schulz, Christian Rauh, G Rehm (2022) “Modelling Cultural and Socio-Economic Dimensions of Political Bias in German Tweets” Proceedings of the 18th Conference on Natural Language Processing (KONVENS ….         Scholar    Christian Rauh, Jan Schwalbach (2020) “The ParlSpeech V2 data set: Full-text corpora of 6.3 million parliamentary speeches in the key legislative chambers of nine representative democracies” Harvard Dataverse.         Scholar    Christian Rauh (2018) “An Agenda-Setter in Decline? Legislative Activity of the European Commission 1985–2016” Annual Conference of the European Political Science Association.         Scholar    Christian Rauh, Jan Schwalbach, Pieter De Wilde (2017) “The ParlSpeech data set: Annotated full-text vectors of 3.9 million plenary speeches in the key legislative chambers of seven European states” Harvard Dataverse.         Scholar    Christian Rauh (2016) “No longer an ivory tower: how public debates influence European Commission policies” LSE European Politics and Policy (EUROPP) Blog.         Scholar    Miriam Hartlapp, Julia Metz, Christian Rauh (2015) “Conflict inside the European Commission is a key factor in shaping EU legislation” LSE European Politics and Policy (EUROPP) Blog.         Scholar    Alexandros Tokhi, Christian Rauh (2015) “Die schiere Menge sagt noch nichts Big Data in den Sozialwissenschaften” WZB-Mitteilungen (150 der Gesamtfolge). 6-9.         Scholar    Christian Rauh (2014) “The EU’s attempts to manage air transport regulation illustrate the extent to which supranational actors can send credible signals to financial markets” LSE European Politics and Policy (EUROPP) Blog.         Scholar    Christian Rauh (2014) “And It Does Listen-Sometimes Public Debates Can Influence the Politics of the EU Commission” WZB Mitteilungen.         View      Scholar    Michael Zürn, Christian Rauh (2014) “» Legitimationsprobleme im Früheuropäismus «” Frankfurter Allgemeine Zeitung. 19(2014): 6-6.         Scholar    Christian Rauh (2013) “A Widening Audience, Ever More Interested and Active? The Public Politicization of European Integration in the EU6, 1990–2011” Unpublished manuscript.         Scholar    Christian Rauh (2013) “Winning Back the Hearts of European Citizens? Public Politicization of European Integration and the Commission’s Responsiveness to diffuse societal interests in consumer policy” 7th ECPR General Conference, Sciences Po, Bordeaux.         Scholar    Christian Rauh, S Bödeker (2013) “The international trade regime in the public sphere, 1986–2012: Evaluating the social legitimacy of global governance with semi-automated text mining approaches. Konferenzpapier” European Workshop on International Studies (EWIS), Tartu, Estonia. 5-8.         Scholar    Christian Rauh (2012) “Politicisation, Issue Salience, and Consumer Policies of the European Commission: Does Public Awareness and Contestation of Supranational Matters Increase the Responsiveness of …” Freie Universität Berlin.         Scholar    Miriam Hartlapp, Julia Metz, Christian Rauh (2010) “How external interests enter the European Commission: Mechanisms at play in legislative position formation” WZB Discussion Paper.         Scholar    Miriam Hartlapp, Julia Metz, Christian Rauh (2010) “The agenda set by the EU Commission: the result of balanced or biased aggregation of positions?” LEQS paper.         Scholar    Miriam Hartlapp, Julia Metz, Christian Rauh (2010) “The agenda setting by the European Commission: the result of balanced or biased aggregation of positions” LSE.         Scholar    Miriam Hartlapp, Julia Metz, Christian Rauh (2010) “Made in Brussels Wie externe Interessen ihren Weg in die Politikformulierung der EUKommission finden” Journal WZB-Mitteilungen. 130.         Scholar    Christian Rauh (2009) “Winning back the heart of Europeans? Asserting consumer policies within the European Commission”         Scholar    Christian Rauh (2009) “The Repeatedly Low Turnout in EP Elections: Political Elites Fail in Politicising Citizens.” A Different View - IAPSS Monthly News Magazine. 31: 3-5.         Scholar    Miriam Hartlapp, Julia Metz, Christian Rauh (2008) “Internal Dynamics Position formation in the EU Commission” 4th Pan European ECPR Conference on EU Politics. 25-27.         Scholar    Christian Rauh (2008) “From Chicago to Brussels: EU regulation of international air transport and the stock market performance of internationally operating airlines”         Scholar    Christian Rauh (2007) “Heilmittel oder Freifahrtschein? Zur Anwendbarkeit der Offenen Methode der Koordinierung auf die europäische Strukturpolitik” GRIN Verlag.         Scholar    Christian Rauh (2006) “Legal Harmonization. A case study on modelling the legislative processes of the European Union.” GRIN Verlag.         Scholar    Christian Rauh (2006) “Entscheidungsverfahren und das Demokratiedefizit. Zum Einfluss des Europäischen Parlaments auf die Gesetzgebung der Europäischen Union” GRIN Verlag.         Scholar    Christian Rauh, R Kappe, A Kirchner (2006) “Bowlen am Wahltag-Sozialkapital und Wahlbeteiligung in 94 europäischen Regionen” GRIN Verlag.         Scholar    Christian Rauh (2005) “Mikropolitik–Verstehen oder Erklären? Der Erkenntnisgewinn der Strategischen Organisationsanalyse nach Crozier und Friedberg” GRIN Verlag.         Scholar    Christian Rauh (2005) “Fitting already in? Romania and the political criterion of Copenhagen” GRIN Verlag.         Scholar\nNotes: * corresponding author; GS graduate student advisee; VS visiting scholar;  ESI Highly Cited Paper (top 1%);  ESI Hot Paper (top 0.1%)\nTotal citations as of August 2025:\n\nWeb of Science: 100,000 (h-index = 100)\n\nGoogle Scholar: 179,000 (h-index = 127, i10-index = 377)"
-  },
-  {
-    "objectID": "publications.html#other-publications-selected",
-    "href": "publications.html#other-publications-selected",
-    "title": "Publications",
-    "section": "Other publications (selected)",
-    "text": "Other publications (selected)\n    Jan Schwalbach, L Hetzer, Sven Oliver Proksch, Christian Rauh, Miklos Sebők (2025) “ParlLawSpeech” Cologne: GESIS.  DOI: 10.7802/2824         View      Code & Data      Google Scholar    Aishwarya Anegundi, Konstantin Schulz, Christian Rauh, Georg Rehm (2022) “Modelling Cultural and Socio-Economic Dimensions of Political Bias in German Tweets” Proceedings of the 18th Conference on Natural Language Processing (KONVENS 2022).         View      PDF      Code & Data      Google Scholar    ✓ Christian Rauh, Johannes Scherzinger (2022) “Widersprüchliche Signale. Wie EU-Staaten vor dem Ukrainekrieg über Russland sprachen.” WZB Mitteilungen. 176(2): 45-8.         View      PDF      Code & Data      Google Scholar    Christian Rauh, Jan Schwalbach (2020) “The ParlSpeech V2 data set: Full-text corpora of 6.3 million parliamentary speeches in the key legislative chambers of nine representative democracies” Harvard Dataverse.  DOI: 10.7910/DVN/L4OAKN         View      PDF      Code & Data      Google Scholar    Christian Rauh (2018) “An Agenda-Setter in Decline? Legislative Activity of the European Commission 1985–2016” Annual Conference of the European Political Science Association (EPSA 2018).         View      PDF      Google Scholar    Christian Rauh, Jan Schwalbach, Pieter De Wilde (2017) “The ParlSpeech data set: Annotated full-text vectors of 3.9 million plenary speeches in the key legislative chambers of seven European states” Harvard Dataverse.  DOI: 10.7910/DVN/E4RSP9         View      PDF      Code & Data      Google Scholar    Christian Rauh (2016) “No longer an ivory tower: how public debates influence European Commission policies” LSE European Politics and Policy (EUROPP) Blog.         View      PDF      Google Scholar    Miriam Hartlapp, Julia Metz, Christian Rauh (2015) “Conflict inside the European Commission is a key factor in shaping EU legislation” LSE European Politics and Policy (EUROPP) Blog.         View      PDF      Google Scholar    Alexandros Tokhi, Christian Rauh (2015) “Die schiere Menge sagt noch nichts Big Data in den Sozialwissenschaften” WZB-Mitteilungen. 150: 6-9.         View      PDF      Google Scholar    Christian Rauh (2014) “The EU’s attempts to manage air transport regulation illustrate the extent to which supranational actors can send credible signals to financial markets” LSE European Politics and Policy (EUROPP) Blog.         View      PDF      Google Scholar    Christian Rauh (2014) “And It Does Listen-Sometimes Public Debates Can Influence the Politics of the EU Commission” WZB Report. 2014.         View      PDF      Google Scholar    Michael Zürn, Christian Rauh (2014) “» Legitimationsprobleme im Früheuropäismus «” Frankfurter Allgemeine Zeitung. 19(2014): 6-6.         View      Google Scholar    Christian Rauh (2012) “Politicisation, Issue Salience, and Consumer Policies of the European Commission: Does Public Awareness and Contestation of Supranational Matters Increase the Responsiveness of Europe’s central agenda-setter?” Freie Universität Berlin.         View      Google Scholar    Miriam Hartlapp, Julia Metz, Christian Rauh (2010) “How external interests enter the European Commission: Mechanisms at play in legislative position formation” WZB Discussion Paper. SP IV 2010-501.         View      PDF      Google Scholar    Miriam Hartlapp, Julia Metz, Christian Rauh (2010) “The agenda set by the EU Commission: the result of balanced or biased aggregation of positions?” LEQS paper. 21.         View      Google Scholar    Miriam Hartlapp, Julia Metz, Christian Rauh (2010) “Made in Brussels Wie externe Interessen ihren Weg in die Politikformulierung der EUKommission finden” WZB-Mitteilungen. 130.         View      PDF      Google Scholar    Christian Rauh (2009) “The Repeatedly Low Turnout in EP Elections: Political Elites Fail in Politicising Citizens.” A Different View - IAPSS Monthly News Magazine. 31: 3-5.         Google Scholar    Christian Rauh (2008) “From Chicago to Brussels: EU regulation of international air transport and the stock market performance of internationally operating airlines”         Google Scholar    Christian Rauh (2007) “Heilmittel oder Freifahrtschein? Zur Anwendbarkeit der Offenen Methode der Koordinierung auf die europäische Strukturpolitik” GRIN Verlag.         View      Google Scholar    Christian Rauh (2006) “Legal Harmonization. A case study on modelling the legislative processes of the European Union.” GRIN Verlag.         View      Google Scholar    Christian Rauh (2006) “Entscheidungsverfahren und das Demokratiedefizit. Zum Einfluss des Europäischen Parlaments auf die Gesetzgebung der Europäischen Union” GRIN Verlag.         View      Google Scholar    Christian Rauh, R Kappe, A Kirchner (2006) “Bowlen am Wahltag-Sozialkapital und Wahlbeteiligung in 94 europäischen Regionen” GRIN Verlag.         View      Google Scholar    Christian Rauh (2005) “Mikropolitik–Verstehen oder Erklären? Der Erkenntnisgewinn der Strategischen Organisationsanalyse nach Crozier und Friedberg” GRIN Verlag.         View      Google Scholar    Christian Rauh (2005) “Fitting already in? Romania and the political criterion of Copenhagen” GRIN Verlag.         View      Google Scholar"
-  },
-  {
-    "objectID": "publications.html#citation-metrics",
-    "href": "publications.html#citation-metrics",
-    "title": "Publications",
-    "section": "Citation metrics",
-    "text": "Citation metrics\n\n  Web of Science Author Record"
-  },
-  {
     "objectID": "publications.html#book-chapters",
     "href": "publications.html#book-chapters",
     "title": "Publications",
@@ -257,5 +166,12 @@
     "title": "Publications",
     "section": "Other publications",
     "text": "Other publications\n    Jan Schwalbach, L Hetzer, Sven Oliver Proksch, Christian Rauh, Miklos Sebők (2025) “ParlLawSpeech”  Cologne: GESIS,         View      PDF      Code & Data      Google Scholar      CrossRef citations: NA    Aishwarya Anegundi, Konstantin Schulz, Christian Rauh, Georg Rehm (2022) “Modelling Cultural and Socio-Economic Dimensions of Political Bias in German Tweets”  Proceedings of the 18th Conference on Natural Language Processing (KONVENS 2022),         View      PDF      Code & Data      Google Scholar    Christian Rauh, Johannes Scherzinger (2022) “Widersprüchliche Signale. Wie EU-Staaten vor dem Ukrainekrieg über Russland sprachen.”  WZB Mitteilungen,  176(2): 45-8. ✓         View      PDF      Code & Data      Google Scholar    Christian Rauh, Jan Schwalbach (2020) “The ParlSpeech V2 data set: Full-text corpora of 6.3 million parliamentary speeches in the key legislative chambers of nine representative democracies”  Harvard Dataverse,         View      PDF      Code & Data      Google Scholar      CrossRef citations: NA    Christian Rauh (2018) “An Agenda-Setter in Decline? Legislative Activity of the European Commission 1985–2016”  Annual Conference of the European Political Science Association (EPSA 2018),         View      PDF      Google Scholar    Christian Rauh, Jan Schwalbach, Pieter De Wilde (2017) “The ParlSpeech data set: Annotated full-text vectors of 3.9 million plenary speeches in the key legislative chambers of seven European states”  Harvard Dataverse,         View      PDF      Code & Data      Google Scholar      CrossRef citations: NA    Christian Rauh (2016) “No longer an ivory tower: how public debates influence European Commission policies”  LSE European Politics and Policy (EUROPP) Blog,         View      PDF      Google Scholar    Miriam Hartlapp, Julia Metz, Christian Rauh (2015) “Conflict inside the European Commission is a key factor in shaping EU legislation”  LSE European Politics and Policy (EUROPP) Blog,         View      PDF      Google Scholar    Alexandros Tokhi, Christian Rauh (2015) “Die schiere Menge sagt noch nichts Big Data in den Sozialwissenschaften”  WZB-Mitteilungen,  150: 6-9.         View      PDF      Google Scholar    Christian Rauh (2014) “The EU’s attempts to manage air transport regulation illustrate the extent to which supranational actors can send credible signals to financial markets”  LSE European Politics and Policy (EUROPP) Blog,         View      PDF      Google Scholar    Christian Rauh (2014) “And It Does Listen-Sometimes Public Debates Can Influence the Politics of the EU Commission”  WZB Report,  2014.         View      PDF      Google Scholar    Michael Zürn, Christian Rauh (2014) “» Legitimationsprobleme im Früheuropäismus «”  Frankfurter Allgemeine Zeitung,  19(2014): 6-6.         View      Google Scholar    Christian Rauh (2012) “Politicisation, Issue Salience, and Consumer Policies of the European Commission: Does Public Awareness and Contestation of Supranational Matters Increase the Responsiveness of Europe’s central agenda-setter?”  Freie Universität Berlin,         View      Google Scholar    Miriam Hartlapp, Julia Metz, Christian Rauh (2010) “How external interests enter the European Commission: Mechanisms at play in legislative position formation”  WZB Discussion Paper,  SP IV 2010-501.         View      PDF      Google Scholar    Miriam Hartlapp, Julia Metz, Christian Rauh (2010) “The agenda set by the EU Commission: the result of balanced or biased aggregation of positions?”  LEQS paper,  21.         View      Google Scholar    Miriam Hartlapp, Julia Metz, Christian Rauh (2010) “Made in Brussels Wie externe Interessen ihren Weg in die Politikformulierung der EUKommission finden”  WZB-Mitteilungen,  130.         View      PDF      Google Scholar    Christian Rauh (2009) “The Repeatedly Low Turnout in EP Elections: Political Elites Fail in Politicising Citizens.”  A Different View - IAPSS Monthly News Magazine,  31: 3-5.         Google Scholar    Christian Rauh (2008) “From Chicago to Brussels: EU regulation of international air transport and the stock market performance of internationally operating airlines”         Google Scholar    Christian Rauh (2007) “Heilmittel oder Freifahrtschein? Zur Anwendbarkeit der Offenen Methode der Koordinierung auf die europäische Strukturpolitik”  GRIN Verlag,         View      Google Scholar    Christian Rauh (2006) “Legal Harmonization. A case study on modelling the legislative processes of the European Union.”  GRIN Verlag,         View      Google Scholar    Christian Rauh (2006) “Entscheidungsverfahren und das Demokratiedefizit. Zum Einfluss des Europäischen Parlaments auf die Gesetzgebung der Europäischen Union”  GRIN Verlag,         View      Google Scholar    Christian Rauh, R Kappe, A Kirchner (2006) “Bowlen am Wahltag-Sozialkapital und Wahlbeteiligung in 94 europäischen Regionen”  GRIN Verlag,         View      Google Scholar    Christian Rauh (2005) “Mikropolitik–Verstehen oder Erklären? Der Erkenntnisgewinn der Strategischen Organisationsanalyse nach Crozier und Friedberg”  GRIN Verlag,         View      Google Scholar    Christian Rauh (2005) “Fitting already in? Romania and the political criterion of Copenhagen”  GRIN Verlag,         View      Google Scholar"
+  },
+  {
+    "objectID": "publications.html#citation-metrics",
+    "href": "publications.html#citation-metrics",
+    "title": "Publications",
+    "section": "Citation metrics",
+    "text": "Citation metrics\n\n  Web of Science Author Record"
   }
 ]

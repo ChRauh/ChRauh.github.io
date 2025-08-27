@@ -204,7 +204,7 @@ make_icons <- function(pub) {
   html <- c()
   if (pub$summary) {
     html <- c(html, as.character(icon_link(
-      icon = "fa fa-link",
+      icon = "fas fa-link",
       text = "Summary",
       url  = pub$url_summary, 
       class = "icon-link-summary", 
@@ -213,21 +213,21 @@ make_icons <- function(pub) {
   }
   if (!is.na(pub$url_pub)) {
     html <- c(html, as.character(icon_link(
-      icon = "fa fa-link",
+      icon = "fas fa-link",
       text = "View",
       url  = pub$url_pub
     )))
   }
   if (!is.na(pub$url_pdf)) {
     html <- c(html, as.character(icon_link(
-      icon = "fa fa-file",
+      icon = "fas fa-file",
       text = "PDF",
       url  = pub$url_pdf
     )))
   }
   if (!is.na(pub$url_repo)) {
     html <- c(html, as.character(icon_link(
-      icon = "fa fa-github",
+      icon = "fas fa-github",
       text = "Code & Data",
       url  = pub$url_repo
     )))
