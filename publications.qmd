@@ -59,10 +59,6 @@ Publication and citation data last updated: `r Sys.Date()`
 
 <br>
 
-
-
-
-
 </center>
 
 <br>

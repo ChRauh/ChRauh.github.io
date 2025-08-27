@@ -3,7 +3,7 @@ library(stringr)
 library(dplyr)
 library(readr)
 library(tidyverse)
-library(fontawesome)
+# library(fontawesome)
 
 knitr::opts_chunk$set(
   collapse = TRUE,
@@ -214,14 +214,15 @@ make_icons <- function(pub) {
   if (!is.na(pub$url_pub)) {
     html <- c(html, as.character(icon_link(
       icon = "fa fa-link",
+      # icon = "bi bi-link-45deg",
       text = "View",
       url  = pub$url_pub
     )))
   }
   if (!is.na(pub$url_pdf)) {
     html <- c(html, as.character(icon_link(
-      # icon = "fa fa-file",
-      icon = "bi bi-filetype-pdf",
+      icon = "fa fa-file",
+      # icon = "bi bi-filetype-pdf",
       text = "PDF",
       url  = pub$url_pdf
     )))
@@ -230,6 +231,7 @@ make_icons <- function(pub) {
     html <- c(html, as.character(icon_link(
       # icon = "fa fa-github",
       icon = "fa-brands fa-github",
+      # icon = "bi bi-github",
       text = "Code & Data",
       url  = pub$url_repo
     )))
