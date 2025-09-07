@@ -1,0 +1,26 @@
+---
+title: "Wer spricht wie über die EU?"
+description: "Video interview zur Relevanz der EU in nationalen Parliamentsdebatten"
+subtitle: ""
+author: 
+  - name: Christian Rauh
+  - name: Gabriele Kammerer
+date: "2020-10-14"
+categories: [video, interview]
+image: "featured.jpg"
+
+---
+
+{{< video https://youtu.be/r6SIoD3N5D8 >}}
+
+<br>
+
+Die im Interview diskutierten Studien finden Sie hier:
+
+[Rauh, Christian and Pieter De Wilde (2018) "The Opposition deficit in EU accountability: Evidence from over 20 years of plenary debate in four member states." European Journal of Political Research 57(1): 194-216.](https://ejpr.onlinelibrary.wiley.com/doi/abs/10.1111/1475-6765.12222)
+  
+[Rauh, Christian (2015) "Communicating supranational governance? The salience of EU affairs in the German Bundestag, 1991-2013". European Union Politics 16(1): 116-138.](https://journals.sagepub.com/doi/abs/10.1177/1465116514551806)
+
+  
+  
+  

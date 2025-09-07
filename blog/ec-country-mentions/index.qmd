@@ -1,0 +1,18 @@
+---
+title: "Which countries get mentioned in EC press releases?"
+description: "Toying around with a new corpus and animated ggplots"
+subtitle: ""
+author: 
+  - name: Christian Rauh
+date: "2019-08-11"
+categories: [visualization, data]
+image: "featured.jpg"
+
+---
+
+<br>
+
+![gif](ec_countries.gif)
+
+
+

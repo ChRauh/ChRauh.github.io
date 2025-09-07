@@ -1,0 +1,19 @@
+---
+title: "Legislative proposals from the European Commission (1986-2016)"
+description: "Collecting legislative data from Eur-Lex"
+subtitle: ""
+author: 
+  - name: Christian Rauh
+date: "2018-01-29"
+categories: [data, visualization]
+image: "featured.png"
+---
+
+Been dancing around this since my early PhD days, but now I have finally build a scraper collecting comprehensive data on the legislative proposals of the European Commission. 
+
+An initial analysis of this data is provided in the working paper "[An agenda-setter in decline?](https://www.researchgate.net/publication/325828650_An_agenda-setter_in_decline_Legislative_activity_of_the_European_Commission_1985-2016)", but the descriptive overview below already contains quite some food for thought.
+<br>
+
+![](overview.png)
+
+

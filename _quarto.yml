@@ -25,10 +25,10 @@ website:
         href: publications.qmd
       - text: Data & Resources
         href: data-and-resources.qmd
-      - text: Teaching # Comment the Teaching part out to remove the Teaching page
+      - text: Teaching
         href: teaching.qmd
       - text: Blog et al.
-        href: posts.qmd                   
+        href: blog.qmd                   
 
 
     right: 

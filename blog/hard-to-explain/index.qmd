@@ -1,0 +1,34 @@
+---
+title: "Is Europe that hard to explain?"
+description: "Blog post on the complexity of political EU communication"
+subtitle: ""
+author: 
+  - name: Christian Rauh
+date: "2019-07-31"
+categories: [commentary]
+image: "featured.png"
+---
+
+*This post originally appeared on the (now defunct) [Orders Beyond Borders blog](https://ordersbeyondborders.blog.wzb.eu/2019/07/30/is-europe-that-hard-to-explain/).* *A German version is archived [here](https://web.archive.org/web/20250516013333/https://ordersbeyondborders.blog.wzb.eu/2019/07/30/ist-europa-so-schwer-zu-erklaren/).*
+
+Public support for the European integration project can hardly be treated as given any more. Public opinion on the EU fluctuates heavily. Critical media reporting from and about Brussels increases. And Eurosceptic campaigns and parties flourish in most EU member states.
+
+Both the public and the academic debates concentrate primarily on the strategies of the challenging actors in this regard. Yet, politicization is an [interactive proces](https://www.tandfonline.com/doi/full/10.1080/07036337.2010.546849)s. For the evolution of the debate about Europe, the political signals of the established actors are at least equally decisive.
+
+For these actors – especially from governing or major opposition parties – political science mainly expects reluctant communication about European integration. The political ‘mainstream’ is expected to avoid internal partisan conflict on the EU while trying not to endanger supranational compromises. Thus clear political signals on the EU should be rare. Against surging public politicisation, however, this strategy is risky: a lack of competition about political alternatives within Europe may quickly lead to more fundamental opposition against Europe (for versions of this argument see [here](https://institutdelors.eu/en/publications/politics-the-right-or-the-wrong-sort-of-medicine-for-the-eu/), [here](https://www.cambridge.org/core/journals/government-and-opposition/article/political-opposition-and-the-european-union-1/7C9AEB444CBFE3FF85AE655C9CD4DD93), [here](https://www.cambridge.org/core/journals/government-and-opposition/article/abs/global-governance-and-legitimacy-problems/D8C0C2A85BCDE692536AF626DBBB7C08), or [here](https://link.springer.com/chapter/10.1007/978-3-658-03925-7_5)). So, how do established political actors actually communicate on European integration?
+
+In an [earlier study](https://ejpr.onlinelibrary.wiley.com/doi/abs/10.1111/1475-6765.12222), Pieter De Wilde and I analysed the supply of EU debate in four national parliaments across more than 20 years. In these key institutions of representative democracy mainly governing parties speak about the EU. Independent from their partisan colours, established opposition parties offer systematically less debate about Europe in contrast. What is worse, the parliamentary supply of political signals about the EU falters when domestic elections are close and when public EU opinion deteriorates. These findings bolster the view that conflict defusion is the dominant EU communication strategy of established political representatives.
+
+This is emphasized further if one considers the quality of these political signals. For the conference ‘[What stories does Europe tell?](https://www.podchaser.com/podcasts/europes-stories-project-2117915/episodes/10th-anniversary-dahrendorf-le-132472857)’ I extracted three-sentence windows around literal references to the EU or European integration from almost two million parliamentary speeches in Germany, the Netherlands, Spain, and the UK. For each of these text bits I then calculated the [Flesh Reading Ease Score](https://en.wikipedia.org/wiki/Flesch%E2%80%93Kincaid_readability_tests) and compared it to a 1% random sample of parliamentary speeches from each country (a total of 19,260 speeches; data source: [ParlSpeech](https://dataverse.harvard.edu/dataverse/ParlSpeech)).
+
+The score presents a weighted index of sentence and term length. It is typically used in psycholinguistics to quantify the cognitive investment needed to decipher a text. With this instrument we can at least roughly assess how easily voters can understand political communication about Europe as compared to a random political speech.
+
+![](OBB_Complexity_English.png){fig-alt="Complexity of EU sentences in parliamentary debates"}
+
+Caution is warranted when interpreting these scores in absolute terms or comparing them across languages. But in relative terms the findings are unequivocally clear: In the more than 20 years of parliamentary discourse across all four covered countries, the language around European integration messages is much harder to decipher than the average political speech. When it comes to the EU, in other words, voters receive much less clear political signals.
+
+One might argue that EU topics are just more complex per se. Yet, for two reasons I consider this implausible. First, there are also national topics of high technical complexity – think of tax legislation or social insurance systems, for example. From a purely factual perspective our comparative sample should thus not be as systematically different as it is. Second, it is plausible that domestic MPs approach communication professionally. Especially in prepared speeches they should be able to express complex topics in short sentences with understandable terminology as well. Thus also for these findings we can assume that the language on Europe is intentionally diffuse for strategic reasons.
+
+This strategic perspective is furthermore bolstered by a [recent study](https://doi.org/10.1111/1475-6765.12350) with Bart Bes and Martijn Schoonvelde. We analysed around 9,000 public speeches of national leaders and European Commissioners during the onset of the Eurocrisis 2007-2015. One key finding: The complexity of their communication on European integration increases when domestic public EU opinion deteriorates in conjunction with soaring Eurosceptic parties. Also in this analysis, thus, established political actors apparently try to defuse European integration conflicts rather than sending clear stances.
+
+This faint-hearted communication might be understandable against short-term considerations. Yet, in the context of an intense public EU politicisation one may doubt whether this strategy is successful in the long term. Rhetorically obfuscating positions on Europe – instead of pro-actively defending and justifying them – plays well into the hands of those trying to sway voters by all too easy narratives of an elite collusion that is out of touch with the ordinary European citizen.

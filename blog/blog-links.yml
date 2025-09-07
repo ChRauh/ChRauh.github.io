@@ -1,0 +1,18 @@
+
+    - path: https://orf.at/stories/3291015/
+      image: "/files/images/orf-cover.jpg"
+      title: "Technokratisches BlaBla"
+      subtitle: "So schwer verständlich ist die EU"
+      author: "Florian Bock, ORF.at"
+      description: "Feature im ORF Radio zu Pressemitteilungen der EU Kommission"
+      date: "2022-11-05"
+      categories: [media, interview]
+
+    - path: https://www.uni-potsdam.de/de/nachrichten/detail/2024-10-29-wieviel-europa-steckt-in-unserem-alltag-liese-rauh-sommerer-ueber-internationale-organisationen
+      image: "/files/images/Rauh-Liese.jpg"
+      title: "Wie viel Europa steckt in unserem Alltag?"
+      subtitle: "Andrea Liese, Christian Rauh und Thomas Sommerer über internationale Organisationen"
+      author: "Silke Engel"
+      description: "Feature im Portal Zwei 2024"
+      date: "2024-10-29"
+      categories: [media, interview]

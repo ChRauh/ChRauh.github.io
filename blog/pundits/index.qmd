@@ -1,0 +1,20 @@
+---
+title: "Scholars, public intellectuals, pundits?"
+description: "Blog post on possible tensions of scholarly and public impact"
+subtitle: ""
+author: 
+  - name: Christian Rauh
+date: "2016-09-06"
+categories: [commentary, data, visualization]
+image: "featured.png"
+---
+
+I recently often find myself in discussions about the extent to which academics can and should contribute to public (often meaning: mediatized) debates or even actual consultation of policy-makers (at my current institution particularly triggered by [this](https://www.faz.net/aktuell/feuilleton/debatten/berliner-studenten-werfen-ruud-koopmans-nationalismus-vor-14357049.html), in the otherwise rather dozy German Political Science Association hotly debated [here](https://www.faz.net/aktuell/feuilleton/forschung-und-lehre/politikwissenschaft-und-ihre-lage-der-in-der-oeffentlichkeit-14186054.html)).
+
+Thus the recently published 'F.A.Z. Ökonomeneranking', which annually crowns the top 100 'most influential' German-speaking economists, caught my interest: it aims to combine measures for both public and academic impact.
+
+Academic impact is measured by the count of Scopus citations in the last four years, media impact is captured by named references in the German-speaking print and radio press during the last year, and political impact is retrieved from references in a survey that asked German MPs and government officials (n=89) for their sources of economic guidance (more detail here). I scraped the raw data table and played with it a bit. Here's what I found: <br> ![](pundits.jpg) <br>
+
+Not much, essentially. In contrast to some of the arguments frequently invoked in the discussions with my colleagues, the different 'spheres' of academic impact seem hardly related. Neither is there evidence for a trade-off between scholarly impact on the one hand, and public or political presence on the other (often heard by those particularly successful on the former dimension). Nor is there evidence that scholarly impact is a sort of necessary condition for influence in public and political debates (often the lowest-common denominator agreement from a somewhat more normative perspective).
+
+So, what do you read from this? And is there comparable data for political scientists?

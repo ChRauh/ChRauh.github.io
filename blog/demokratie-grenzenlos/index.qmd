@@ -1,0 +1,21 @@
+---
+title: "Demokratie, grenzenlos(?)"
+description: "Science Slam zum 50. Geburtstag des WZB"
+subtitle: ""
+author: 
+  - name: Christian Rauh
+date: "2019-06-19"
+categories: [video, rap]
+image: "featured.jpg"
+
+---
+<br>
+Im Rahmen des [Festakts zum 50. Geburtstag des WZB im Pierre Boulez Saal](https://issuu.com/barenboim-said-akademie/docs/190619_europa_mythos_web?e=26216380/70637572) konnte ich meine Forschung(smotivation) mal auf andere Art und Weise präsentieren.
+<br>
+{{< video https://youtu.be/cu9YrBXuSBQ >}}
+
+<br>
+
+  
+  
+  

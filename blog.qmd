@@ -1,0 +1,27 @@
+---
+title: "Blog et al."
+subtitle: ""
+description-meta: "Blog - Christian Rauh"
+listing: 
+  sort: "date desc"
+  type: default
+  page-size: 100
+  categories: true
+  sort-ui: true
+  filter-ui: true
+  feed: true
+  contents: 
+      - blog
+      - blog/blog-links.yml  # Use this file to add external links
+
+#page-layout: full
+draft-mode: unlinked
+page-navigation: false
+title-block-banner: false
+---
+This page assembles my outputs and musings that do not easily fit into standard categories ... 
+<br>
+<br>
+
+:::{#blog}
+:::

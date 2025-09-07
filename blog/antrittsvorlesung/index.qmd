@@ -1,0 +1,22 @@
+---
+title: "Kommunikationsdefizite in der EU-Politik"
+description: "Antrittsvorlesung an der Universität Potsdam"
+subtitle: ""
+author: 
+  - name: Christian Rauh
+date: "2024-03-06"
+categories: [event, presentation, video]
+image: "featured.jpg"
+
+---
+
+{{< video https://youtu.be/D31P9cWfi30 >}}
+
+<br>
+<br>
+  
+  <iframe src="https://www.slideshare.net/slideshow/embed_code/key/k4TZ7BVflhZNi0?startSlide=1" width="597" height="486" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border: var(--border-1) solid #CCC; border-width:1px; margin-bottom:5px;max-width: 100%;" allowfullscreen></iframe>
+
+  
+  
+  

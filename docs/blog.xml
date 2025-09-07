@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Christian Rauh</title>
+<link>https://chrauh.github.io/blog.html</link>
+<atom:link href="https://chrauh.github.io/blog.xml" rel="self" type="application/rss+xml"/>
+<description>Personal website of Prof. Dr. Christian Rauh</description>
+<image>
+<url>https://www.wzb.eu/themes/custom/wzb_theme/images/Logo_deutsch.svg</url>
+<title>Christian Rauh</title>
+<link>https://chrauh.github.io/blog.html</link>
+</image>
+<generator>quarto-1.6.42</generator>
+<lastBuildDate>Mon, 28 Oct 2024 23:00:00 GMT</lastBuildDate>
+<item>
+  <title>Wie viel Europa steckt in unserem Alltag?</title>
+  <link>https://chrauh.github.io/</link>
+  <description>Feature im Portal Zwei 2024</description>
+  <category>media</category>
+  <category>interview</category>
+  <guid>https://chrauh.github.io/</guid>
+  <pubDate>Mon, 28 Oct 2024 23:00:00 GMT</pubDate>
+  <media:content url="https://chrauh.github.io/files/images/Rauh-Liese.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>System unter Druck</title>
+  <dc:creator>Christian Rauh</dc:creator>
+  <dc:creator>Heiko Giebler</dc:creator>
+  <dc:creator>Jan Paul Heisig</dc:creator>
+  <link>https://chrauh.github.io/blog/pdt-mitteilungen/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p><em>Dieser Beitrag erschien zuerst in den <a href="https://bibliothek.wzb.eu/artikel/2024/f-26064.pdf">WZB Mitteilungen 183</a>.</em></p>
+<p>Demokratie braucht Demokratinnen und Demokraten. Das Ideal der kollektiven Selbstbestimmung lässt sich nur realisieren, wenn die Bürger:innen hinter ihren demokratischen Rechten und den darauf aufbauenden Entscheidungsverfahren stehen und sie im Notfall auch verteidigen. Deshalb ist es zunächst beruhigend, dass es in Umfragen wie dem World Values Survey große Zustimmung zur Aussage gibt, dass Demokratie die beste Staatsform sei.</p>
+<p>Allerdings bleibt dabei offen, wie weit der Rückhalt für die Demokratie tatsächlich reicht. Die Autokratisierungstendenzen und das Erstarken radikal-rechter Parteien in vielen Ländern bieten Anlass zur Skepsis. Möglicherweise verknüpfen die Bürger:innen sehr unterschiedliche Ideen mit dem abstrakten Ideal der Demokratie. Konkret könnten erhebliche Differenzen darin bestehen, welche individuellen Rechte und kollektiven Entscheidungsverfahren die Bürger:innen für wirklich verteidigungswürdig halten. Und was, wenn es sich bei der in Umfragen artikulierten Unterstützung für die Demokratie nur um eine Art „Schönwetterphänomen“ handelt – und nicht um tiefsitzende Überzeugungen, die auch unter widrigen Umständen Bestand haben?</p>
+<p>Tatsächlich sind die heute drängendsten gesellschaftlichen Probleme nicht immer leicht mit dem Ideal der kollektiven Selbstbestimmung zu vereinbaren. So stellen akute Krisen wie der Ausbruch der Covid-19-Pandemie eine Herausforderung für oftmals langwierige demokratische Meinungsbildungsprozesse und Entscheidungsverfahren dar. Demokratische Mitsprache und Aushandlung könnten auch dann als wenig geeignet betrachtet werden, wenn langfristige Ziele mit kurzfristigen Interessen kollidieren – wie etwa beim Klimawandel. Zudem könnten Zweifel an der Zweckmäßigkeit national verfasster demokratischer Rechte und Verfahren aufkommen, weil viele der aktuellen Herausforderungen transnationalen Charakter haben, neben Pandemie und Klimawandel z.B. auch die Migration. Und schließlich sind all diese gesellschaftlichen Herausforderungen durch hohe Komplexität und Unsicherheit gekennzeichnet, was die demokratische Willensbildung für die einzelnen Bürger:innen, aber auch für die Gesellschaft als Ganzes, kompliziert und kostenträchtig macht.</p>
+<p>Die politische Theorie hat vor diesem Hintergrund wieder und wieder betont, dass sich der tatsächliche Rückhalt für die Demokratie erst in Krisenzeiten zeigt, wenn solche Zielkonflikte sichtbar werden. Wie weit reicht also der Rückhalt der Bürger:innen im Kontext großer gesellschaftlicher Herausforderungen - wenn sie die Demokratie nicht nur grundsätzlich befürworten, sondern demokratische Rechte und Entscheidungsverfahren gegen Alternativen abwägen müssen?</p>
+<p>Dieser Frage sind wir auf dem Höhepunkt der Delta-Welle der Covid-19-Pandemie im November 2021 mit einer breit angelegten vergleichenden Bevölkerungsumfrage nachgegangen. Unsere Befragten hatten zu diesem Zeitpunkt bereits über anderthalb Jahre weitreichende Regierungsmaßnahmen zur Eindämmung des Virus erlebt. Einschränkungen individueller Rechte und Diskussionen über die (Un-)Angemessenheit verschiedener Entscheidungsverfahren waren damit mehr als nur rein hypothetische Szenarien. Mit Unterstützung des Exzellenzclusters „Contestations of the Liberal Script (SCRIPTS)“ konnten wir je 1.500 wahlberechtigte Befragte in Deutschland, Japan, Polen, Spanien, Südkorea und Ungarn mit zwei innovativen Umfrageexperimenten konfrontieren, die die angesprochenen Zielkonflikte explizit modellierten.</p>
+<p>Im ersten Experiment wurden die Befragten wiederholt gebeten, sich zwischen zwei fiktiven, aber realistischen Maßnahmenpaketen zur Eindämmung einer potenziell tödlichen Atemwegserkrankung zu entscheiden. Diese Maßnahmenpakete adressierten stets die gleichen privaten und politischen Rechte der Befragten. Welche davon eingeschränkt werden sollten und welche nicht, wurde jedoch nach dem Zufallsprinzip variiert. Mit Hilfe dieses sogenannten Conjoint-Designs kann statistisch ermittelt werden, wie sich die die verschiedenen Eingriffe in private und politische Rechte der Bürger:innen auf ihre Unterstützung für die Maßnahmenpakete der Regierung auswirken.</p>
+<p>Unsere Ergebnisse zeigen, dass die Bürger:innen sehr sensibel auf Einschränkungen ihrer privaten Rechte reagieren. Insbesondere Restriktionen bezüglich des Verlassens der eigenen Wohnung, Schulschließungen, aber auch Beschränkungen von Einkaufsmöglichkeiten jenseits des täglichen Bedarfs führten zu starker Ablehnung. Beschränkungen des internationalen Reiseverkehrs oder Ermöglichung von Arbeit im Homeoffice führten tendenziell zur stärkeren Unterstützung eines Maßnahmenpakets.</p>
+<p>Im Gegensatz dazu hatten Einschränkungen demokratischer Rechte praktisch keinen Einfluss. Konkret thematisierte unser Experiment eine Verschiebung von Wahlen, ein Verbot von Demonstrationen sowie eine stärkere Kontrolle der Medien durch die Regierung. Keiner dieser drei Faktoren hatte einen nennenswerten Effekt darauf, ob die Bürger:innen ein Maßnahmenpaket befürworteten oder ablehnten. Dieses Muster zeigte sich, von geringfügigen Abweichungen abgesehen, in allen sechs untersuchten Ländern.</p>
+<p>Es ist nicht überraschend, dass sich die Befragten in erster Linie um ihre persönlichen Freiheiten sorgen. Mit Blick auf das demokratische Ideal ist es aber schon bemerkenswert, dass die Einschränkungen ihrer politischen Rechte überhaupt keine Rolle zu spielen scheinen. Das Experiment scheint eine weitgehende Indifferenz der Bürger:innen gegenüber Einschränkungen ihrer demokratischen Rechte in Krisensituationen zu belegen.</p>
+<p>Während das erste Experiment auf die Ergebnisse von Entscheidungsprozessen fokussiert war, standen in unserem zweiten Experiment Verfahren zur Entscheidungsfindung im Mittelpunkt. Einleitend wurde dabei zunächst der Gegenstand des Regierungshandelns nach dem Zufallsprinzip variiert. Für ein Drittel der Befragten ging es um „große gesellschaftliche Herausforderungen wie die Corona-Pandemie“, für ein weiteres Drittel um „große gesellschaftliche Herausforderungen wie den Klimawandel“, für das letzte Drittel schließlich um „große gesellschaftliche Herausforderungen“ ohne weitere Spezifizierung.</p>
+<p>Die Befragten wurden sodann gebeten, verschiedene Ansätze zur Entscheidungsfindung zu vergleichen und zu priorisieren, darunter das Einbeziehen der Bevölkerungsmeinung über Umfragen oder Referenden, aber auch parlamentarische Abstimmungen oder das Anstreben eines breiten parteipolitischen Konsenses als typische Verfahren der repräsentativen Demokratie. Weitere Optionen waren der Rückgriff auf Expert:innenmeinungen, die Berücksichtigung von Wirtschaftsinteressen, internationale Koordination oder schlicht und einfach ein möglichst schnelles Regierungshandeln.</p>
+<p>Wir verwendeten dazu ein sogenanntes Best-Worst-Skalierungsverfahren, bei dem sich die Befragten wiederholt zwischen den unterschiedlichen Verfahrenslogiken entscheiden mussten. Aus der Summe dieser Entscheidungen lassen sich nun die durchschnittlichen Präferenzordnungen unserer Befragten ermitteln: Wir können also sehen, wie wichtig ihnen dezidiert demokratische Verfahren im Vergleich zu anderen Logiken der Entscheidungsfindung sind. Die über alle sechs Länder gemittelten Ergebnisse dieses Experiments fallen in den sechs recht unterschiedlichen Ländern überraschend ähnlich aus.</p>
+<p>Große Übereinstimmung, unabhängig von der Art der gesellschaftlichen Herausforderung, besteht in einem Punkt: Die Konsultation von Expert:innen ist für die Bürger:innen der weitaus wichtigste Ansatz zur Entscheidungsfindung. Die Berücksichtigung von Wirtschaftsinteressen, die direkte Befragung der Bevölkerung durch Referenden oder Umfragen und ein schnelles Handeln folgen mit einigem Abstand auf den weiteren Plätzen. Dabei zeigen sich unmittelbar plausible Unterschiede je nach Art der gesellschaftlichen Herausforderung: Zügiges Regierungshandeln wird vor allem angesichts einer pandemischen Notlage befürwortet. Die Berücksichtigung der öffentlichen Meinung wird interessanterweise vor allem dann favorisiert, wenn die Art der Herausforderung nicht genauer definiert wird. Im Mittel sind den Befragten direkt-demokratische Entscheidungslogiken also ungefähr genauso wichtig wie wirtschaftliche Interessen oder schnelle Entscheidungen allein durch die Exekutive.</p>
+<p>Auf den weiteren Plätzen landen die Betonung internationaler Koordination, wobei ihr im beim Klimawandel spürbar größere Bedeutung beigemessen wird, und ganz hinten schließlich die beiden repräsentativ-demokratischen Ansätze: das Anstreben eines parteipolitischen Konsenses und die Legitimierung kollektiver Entscheidungen durch parlamentarische Abstimmungen.</p>
+<p>Dabei gibt es, wie bereits diskutiert, zwar einige Unterschiede je nach Art der gesellschaftlichen Herausforderung, zwei zentrale Befunde sind jedoch für alle drei Gruppen gleich: Experteninput wird immer als am wichtigsten gesehen, während parlamentarische Abstimmungen immer am hinteren Ende der Skala landen.</p>
+<p>Die deutlich stärkeren Präferenzen für expert:innen- und wirtschaftsorientiertes, zum Teil auch für schnelles Handeln der Regierung stehen durchaus im Widerspruch zum Prinzip der demokratischen Kontrolle durch gleiche und angemessene Beteiligung aller Bürger:innen. Wenn sie gezwungen sind, zwischen unterschiedlichen Verfahren zu entscheiden, bevorzugen die Befragten offenbar die Stärkung von Akteuren, die ihnen gegenüber nicht durch demokratische Mechanismen rechenschaftspflichtig sind. Das heißt nicht, dass eine direkte Beteiligung als komplett unwichtig angesehen wird, aber entsprechende Verfahren rangieren im Schnitt etwa gleichauf mit wirtschaftlichen Interessen oder schnellen Entscheidungen durch die Exekutive. Bemerkenswert ist aber vor allem, dass Schlüsselmechanismen der repräsentativen Demokratie, die Berufung auf Parteien und gewählte parlamentarische Vertreter:innen, als am unwichtigsten angesehen werden. Auch dieses Muster zeigt sich in allen sechs Ländern. Diese Präferenzrangfolge lässt sich kaum mit einem besonders starken Rückhalt für das demokratische Ideal der kollektiven Selbstbestimmung in Einklang bringen.</p>
+<p>In der Gesamtschau lassen unsere Befunde zwei mögliche Interpretationen zum Rückhalt für die Demokratie in Krisenzeiten zu. Aus pragmatischer Sicht ließe sich durchaus optimistisch argumentieren, dass die befragten Bürger:innen sehr rational auf die Zielkonflikte zwischen dem Schutz demokratischer Rechte und Entscheidungsverfahren einerseits und der Bewältigung komplexer Herausforderungen wie Pandemien und Klimawandel andererseits blicken. Die starken Präferenzen für expert:innenengeleitete Entscheidungsfindung oder die Betonung internationaler Koordination bei der Bewältigung des Klimawandels stehen dabei im Einklang mit der politikwissenschaftlichen Literatur, die eine Zunahme “technokratischer Präferenzen“ konstatiert.</p>
+<p>Aus demokratietheoretischer Sicht lassen sich unsere Befunde aber auch pessimistischer als Ausdruck eines mangelnden Rückhalts für die Demokratie interpretieren. Bürger:innen scheinen ihre politischen Rechte und den damit einhergehenden Einfluss bei schwierigen Herausforderungen nicht nur weniger konsequent als andere Rechte zu verteidigen; sie scheinen ihre indirekten (Mit-)Entscheidungskompetenzen auch bereitwillig an die Exekutive oder an Expert:innen abzutreten. Dies kann durchaus Anlass zur Sorge geben: Die begrenzte Unterstützung zentraler demokratischer Rechte und Prinzipien gerade in Krisenzeiten kann dazu führen, dass demokratische Rechenschaftspflichten der Regierung ausgehöhlt werden, nicht demokratisch legitimierte Akteure an Einfluss gewinnen und Gelegenheiten für eine dauerhafte Schwächung demokratischer Mechanismen entstehen.</p>
+<p>In jedem Fall sprechen die Ergebnisse beider Experimente dafür, dass man sich nicht auf der allgemeinen Zustimmung zu abstrakten Idealen der Demokratie in Bevölkerungsumfragen ausruhen sollte. Es ist vielmehr wichtig, die Sichtweisen der Bürger:innen auf die komplexen, mehrdimensionalen Zielkonflikte in der demokratischen Regierungsführung unserer Gesellschaften zu verstehen. Empirische Ansätze, die Befragte zu einer klaren Priorisierung von Zielen und Prinzipien veranlassen, erscheinen aussagekräftiger als allgemeine Fragen zu demokratischen Einstellungen. Angesichts der Häufigkeit von nationalen, regionalen und globalen Krisensituationen sowie der zunehmenden Konkurrenz durch autoritäre Regime scheint es relevanter denn je zu verstehen, wie weiter der der Rückhalt der Bürger:innen für die Demokratie wirklich reicht.</p>
+<section id="literatur" class="level2">
+<h2 class="anchored" data-anchor-id="literatur">Literatur</h2>
+<ul>
+<li><p>Bertsou, Eri, and Daniele Caramani. 2020. The Technocratic Challenge to Democracy. Routledge.</p></li>
+<li><p>Claassen, Christopher. 2020. “Does Public Support Help Democracy Survive?” American Journal of Political Science 64(1): 118–34.</p></li>
+<li><p>Hibbing, John R., and Elizabeth Theiss-Morse. 2002. Stealth Democracy: Americans’ Beliefs About How Government Should Work. Cambridge: Cambridge University Press.</p></li>
+<li><p>Wuttke, Alexander, Konstantin Gavras, and Harald Schoen. 2022. “Have Europeans Grown Tired of Democracy? New Evidence from Eighteen Consolidated Democracies, 1981–2018.” British Journal of Political Science 52(1): 416–28.</p></li>
+</ul>
+
+
+</section>
+
+ ]]></description>
+  <category>commentary</category>
+  <guid>https://chrauh.github.io/blog/pdt-mitteilungen/</guid>
+  <pubDate>Thu, 14 Mar 2024 23:00:00 GMT</pubDate>
+  <media:content url="https://chrauh.github.io/blog/pdt-mitteilungen/featured.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Kommunikationsdefizite in der EU-Politik</title>
+  <dc:creator>Christian Rauh</dc:creator>
+  <link>https://chrauh.github.io/blog/antrittsvorlesung/</link>
+  <description><![CDATA[ 
+
+
+
+
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/D31P9cWfi30" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+<p><br> <br></p>
+<p><iframe src="https://www.slideshare.net/slideshow/embed_code/key/k4TZ7BVflhZNi0?startSlide=1" width="597" height="486" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border: var(--border-1) solid #CCC; border-width:1px; margin-bottom:5px;max-width: 100%;" allowfullscreen=""></iframe></p>
+
+
+
+ ]]></description>
+  <category>event</category>
+  <category>presentation</category>
+  <category>video</category>
+  <guid>https://chrauh.github.io/blog/antrittsvorlesung/</guid>
+  <pubDate>Tue, 05 Mar 2024 23:00:00 GMT</pubDate>
+  <media:content url="https://chrauh.github.io/blog/antrittsvorlesung/featured.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Technokratisches BlaBla</title>
+  <link>https://chrauh.github.io/</link>
+  <description>Feature im ORF Radio zu Pressemitteilungen der EU Kommission</description>
+  <category>media</category>
+  <category>interview</category>
+  <guid>https://chrauh.github.io/</guid>
+  <pubDate>Fri, 04 Nov 2022 23:00:00 GMT</pubDate>
+  <media:content url="https://chrauh.github.io/files/images/orf-cover.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Wer spricht wie über die EU?</title>
+  <dc:creator>Christian Rauh</dc:creator>
+  <dc:creator>Gabriele Kammerer</dc:creator>
+  <link>https://chrauh.github.io/blog/interview-EU-salience/</link>
+  <description><![CDATA[ 
+
+
+
+
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/r6SIoD3N5D8" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+<p><br></p>
+<p>Die im Interview diskutierten Studien finden Sie hier:</p>
+<p><a href="https://ejpr.onlinelibrary.wiley.com/doi/abs/10.1111/1475-6765.12222">Rauh, Christian and Pieter De Wilde (2018) “The Opposition deficit in EU accountability: Evidence from over 20 years of plenary debate in four member states.” European Journal of Political Research 57(1): 194-216.</a></p>
+<p><a href="https://journals.sagepub.com/doi/abs/10.1177/1465116514551806">Rauh, Christian (2015) “Communicating supranational governance? The salience of EU affairs in the German Bundestag, 1991-2013”. European Union Politics 16(1): 116-138.</a></p>
+
+
+
+ ]]></description>
+  <category>video</category>
+  <category>interview</category>
+  <guid>https://chrauh.github.io/blog/interview-EU-salience/</guid>
+  <pubDate>Tue, 13 Oct 2020 22:00:00 GMT</pubDate>
+  <media:content url="https://chrauh.github.io/blog/interview-EU-salience/featured.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Which countries get mentioned in EC press releases?</title>
+  <dc:creator>Christian Rauh</dc:creator>
+  <link>https://chrauh.github.io/blog/ec-country-mentions/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p><br></p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://chrauh.github.io/blog/ec-country-mentions/ec_countries.gif" class="img-fluid figure-img"></p>
+<figcaption>gif</figcaption>
+</figure>
+</div>
+
+
+
+ ]]></description>
+  <category>visualization</category>
+  <category>data</category>
+  <guid>https://chrauh.github.io/blog/ec-country-mentions/</guid>
+  <pubDate>Sat, 10 Aug 2019 22:00:00 GMT</pubDate>
+  <media:content url="https://chrauh.github.io/blog/ec-country-mentions/featured.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Is Europe that hard to explain?</title>
+  <dc:creator>Christian Rauh</dc:creator>
+  <link>https://chrauh.github.io/blog/hard-to-explain/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p><em>This post originally appeared on the (now defunct) <a href="https://ordersbeyondborders.blog.wzb.eu/2019/07/30/is-europe-that-hard-to-explain/">Orders Beyond Borders blog</a>.</em> <em>A German version is archived <a href="https://web.archive.org/web/20250516013333/https://ordersbeyondborders.blog.wzb.eu/2019/07/30/ist-europa-so-schwer-zu-erklaren/">here</a>.</em></p>
+<p>Public support for the European integration project can hardly be treated as given any more. Public opinion on the EU fluctuates heavily. Critical media reporting from and about Brussels increases. And Eurosceptic campaigns and parties flourish in most EU member states.</p>
+<p>Both the public and the academic debates concentrate primarily on the strategies of the challenging actors in this regard. Yet, politicization is an <a href="https://www.tandfonline.com/doi/full/10.1080/07036337.2010.546849">interactive proces</a>s. For the evolution of the debate about Europe, the political signals of the established actors are at least equally decisive.</p>
+<p>For these actors – especially from governing or major opposition parties – political science mainly expects reluctant communication about European integration. The political ‘mainstream’ is expected to avoid internal partisan conflict on the EU while trying not to endanger supranational compromises. Thus clear political signals on the EU should be rare. Against surging public politicisation, however, this strategy is risky: a lack of competition about political alternatives within Europe may quickly lead to more fundamental opposition against Europe (for versions of this argument see <a href="https://institutdelors.eu/en/publications/politics-the-right-or-the-wrong-sort-of-medicine-for-the-eu/">here</a>, <a href="https://www.cambridge.org/core/journals/government-and-opposition/article/political-opposition-and-the-european-union-1/7C9AEB444CBFE3FF85AE655C9CD4DD93">here</a>, <a href="https://www.cambridge.org/core/journals/government-and-opposition/article/abs/global-governance-and-legitimacy-problems/D8C0C2A85BCDE692536AF626DBBB7C08">here</a>, or <a href="https://link.springer.com/chapter/10.1007/978-3-658-03925-7_5">here</a>). So, how do established political actors actually communicate on European integration?</p>
+<p>In an <a href="https://ejpr.onlinelibrary.wiley.com/doi/abs/10.1111/1475-6765.12222">earlier study</a>, Pieter De Wilde and I analysed the supply of EU debate in four national parliaments across more than 20 years. In these key institutions of representative democracy mainly governing parties speak about the EU. Independent from their partisan colours, established opposition parties offer systematically less debate about Europe in contrast. What is worse, the parliamentary supply of political signals about the EU falters when domestic elections are close and when public EU opinion deteriorates. These findings bolster the view that conflict defusion is the dominant EU communication strategy of established political representatives.</p>
+<p>This is emphasized further if one considers the quality of these political signals. For the conference ‘<a href="https://www.podchaser.com/podcasts/europes-stories-project-2117915/episodes/10th-anniversary-dahrendorf-le-132472857">What stories does Europe tell?</a>’ I extracted three-sentence windows around literal references to the EU or European integration from almost two million parliamentary speeches in Germany, the Netherlands, Spain, and the UK. For each of these text bits I then calculated the <a href="https://en.wikipedia.org/wiki/Flesch%E2%80%93Kincaid_readability_tests">Flesh Reading Ease Score</a> and compared it to a 1% random sample of parliamentary speeches from each country (a total of 19,260 speeches; data source: <a href="https://dataverse.harvard.edu/dataverse/ParlSpeech">ParlSpeech</a>).</p>
+<p>The score presents a weighted index of sentence and term length. It is typically used in psycholinguistics to quantify the cognitive investment needed to decipher a text. With this instrument we can at least roughly assess how easily voters can understand political communication about Europe as compared to a random political speech.</p>
+<p><img src="https://chrauh.github.io/blog/hard-to-explain/OBB_Complexity_English.png" class="img-fluid" alt="Complexity of EU sentences in parliamentary debates"></p>
+<p>Caution is warranted when interpreting these scores in absolute terms or comparing them across languages. But in relative terms the findings are unequivocally clear: In the more than 20 years of parliamentary discourse across all four covered countries, the language around European integration messages is much harder to decipher than the average political speech. When it comes to the EU, in other words, voters receive much less clear political signals.</p>
+<p>One might argue that EU topics are just more complex per se. Yet, for two reasons I consider this implausible. First, there are also national topics of high technical complexity – think of tax legislation or social insurance systems, for example. From a purely factual perspective our comparative sample should thus not be as systematically different as it is. Second, it is plausible that domestic MPs approach communication professionally. Especially in prepared speeches they should be able to express complex topics in short sentences with understandable terminology as well. Thus also for these findings we can assume that the language on Europe is intentionally diffuse for strategic reasons.</p>
+<p>This strategic perspective is furthermore bolstered by a <a href="https://doi.org/10.1111/1475-6765.12350">recent study</a> with Bart Bes and Martijn Schoonvelde. We analysed around 9,000 public speeches of national leaders and European Commissioners during the onset of the Eurocrisis 2007-2015. One key finding: The complexity of their communication on European integration increases when domestic public EU opinion deteriorates in conjunction with soaring Eurosceptic parties. Also in this analysis, thus, established political actors apparently try to defuse European integration conflicts rather than sending clear stances.</p>
+<p>This faint-hearted communication might be understandable against short-term considerations. Yet, in the context of an intense public EU politicisation one may doubt whether this strategy is successful in the long term. Rhetorically obfuscating positions on Europe – instead of pro-actively defending and justifying them – plays well into the hands of those trying to sway voters by all too easy narratives of an elite collusion that is out of touch with the ordinary European citizen.</p>
+
+
+
+ ]]></description>
+  <category>commentary</category>
+  <guid>https://chrauh.github.io/blog/hard-to-explain/</guid>
+  <pubDate>Tue, 30 Jul 2019 22:00:00 GMT</pubDate>
+  <media:content url="https://chrauh.github.io/blog/hard-to-explain/featured.png" medium="image" type="image/png" height="81" width="144"/>
+</item>
+<item>
+  <title>Demokratie, grenzenlos(?)</title>
+  <dc:creator>Christian Rauh</dc:creator>
+  <link>https://chrauh.github.io/blog/demokratie-grenzenlos/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p><br> Im Rahmen des <a href="https://issuu.com/barenboim-said-akademie/docs/190619_europa_mythos_web?e=26216380/70637572">Festakts zum 50. Geburtstag des WZB im Pierre Boulez Saal</a> konnte ich meine Forschung(smotivation) mal auf andere Art und Weise präsentieren. <br></p>
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/cu9YrBXuSBQ" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+<p><br></p>
+
+
+
+ ]]></description>
+  <category>video</category>
+  <category>rap</category>
+  <guid>https://chrauh.github.io/blog/demokratie-grenzenlos/</guid>
+  <pubDate>Tue, 18 Jun 2019 22:00:00 GMT</pubDate>
+  <media:content url="https://chrauh.github.io/blog/demokratie-grenzenlos/featured.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>beRechnen &amp; Beschreiben</title>
+  <dc:creator>Christian Rauh</dc:creator>
+  <link>https://chrauh.github.io/blog/academic-rap/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p><br></p>
+<p>Some late night self-reflections on the daily academic grind (sorry, but this has to happen in German…).</p>
+<p><br> <br></p>
+<section id="berechnen" class="level2">
+<h2 class="anchored" data-anchor-id="berechnen">beRechnen</h2>
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=3400969780/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=878585197/transparent=true/" seamless="">
+<a href="https://cuz-mc.bandcamp.com/album/bestandsaufnahme-2017">Bestandsaufnahme 2017 von CUZ</a>
+</iframe>
+<p><br> <br></p>
+</section>
+<section id="beschreiben" class="level2">
+<h2 class="anchored" data-anchor-id="beschreiben">Beschreiben</h2>
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=3400969780/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=1558155142/transparent=true/" seamless="">
+<a href="https://cuz-mc.bandcamp.com/album/bestandsaufnahme-2017">Bestandsaufnahme 2017 von CUZ</a>
+</iframe>
+<p><br></p>
+
+
+</section>
+
+ ]]></description>
+  <category>rap</category>
+  <guid>https://chrauh.github.io/blog/academic-rap/</guid>
+  <pubDate>Wed, 21 Mar 2018 23:00:00 GMT</pubDate>
+  <media:content url="https://chrauh.github.io/blog/academic-rap/featured.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Why so much fuss about one supranational official?</title>
+  <dc:creator>Christian Rauh</dc:creator>
+  <link>https://chrauh.github.io/blog/secgen/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p><em>This post appeared firstly on the <a href="https://web.archive.org/web/20250614120642/https://ordersbeyondborders.blog.wzb.eu/2018/03/22/why-so-much-fuss-about-one-supranational-official/">Orders beyond Borders blog</a> of the WZB Global Governance department.</em></p>
+<p>Four weeks ago, Jean Claude Juncker appointed Martin Selmayr as the European Commission’s future administrative head – the so-called Secretary-General. <a href="https://www.politico.eu/article/martin-selmayr-secures-commission-top-job/">This move came as a surprise, entered the respective Commission meeting agenda only last minute, and sidestepped the usual procedure for internal promotions.</a> This staffing choice made it to various national news outlets (Le Monde, Zeit Online, and The Irish Times, to name a few), significantly increased <a href="https://trends.google.de/trends/explore?q=martin%20selmayr&amp;date=2018-02-14%202018-03-14">online searches</a>, created a veritable <a href="https://x.com/search?l=&amp;q=%23selmayr%20since%3A2018-02-14%20until%3A2018-03-14&amp;src=typd">Twitter storm</a>, and ultimately culminated into a rather <a href="https://www.youtube.com/watch?v=9ljc_hZCqH0">confrontational debate in the European Parliament</a>. For a public servant job in Brussels’ Berlaymont building, this is an unusual amount of public spotlight. Why so much fuss about one supranational official?</p>
+<p>Clearly, Selmayr <a href="https://www.sueddeutsche.de/politik/martin-selmayr-der-bad-boy-aus-bruessel-1.3486741">has made a controversial name for himself in the Brussels scene</a> – not the least in his role as the current Chef de <a href="https://en.wikipedia.org/wiki/Cabinet_(European_Commission)">Cabinet</a>, and thus major political advisor of the Commission President. And, of course, political context matters: The European Commission currently struggles to fight democratic backsliding in several EU member states while it itself is attacked for a lack of democracy by populist parties mobilising against the EU. In this setting, the allegations of patronage surrounding Selmayr’s appointment provide welcomed ammunition for the Commission’s trigger-happy critics.</p>
+<p>But this is only part of the story. Outspokenly Europhile members of the European Parliament <a href="https://www.euractiv.com/section/politics/news/budget-committee-to-look-into-selmayrgate-after-fury-in-strasbourg/">reacted furiously to this seemingly administrative staffing move</a>. This, I argue, is driven by the fact that the post of the Commission’s Secretary-General carries much more political clout than its primarily administrative denomination suggests. Three key insights from research into EU decision making underline this.</p>
+<p>First, as an institution, the European Commission is torn between being a purely administrative bureaucracy and a decidedly political executive – a tension that is reflected not only among European Commissioners but also <a href="https://www.researchgate.net/publication/313441101_The_Commission_services_a_powerful_permanent_bureaucracy">among the administrative echelons of Europe’s central bureaucracy</a>. Most importantly, the Commission has both informal and formal means to influence the legislative agenda of the EU. Informally, the Commission can, for example, prepare the ground for future legislation by framing specific issues as European, by launching investigations of the European Court of Justice, by conducting its own studies and stakeholder consultations, or by selectively querying public opinion. Formally, the Commission holds the monopoly of legislative initiative in many areas of European competence, meaning that the Council of Ministers or the European Parliament cannot act without a law proposal elaborated by the Commission. This grants the Commission an institutional head start into selecting the rules and policy options that are proposed for regulating European societies.</p>
+<p>Second, <a href="https://global.oup.com/academic/product/which-policy-for-europe-9780199688036?cc=de&amp;lang=en&amp;">the ways in which diverging interests are coordinated inside the European Commission affect the policies the institution finally proposes for Europe</a>. Especially in this regard, the <a href="https://doi.org/10.1080/07036337.2012.703663">Commission’s Secretariat-General has considerable power</a>. It is, for example, exactly the Commission department Martin Selmayr now heads that signs responsible for the Commission’s five-year legislative programme. This responsibility yields influence on whether, which, and when other Directorates-General of the Commission can formulate European policy on specific topics. And once these departments actually draft legislations, the Secretariat-General controls the so-called ‘upstream coordination’, steering, for instance, which other departments get consulted internally or managing the impact assessments of different policy options.</p>
+<p>Third, the Secretariat-General has a very long time horizon, which exceeds the usual office term of most European Commissioners, Parliamentarians, or member state representatives. In fact, in its sixty-one-year history, the European Commission has only had six Secretaries-General – excluding Selmayr’s recently started term – amounting to an average of more than ten years in office. While elected politicians come and go, the Secretary-General has the resources and the time to consistently work on legislative issues, set precedents, and built political momentum over time. <a href="https://doi.org/10.1080/07036337.2016.1257007">This yields additional strategic advantages in shaping the contents of European law</a>.</p>
+<p>These three insights together lead to one conclusion: The post of the Commission’s Secretary-General is much more than a managerial position. Instead, it comes with significant political influence over legislative decision making in the EU. Against this political clout, a controversial debate on how and by whom this post should be filled is actually not very surprising. But against the <a href="https://link.springer.com/chapter/10.1007/978-3-658-03925-7_5">public politicisation of the EU</a>, it is surprising that the Commission (apparently) thought that evading such a debate ex ante was a smart idea.</p>
+
+
+
+ ]]></description>
+  <category>commentary</category>
+  <guid>https://chrauh.github.io/blog/secgen/</guid>
+  <pubDate>Wed, 21 Mar 2018 23:00:00 GMT</pubDate>
+  <media:content url="https://chrauh.github.io/blog/secgen/featured.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Legislative proposals from the European Commission (1986-2016)</title>
+  <dc:creator>Christian Rauh</dc:creator>
+  <link>https://chrauh.github.io/blog/legislative-proposals/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Been dancing around this since my early PhD days, but now I have finally build a scraper collecting comprehensive data on the legislative proposals of the European Commission.</p>
+<p>An initial analysis of this data is provided in the working paper “<a href="https://www.researchgate.net/publication/325828650_An_agenda-setter_in_decline_Legislative_activity_of_the_European_Commission_1985-2016">An agenda-setter in decline?</a>”, but the descriptive overview below already contains quite some food for thought. <br></p>
+<p><img src="https://chrauh.github.io/blog/legislative-proposals/overview.png" class="img-fluid"></p>
+
+
+
+ ]]></description>
+  <category>data</category>
+  <category>visualization</category>
+  <guid>https://chrauh.github.io/blog/legislative-proposals/</guid>
+  <pubDate>Sun, 28 Jan 2018 23:00:00 GMT</pubDate>
+  <media:content url="https://chrauh.github.io/blog/legislative-proposals/featured.png" medium="image" type="image/png" height="86" width="144"/>
+</item>
+<item>
+  <title>Scholars, public intellectuals, pundits?</title>
+  <dc:creator>Christian Rauh</dc:creator>
+  <link>https://chrauh.github.io/blog/pundits/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>I recently often find myself in discussions about the extent to which academics can and should contribute to public (often meaning: mediatized) debates or even actual consultation of policy-makers (at my current institution particularly triggered by <a href="https://www.faz.net/aktuell/feuilleton/debatten/berliner-studenten-werfen-ruud-koopmans-nationalismus-vor-14357049.html">this</a>, in the otherwise rather dozy German Political Science Association hotly debated <a href="https://www.faz.net/aktuell/feuilleton/forschung-und-lehre/politikwissenschaft-und-ihre-lage-der-in-der-oeffentlichkeit-14186054.html">here</a>).</p>
+<p>Thus the recently published ‘F.A.Z. Ökonomeneranking’, which annually crowns the top 100 ‘most influential’ German-speaking economists, caught my interest: it aims to combine measures for both public and academic impact.</p>
+<p>Academic impact is measured by the count of Scopus citations in the last four years, media impact is captured by named references in the German-speaking print and radio press during the last year, and political impact is retrieved from references in a survey that asked German MPs and government officials (n=89) for their sources of economic guidance (more detail here). I scraped the raw data table and played with it a bit. Here’s what I found: <br> <img src="https://chrauh.github.io/blog/pundits/pundits.jpg" class="img-fluid"> <br></p>
+<p>Not much, essentially. In contrast to some of the arguments frequently invoked in the discussions with my colleagues, the different ‘spheres’ of academic impact seem hardly related. Neither is there evidence for a trade-off between scholarly impact on the one hand, and public or political presence on the other (often heard by those particularly successful on the former dimension). Nor is there evidence that scholarly impact is a sort of necessary condition for influence in public and political debates (often the lowest-common denominator agreement from a somewhat more normative perspective).</p>
+<p>So, what do you read from this? And is there comparable data for political scientists?</p>
+
+
+
+ ]]></description>
+  <category>commentary</category>
+  <category>data</category>
+  <category>visualization</category>
+  <guid>https://chrauh.github.io/blog/pundits/</guid>
+  <pubDate>Mon, 05 Sep 2016 22:00:00 GMT</pubDate>
+  <media:content url="https://chrauh.github.io/blog/pundits/featured.png" medium="image" type="image/png" height="144" width="144"/>
+</item>
+<item>
+  <title>BREXIT is wrong - and should thus be implemented quickly</title>
+  <dc:creator>Christian Rauh</dc:creator>
+  <link>https://chrauh.github.io/blog/brexit/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p><br></p>
+<p>In my opinion the outcome of the British referendum is wrong on so many accounts. Personally, some of my most formative European experiences took place on British soil. Good friends as well as dear colleagues live and work in the UK. The ‘Leave’ majority has upset their way of living and it shattered my beliefs about many future opportunities for me and my family. But beyond these personal motives, I think that the referendum outcome is wrong because many if not most contemporary societal challenges require a decent level of economic and political cooperation across national borders.</p>
+<p>Don’t get me wrong, I am not one of those claiming that the EU constantly surfs the Pareto frontier distributing nothing but goodies for everybody who is smart enough to recognize them. Rather, my academic writing has hopefully helped to clarify that cooperation across borders comes with institutions that do make intrinsically political choices (see e.g.&nbsp;<a href="https://doi.org/10.1111/jcms.12057">here</a>, <a href="https://revistas.udc.es/index.php/ejge/article/view/ejge.2013.2.1.4285">here</a>or <a href="https://books.google.de/books?id=qkReBAAAQBAJ&amp;lpg=PP1&amp;hl=de&amp;pg=PP1#v=onepage&amp;q&amp;f=false">here</a>). Like in national capitals, collective decision-making in Brussels will at times benefit some while disadvantaging others. Thus it is true that the sacked worker in Birmingham, the frustrated fisherman in Cornwall, or the NHS-dependent old lady in Brighton can put forward pretty rational arguments against key EU policies. And it is far from trivial to adequately weigh their justified scepticism against the equally justified EU defences that can be expected from the Oxford student, the City banker or the Polish shop owner.</p>
+<p>In this situation – I have argued e.g.&nbsp;<a href="https://journals.sagepub.com/doi/10.1177/1465116514551806">here</a>, <a href="https://www.academia.edu/4175184/The_Repeatedly_Low_Turnout_in_EP_Elections_Political_Elites_Fail_in_Politicising_Citizens">here</a> or <a href="https://www.amazon.com/Responsive-Technocracy-Politicisation-Consumer-Commission/dp/1785521276/ref=sr_1_1?ie=UTF8&amp;qid=1458739826&amp;sr=8-1&amp;keywords=A+responsive+technocracy">here</a> – public and controversial debates about EU issues become increasingly likely. And I have also argued that this is not a bad thing <em>per se</em>. Moving supranational decision-making into the public spotlight gives also those groups a say that are by now not so well represented at the office and negotiation tables in Brussels. If their arguments and preferences become visible in public debates about European integration, it will be much clearer which kind of EU and which supranational policies are actually acceptable in the affected collectives.</p>
+<p>But we should also not be naïve, politicisation will not automatically equal an enlightened debate. Indeed, most of the recent research emphasizes that EU politicisation often favours right-wing populists and can quickly deteriorate into a tyranny of the majority over well-balanced processes (good starting points are here, here and here). The UK referendum process we have just observed unfortunately supports this: particularly the ‘Leave’ campaigners successfully invoked diffuse cultural threats and addressed the gut feelings rather than the rational interests of those feeling left behind by the EU.</p>
+<p>It did not matter whether the numbers on Boris’ bus were fact or fairy tale. A plummeting FTSE as well as revolting entrepreneurs and companies did not challenge the promise of more jobs and higher incomes in a UK outside of the EU. It did not matter that no ‘leave’ leader had to explain how the UK could maintain single market access without buying into the full set of rules. In sum, the ‘leave’ leaders actually saw no need to specify any meaningful economic or political alternatives. So while the Eurosceptic campaign successfully built on the not completely unjustified collywobbles of the worker, the fisherman and the old lady, it did not offer any substantial remedy or clue on how the lives of these people would improve without the EU.</p>
+<p>So it is easy to blame demagoguery (or the half-hearted responses from the ‘remain’ campaign). But we cannot expect that self-righteous populists will take responsibility. Rather we should be reminded that voters are responsible, too – they took the ultimate decision. The lack of reasonable political alternatives for their country outside of the EU was apparently not a significant obstacle to voting ‘leave’. It seems, casting a simple protest vote against the political establishment in London and Brussels was motivation enough to make this fundamental choice.</p>
+<p>This leaves us with actually very little to learn about the voters’ sincere EU and policy preferences. But thus repeating or circumventing the referendum is equally wrong. If one buys that European integration has created some societal losers that will have to be compensated at some stage, if one buys that containing public EU politicisation is highly unlikely in this context, and if one buys that so far mainly irresponsible populists have gained from politicisation, any attempt to sneak around the referendum outcome perpetuates protest voting against the EU. In contrast, now accepting the majority vote in last weeks’ referendum sends a clear message to UK and EU citizens. It says: your choices do count, but this power comes with responsibility. It says: your vote is consequential, but not only for the political establishment but also for your very own life circumstances. This is not about punishing British voters for what I – personally – consider a wrong decision. Rather, it is about empowering them. In the light of equally irresponsible and populist platforms in various democracies, voters in Europe and beyond should be strongly encouraged to evaluate their options wisely.</p>
+<p>So while I think that the BREXIT decision is wrong, I am deeply convinced that it should now be implemented quickly. We are in a game of poker with the Johnson, Hofer, and Wilders types, and if we don’t call their bluffs as early as possible, we risk losing the whole evening.</p>
+
+
+
+ ]]></description>
+  <category>commentary</category>
+  <guid>https://chrauh.github.io/blog/brexit/</guid>
+  <pubDate>Fri, 01 Jul 2016 22:00:00 GMT</pubDate>
+  <media:content url="https://chrauh.github.io/blog/brexit/featured.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Big data in the social sciences</title>
+  <dc:creator>Alexandros Tokhi</dc:creator>
+  <dc:creator>Christian Rauh</dc:creator>
+  <link>https://chrauh.github.io/blog/bigdata/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p><em>This post originally appeared in the <a href="https://wzb.eu/en/publications/wzb-mitteilungen/big-data-in-den-sozialwissenschaften">December 2015 issue of the WZB-Mitteilungen</a>.</em></p>
+<p><br></p>
+<p>Big Data has become a ubiquitous buzzword. Social networks, smartphones, and various online applications and websites constantly produce and provide information on an unprecedented scale and level of detail. Data storage is cheap and ever-improving analytical tools seem to herald a revolution in the way we understand the world. Some argue that this also fundamentally transforms science. Just crunching more data, it is assumed, allows us to take better decisions and solve social and political problems. So is the Big Data revolution the end of the social sciences as we know them?</p>
+<p>We contend that it is not. As social scientists we are particularly well trained to know that observations alone – no matter how many of them there are – hardly lead to meaningful inferences without carefully specifying the underlying assumptions and constructing valid research designs. It is the combination between the principles of social scientific inquiry with novel methods of automated data generation and processing that bears the potential to generate new insights into socially relevant questions.</p>
+<section id="dont-believe-the-hype-at-least-not-all-of-it" class="level2">
+<h2 class="anchored" data-anchor-id="dont-believe-the-hype-at-least-not-all-of-it">Don’t believe the hype – at least not all of it</h2>
+<p>The bold statements on the transformative power of the Big Data revolution are often rooted in rather naïve views on data analysis and largely unclear specifications of what Big Data actually is. One major pitfall is the belief – popular amongst computer scientists, Internet pundits and data journalists – that Big Data signals the end of theory. Corresponding arguments essentially equate Big Data with an N=all approach in which simple correlations reveal the ultimate truth about the world. For social scientists this clearly misses a crucial point: data is meaningful only with regards to a particular theory and we need to explicate the assumptions that drive our conclusions. Theory influences and even determines what we observe in a given data set, which aspects or phenomena we identify as relevant, and how we distinguish spurious correlations from causally meaningful relationships. Google’s search routines, for example, are built on the assumption that more incoming links indicate higher importance of a website. You might or might not buy into this assumption, but you should be aware of it when interpreting the results.</p>
+<p>A related pitfall is reducing Big Data only to really, really large data sets. In the social sciences we judge the number (and the composition) of our observations relative to the population of interest. The Big Data hype usually invokes images of the billions of observations that e.g.&nbsp;social media produce. But individuals select themselves into these networks – do all of your friends use Twitter? – and if we ignore these processes we might quickly draw skewed conclusions. In other, socially equally relevant, areas – such as the political commitment to international treaties discussed below – a comparatively modest number of observations might already represent the universe of cases quite well. From a social science point of view, there is simply no absolute criterion for drawing the line between ‘big’ and ‘small’ data without having a specific social phenomenon in mind. And accordingly, big and small data are subject to the same analytical challenges when it comes to measurement validity or selection bias. The modern social sciences have developed an encompassing toolkit to draw valid inferences from observational data – and with the abundance of digitally available information this asset has become more rather than less important.</p>
+<p>From our perspective, thus, Big Data does not put an end to the scientific method – but it holds significant potential to enhance it: What we indeed consider as ‘revolutionary’ is the ever expanding set of methods to automatically collect, process, and analyze digital information. In various research fields, these methods can help us in systematically analyzing only loosely structured data sources such as websites or text documents. Big Data, in other words, provides inexpensive and timesaving means to tap uncharted sources of empirical evidence. Combined with explicit theory and sound social scientific methods, these innovative and replicable means of data collection and analysis contribute to answering substantial questions.</p>
+</section>
+<section id="analyzing-politics-beyond-the-nation-state-with-big-data-technologies" class="level2">
+<h2 class="anchored" data-anchor-id="analyzing-politics-beyond-the-nation-state-with-big-data-technologies">Analyzing politics beyond the nation state with big data technologies</h2>
+<p>The study of international and supranational politics is probably not the first research area that comes to mind in the context of Big Data. Still, two examples from our own research are well suited to exemplify the potential of Big Data methods.</p>
+<p>The first example concerns a central question in international relations research: do demanding legal obligations encourage or discourage the ratification of international treaties by states? Past scholarship has produced equivocal findings, because it analyzed only subsets of relevant treaties; as a result, the question remains unresolved.</p>
+<p>The usual expectation is that states ignore demanding treaties in order to retain their freedom of action. We argue, however, that this decision varies with the substantive issue area a treaty covers. Where tougher treaty rules do commit oneself and especially other states to a specific course of action (e.g.&nbsp;reduction of air pollution, lower trade barriers), states should be more willing to sign onto more demanding obligations. When demanding treaty obligations mainly constrain one’s own freedom of action without binding others, more demanding obligations discourage ratification. The latter mechanism prevails in international human rights law, while the former applies in areas where inter-state cooperation is needed to provide common public goods (e.g.&nbsp;clean air, security).</p>
+<p>Our research question and theory inform our data choices: we need to capture individual states’ willingness for treaty ratification, here measured by the time needed to take this step, to isolate issue areas and their treaties from each another, and to seize the entire variation in demanding treaty obligations therein. We are quickly confronted with several thousand observations if we consider each of the 193 states for about 80 treaties from human rights and environmental regulation over the past 50 years.</p>
+<p>This calls for Big Data methods. Accordingly, we program and implement a webscraping algorithm in the programming language Python to automatically extract and reshape data from the United Nations Treaty Collection Database. Within 2,5 minutes we gather around 140,000 observations. Speed is, though, not the only advantage. To isolate demanding obligations, we exploit the fact that different types of treaties, which regulate the same set of rights, differ only in their degree of obligations. Framework conventions impose fewer obligations on states than their optional protocols. The Python algorithm automatically recognizes the type of treaty and then codes our demandingness indicator. In the statistical analysis of these data, we provide consistent evidence in support of our argument and resolve the question about demanding obligations.</p>
+<p>The second example from our current research focuses on EU affairs in national parliaments. To the extent that parliaments provide publically visible debates about the EU, they might dampen democratic deficits of supranational policy-making. While some argue that the incentives to politicize EU issues have increased with each transfer of political competences to the supranational level, others claim that selective partisan incentives drive public emphasis of EU topics. Extant research restricts itself to selected parliamentary debates where explicit EU questions figure on the formal agenda – ignoring the fact that the EU provides constraints and opportunities almost over the entire range of domestic issues possibly discussed in parliament.</p>
+<p>For a systematic evaluation of these competing claims, we need information on the parliamentary salience of EU affairs over time across various issue areas, different levels of EU authority, and different settings of domestic partisan competition. To meet these considerable informational requirements, we scrape all plenary protocols between 1991 and 2013 from the document server of the German Bundestag. Using our method of automated pattern recognition, we split these texts into more than 148,000 individual speeches by parliamentarians from all parties. Finally, we count all term-level references to the policies, politics, and polity of the EU in each speech with a dictionary-based text-mining algorithm implemented in the R environment.</p>
+<p>The data reveal that the amount of EU references in the German Bundestag has indeed systematically increased with each consecutive revision of EU treaties. Our results are robust to the inclusion of partisan differences and other control variables. Whether this holds beyond the German case remains to be seen and we currently extend this data collection strategy to other parliaments in EU member states.</p>
+<p>Big Data is what we make of it</p>
+<p>Big Data alone is hardly a panacea for all challenges modern societies face. If no meaningful theory is leveraged to contextualize and make sense of the abundant information, we at best only stare at huge piles of numbers. At worst, we infer policy recommendations from spurious correlations and skewed samples. That’s why the social sciences should make their voice heard in the current debates. Big Data does not end theory. It rather highlights the need for social scientists to critically reflect and give meaning to the massive flows of digits.</p>
+<p>But this also requires that the social sciences open up to Big Data technologies. First, we should be able to understand the assumptions that drive modern algorithms when assessing their societal implications. Second, we can make technologies such as webscraping, pattern recognition, and text mining part of our methodological toolkit in order to save time and other costs involved in procuring the information we need for the questions we consider relevant. Big data will not transform the social sciences, but we have a lot to add to and a lot to gain from the technologies that it offers.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>commentary</category>
+  <guid>https://chrauh.github.io/blog/bigdata/</guid>
+  <pubDate>Fri, 01 Jan 2016 23:00:00 GMT</pubDate>
+  <media:content url="https://chrauh.github.io/blog/bigdata/featured.jpg" medium="image" type="image/jpeg"/>
+</item>
+</channel>
+</rss>
