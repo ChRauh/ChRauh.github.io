@@ -2,12 +2,15 @@
 title: "Data and resources"
 description-meta: "Data - Christian Rauh"
 title-block-banner: true
-engine: knitr
-format: html
-execute: 
-  echo: false
-  message: false
-  warning: false
+# engine: knitr
+# execute: 
+#   echo: false
+#   message: false
+#   warning: false
+format:
+  html:
+     css: custom.css
+     lightbox: true 
 ---
 
 <!--Include academic icons or buttons-->
@@ -74,4 +77,27 @@ If you are missing something here, please do not hesitate to [contact](mailto:ch
 
 -   [Rauh / Kirchner / Kappe (2011) - Partisan funding of higher education in Germany - West European Politics](https://www.dropbox.com/s/xhouh8q10drrboe/hochschulausgaben.dta)
 
+
 ## Data viz examples
+
+<br>
+When generating data in either my consultancy or academic work, I try to visualize the relevant patterns meaningfully. Here are some examples from original, published analyses:
+<br>
+
+::: {.gallery-masonry #gallery data-gallery="gallery-1"}
+[![](files/images/dataviz/1_DistrSmaller200.png)](files/images/dataviz/1_DistrSmaller200.png)
+[![](files/images/dataviz/Appendix_Fig5_HumanValidation_Actorness_AcrossApproaches.png)](files/images/dataviz/Appendix_Fig5_HumanValidation_Actorness_AcrossApproaches.png)
+[![](files/images/dataviz/Appendix_Fig8_EUactorness_AnnualSpeechCounts.png)](files/images/dataviz/Appendix_Fig8_EUactorness_AnnualSpeechCounts.png)
+[![](files/images/dataviz/Citizen_Overview_WZB.png)](files/images/dataviz/Citizen_Overview_WZB.png)
+[![](files/images/dataviz/Citizen_Overview_ByTopic_WZB.png)](files/images/dataviz/Citizen_Overview_ByTopic_WZB.png)
+[![](files/images/dataviz/Draghi.png)](files/images/dataviz/Draghi.png)
+[![](files/images/dataviz/Fig_1_EUSalienceCountriesPartiesTime_WZB.jpg)](files/images/dataviz/Fig_1_EUSalienceCountriesPartiesTime_WZB.jpg)
+[![](files/images/dataviz/Fig5_EUactornessRecognition_map_post1992.png)](files/images/dataviz/Fig5_EUactornessRecognition_map_post1992.png)
+[![](files/images/dataviz/realDonaldTrump.png)](files/images/dataviz/realDonaldTrump.png)
+[![](files/images/dataviz/LastPosition_BarChart.png)](files/images/dataviz/LastPosition_BarChart.png)
+[![](files/images/dataviz/IntercoderReliability.png)](files/images/dataviz/IntercoderReliability.png)
+[![](files/images/dataviz/GG-ImpactFactor.png)](files/images/dataviz/GG-ImpactFactor.png)
+[![](files/images/dataviz/Fig1_EUMediaVisibility_EUshare_Combined_Monthly.png)](files/images/dataviz/Fig1_EUMediaVisibility_EUshare_Combined_Monthly.png)
+:::
+
+
