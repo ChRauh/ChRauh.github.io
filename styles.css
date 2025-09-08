@@ -35,3 +35,24 @@ a:hover {
   padding-top: 0.5rem !important;   /* reduce top space */
   padding-bottom: 1rem !important; /* reduce bottom space */
 }
+
+/* Tables w/out borders */
+.noborder table, 
+.noborder table td, 
+.noborder table th {
+  border: none !important;
+}
+
+
+/* Pretty progress bars that work in markdown tables */
+.skills table { border: 0; }
+.skills td, .skills th { border: 0; padding: .35rem .5rem; }
+.skills td:first-child { white-space: nowrap; width: 30%; }
+
+.skills progress { width: 100%; height: .6rem; }
+.skills progress::-webkit-progress-bar { background: var(--bs-gray-200, #e9ecef); }
+.skills progress::-webkit-progress-value { background: var(--bs-primary, #0d6efd); }
+.skills progress::-moz-progress-bar { background: var(--bs-primary, #0d6efd); }
+
+
+

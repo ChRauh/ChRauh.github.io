@@ -1,11 +1,12 @@
 ---
-title: "Curriculum Vitae"
-description-meta: "CV - Christian Rauh"
+title: "Professional experience"
+description-meta: "Experience and skills - Christian Rauh"
 title-block-banner: true
 ---
 ## Employments
-&nbsp;     
-     
+
+::: { .noborder }     
+
 |  |   |
 |:------------------------------------|:------------------------------------|
 | 03/2023-*current* | **S/W2 Professor for ‘Politics of Multilevel Governance’**, University of Potsdam |
@@ -18,10 +19,13 @@ title-block-banner: true
 | 08/2004-02/2005  | **Political Consultant in EU affairs**, Berlin Business Representation, Brussels |
 : {tbl-colwidths="[20,80]"}   
 
-&nbsp;    
+:::
+
+<br>    
 
 ## Education
-&nbsp;    
+
+::: { .noborder }    
 
 |  |   |
 |:------------------------------------|:------------------------------------|
@@ -31,9 +35,77 @@ title-block-banner: true
 | 06/2001 | **A-levels**, Hochrhein Gymnasium Waldshut(1,9) |
 : {tbl-colwidths="[20,80]"}   
 
-&nbsp;    
+:::
+
+<br>    
+
+## Software + Programming
+
+<!-- ::: {.skills} -->
+
+<!-- |  |  | -->
+<!-- |---|---:| -->
+<!-- | <strong>MS Office</strong> | <progress value="100" max="100" aria-label="MS 100%"></progress>| -->
+<!-- | <strong>LaTeX</strong> | <progress value="60" max="100" aria-label="LaTeX 60%"></progress>| -->
+<!-- | <strong>GIMP / Photoshop</strong> | <progress value="60" max="100" aria-label="GIMP 60%"></progress>| -->
+<!-- | <strong>Atlas.Ti</strong> | <progress value="60" max="100" aria-label="GIMP 60%"></progress>| -->
+<!-- | <strong>Ableton Live</strong> | <progress value="50" max="100" aria-label="Ableton 50%"></progress>| -->
+<!-- |  |  | -->
+<!-- |  |  | -->
+<!-- | <strong>R</strong> | <progress value="95" max="100" aria-label="R 95%"></progress>| -->
+<!-- | <strong>HTML / CSS</strong> | <progress value="70" max="100" aria-label="Quarto 70%"></progress>| -->
+<!-- | <strong>SQL</strong> | <progress value="60" max="100" aria-label="SQL 60%"></progress> | -->
+<!-- | <strong>Stata</strong> | <progress value="60" max="100" aria-label="Stata 60%"></progress> | -->
+<!-- | <strong>EViews</strong> | <progress value="30" max="100" aria-label="EViews 60%"></progress> | -->
+<!-- | <strong>Python</strong> | <progress value="30" max="100" aria-label="Python 30%"></progress>| -->
+<!-- : {tbl-colwidths="[20,80]"}    -->
+
+<!-- :::    -->
+
+::: {layout-ncol=2}
+
+::: {.skills}
+
+|  |  |
+|---|---:|
+| <strong>MS Office</strong> | <progress value="100" max="100" aria-label="MS 100%"></progress>|
+| <strong>LaTeX</strong> | <progress value="60" max="100" aria-label="LaTeX 60%"></progress>|
+| <strong>GIMP / Photoshop</strong> | <progress value="60" max="100" aria-label="GIMP 60%"></progress>|
+| <strong>Atlas.Ti</strong> | <progress value="60" max="100" aria-label="GIMP 60%"></progress>|
+| <strong>Ableton Live</strong> | <progress value="50" max="100" aria-label="Ableton 50%"></progress>|
+:::
+
+::: {.skills}
+
+|  |  |
+|---|---:|
+| <strong>R</strong> | <progress value="95" max="100" aria-label="R 95%"></progress>|
+| <strong>HTML / CSS</strong> | <progress value="70" max="100" aria-label="Quarto 70%"></progress>|
+| <strong>SQL</strong> | <progress value="60" max="100" aria-label="SQL 60%"></progress> |
+| <strong>Stata</strong> | <progress value="60" max="100" aria-label="Stata 60%"></progress> |
+| <strong>Python</strong> | <progress value="30" max="100" aria-label="Python 30%"></progress> |
+:::
+:::
 
 
+<br>   
+
+
+## Supervision and consultancy
+
+::: { .noborder }    
+
+|  |   |
+|:------------------------------------|:------------------------------------|
+| <strong>Bachelor/Master</strong> | More than 30 theses supervised at *Freie Universität Berlin* and *University of Potsdam*. |
+| <strong>Ph.D.</strong> | Second supervisor at the *Humboldt University of Berlin* and the *Georg August University of Göttingen* (each 1x) <br><br> External examiner at the *Erasmus Universiteit Rotterdam*, *European University Institute* Florence, *Humboldt University Berlin*, *Katholieke Universiteit Leuven*, *Leiden University*, *London School of Economics and Political Science* (LSE), *NTNU Norwegian University of Science and Technology*, *Universidade de Lisboa*, *Università degli Studi di Milano*, and the *Vrije Universiteit Amsterdam* (each 1x) <br><br> Individual mentoring of Ph.D. projects at the *Berlin Graduate School for Global and Transregional Studies* (3x) |
+| <strong>Other</strong> | Various consultancies for individual grant proposals, qualification projects, and non-academic data science projects especially regarding automated text analysis, web scraping, and data visualization methods. |
+: {tbl-colwidths="[20,80]"}   
+
+:::
+
+
+<br>   
 
 
 ## Full CV
@@ -44,4 +116,17 @@ title-block-banner: true
 
 <iframe src="files/CV_Rauh_EN.pdf" width="100%" height="1000px" style="border:none;">
 </iframe>
+
+<br>   
+
+
+## What else?
+
+::: { .noborder }    
+
+|  |  |
+|---|---:|
+| Private interests: | Cycling and bikes (n+1) <br> Rap & Slam Poetry <br> Photography <br> Basketball |
+
+:::
 

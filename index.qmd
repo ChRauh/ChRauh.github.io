@@ -1,5 +1,5 @@
 ---
-title: "Prof Dr. Christian Rauh"
+title: "Prof. Dr. Christian Rauh"
 description-meta: " Website - Christian Rauh"
 image: "files/images/CR_Portrait_round.png"
 page-navigation: false
@@ -81,16 +81,16 @@ about:
 
 :::{#hero-heading}
 
-## Welcome! (Website under construction)
+## Welcome!
 I am a senior researcher in the Global Governance unit of the [WZB Berlin Social Science Center](http://www.wzb.eu/en) and a Professor for the 'Politics of Multilevel Governance' at the [University of Potsdam](https://www.uni-potsdam.de/de/wiso/fakultaet/fachgruppen/politik-und-verwaltungswissenschaft).
     
 My research and teaching interests lie at the intersection of EU studies, comparative politics, and international relations. Focus areas include:
     
-* Decision-making of and in the European Commission
-* Public debates about European and international institutions
-* The EU's role in the international order
+* <strong>Decision-making of and in the European Commission</strong>
+* <strong>Public debates and communication about supranational politics</strong>
+* <strong>The role of the European Union in the international order</strong>
 
-My work combines solid theory with innovative empirical analysis. Luckily, this often involves the more immediate gratifications of a little programming, quantitative text analysis, and data visualization.
+Both my academic and consultancy work combines solid theoretical thinking with innovative empirical analysis. This often involves original digital <strong>data collection</strong>, advanced <strong>quantitative text analysis / NLP methods</strong>, and targeted <strong>data visualization</strong>.
 
 <!-- This website contains information on my professional bio, summarizes my academic record, provides replication data, and will once in a while offer some personal musings on politics and its scientific analysis. -->
 

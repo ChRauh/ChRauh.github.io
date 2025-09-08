@@ -8,7 +8,7 @@ author-meta: "Christian Rauh"
 
 website:
   title: "Christian Rauh"
-  image: "https://www.wzb.eu/themes/custom/wzb_theme/images/Logo_deutsch.svg"
+  image: files/images/CR_card.png
   description: "Personal website of Prof. Dr. Christian Rauh"
   favicon: files/favicon_CR.png
  
@@ -19,7 +19,7 @@ website:
     left:   # You can comment out all navigation items here if you just like to keep the index page only
 #      - text: Home
 #        href: index.qmd
-      - text: CV
+      - text: Experience
         href: experience.qmd             
       - text: Publications
         href: publications.qmd
@@ -32,6 +32,8 @@ website:
 
 
     right: 
+      - text: <strong>CV</strong>
+        href: files/CV_Rauh_EN.pdf 
       - icon: envelope
         href: mailto:christian.rauh@wzb.eu 
       - icon: linkedin
@@ -45,7 +47,7 @@ website:
   
   page-footer: 
     left: "![](files/favicon_CR.png){width=30px height=30px}  [Christian Rauh](http://www.github.com/ChRauh) &copy; <script>document.write(new Date().getFullYear())</script>" 
-    center: "Build on [Quarto Academic Website Template](https://github.com/drganghe/quarto-academic-website-template) adapted by [Dr. Gang He](http://drganghe.github.io)"
+    center: ""
     right:  
       - icon: envelope
         href: mailto:christian.rauh@wzb.eu 
@@ -61,9 +63,9 @@ website:
     location: navbar
     type: textbox
   
-  reader-mode: true
+  reader-mode: false
 
-  draft-mode: unlinked
+  draft-mode: visible
   
   repo-url: https://github.com/ChRauh/ChRauh.github.io
 #  repo-actions: [edit, issue, source]

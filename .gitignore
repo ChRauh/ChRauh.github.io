@@ -1,2 +1,7 @@
 /.quarto/
 .Rproj.user
+
+# R workspace & history
+.Rhistory
+.RData
+.Ruserdata
