@@ -1,0 +1,57 @@
+---
+title: "European Union Politics - contemporary research perspectives"
+description: "2 SWS Master-level seminar, University of Potsdam, Summer 2025"
+date: 2025-04-01        # #Encode semester via date for sorting
+image: featured.png
+categories: [EU, MA, SS2025]
+---
+
+
+
+## Outline and learning goals
+
+::: {style="text-align: justify;"}
+
+This seminar should help students in acquiring an in-depth understanding of the contemporary functions and functioning of the European Union, building on both recent empirical research in the political sciences and on group work in the seminar.<br>
+
+The seminar contents are structured along three blocks. In the *first block*, we will look at the traditional explanations of European integration and political co-operation in the EU. We then together assess whether these classical explanations still hold when we think about the different crises the EU has lived through in the last two decades. The *second block* will then zoom in on the functions and functioning of the key institutions in EU legislative politics, most notably the European Council and the Council of Ministers, the European Parliament, as well as the European Commission. Students will learn about and discuss the internal decision-making logics of these institutions and their relative influence in the EU as a whole. The *third block* finally focuses on the interactions between European decision-making on the one hand and national and international politics on the other. We will investigate the public politicisation of EU affairs in the member states to then review empirical research studying how different EU institutions respond to and deal with such controversial public debates while putting this in the context of the recent and drastic geopolitical change that the EU faces.<br>
+
+Throughout these three blocks, students will thus encounter the key questions in the current scientific and political debates about the EU and European integration and will train how to think and discuss about them on their own. Throughout the individual sessions, the seminar will provide many pointers to relevant literatures as well empirical data sources and research methods for students wishing to pursue specific questions further.<br> 
+
+:::
+
+## Course organization
+
+::: {style="text-align: justify;"}
+
+The seminar addresses Masters students in political science and related disciplines (e.g. international relations, comparative politics, public administration, or political sociology) who are interested in understanding and analyzing contemporary European Union politics.  Prior exposure to or practical experience in EU politics is an asset but not a requirement to engage in this class. But prospective participants should be willing to:<br>
+    
+* Engage with the substantive and methodological aspects of political science literature,    
+* Invest in active self-learning based on the various materials provided,    
+* Contribute their knowledge, views, and questions to our active learning in class.    
+    
+The seminar is organized around the idea of an [inverted or flipped classroom](https://en.wikipedia.org/wiki/Flipped_classroom). Contrary to traditional teaching in class, I will offer the lecture and content delivery part of the seminar before our meetings. This will typically be one or two introductory texts for your own reading and a lecture video shared via Moodle roughly three days before each session. For you, this approach has two key advantages. First, it allows you to learn about the key contents of each session at your own speed. Second, it frees up in-class time for joint, active learning: together we will deepen the key contents of each session on the basis of your questions, group discussions and debates, as well as presentations of more advanced topics. To realize these advantages all participants should take both their own preparation phase as well as our joint in-class work seriously.
+
+:::
+
+::: callout-note
+All details on course organization, assignments, literature and individual sessions are provided in the <strong>syllabus</strong> below.
+:::
+
+<br>
+
+
+
+## Materials
+
+<a class="btn btn-primary" href="./syllabus.pdf" download>
+  <i class="fa-solid fa-scroll"></i> Syllabus (PDF)
+</a>&nbsp;&nbsp;&nbsp;
+<a class="btn btn-primary" href="https://youtube.com/playlist?list=PL6rqiIXWuNAetGhWOV1pSA2AyZfPn47Gz&feature=shared">
+  <i class="fa-brands fa-youtube"></i> Lecture videos
+</a>&nbsp;&nbsp;&nbsp;
+<a class="btn btn-primary" href="./evaluation.pdf" download>
+  <i class="fa-solid fa-magnifying-glass"></i> Evaluation (PDF)
+</a>&nbsp;&nbsp;&nbsp;
+
+

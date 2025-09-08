@@ -46,7 +46,7 @@ website:
   page-navigation: true
   
   page-footer: 
-    left: "![](files/favicon_CR.png){width=30px height=30px}  [Christian Rauh](http://www.github.com/ChRauh) &copy; <script>document.write(new Date().getFullYear())</script>" 
+    left: "![](/files/favicon_CR.png){width=30px height=30px}  [Christian Rauh](http://www.github.com/ChRauh) &copy; <script>document.write(new Date().getFullYear())</script>" 
     center: ""
     right:  
       - icon: envelope

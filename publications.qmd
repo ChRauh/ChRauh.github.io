@@ -1,6 +1,6 @@
 ---
 title: "Publications"
-description-meta: "Information, pdfs, and social metrics of papers"
+description-meta: "Publications, pdfs, and citation metrics - Christian Rauh"
 #page-layout: full
 #back-to-top-navigation: true
 title-block-banner: true

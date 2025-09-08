@@ -1,6 +1,12 @@
 [
   {
-    "listing": "/projects.html",
+    "listing": "/teaching.html",
+    "items": [
+      "/seminars/25-SS-EUpolitics/index.html"
+    ]
+  },
+  {
+    "listing": "/people.html",
     "items": []
   },
   {
@@ -22,7 +28,7 @@
     ]
   },
   {
-    "listing": "/people.html",
+    "listing": "/projects.html",
     "items": []
   }
 ]

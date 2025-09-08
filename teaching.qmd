@@ -1,68 +1,48 @@
 ---
 title: "Teaching"
-subtitle: "I teach."
-title-block-banner: false
-draft: true
+subtitle: ""
+description-meta: "Overview of teaching activities, supervision guidelines, and course history."
+title-block-banner: true
+draft: false
+# --- Seminar listing  ---
+listing: 
+  sort: ["date desc", "title asc"]
+  type: default
+  page-size: 3
+  categories: false
+  sort-ui: true
+  filter-ui: true
+  feed: false
+  fields: [image, date, title, description]
+  contents: 
+      - seminars
+  
 ---
 
+Briefly describe your teaching interests, approach, and where you’ve taught.
 
-## Class 1
+## Term papers and theses
 
-::: {.grid}
+::: {style="text-align: justify;"}
 
-::: {.g-col-12 .g-col-md-2}
-![](files/images/placeholder1.jpg)
+I am open to supervise your research projects in the form of term papers or BA/MA theses at the Chair of Politics of Multilevel Governance. Before reaching out, please inspect the guidelines below carefully: they sketch potential topic areas, define basic requirements, and outline my evaluation standards. If these parameters fit your project, I look forward to learning about your plans!
 
-:::
+<br>
 
-::: {.g-col-12 .g-col-md-10}
+<center><a class="btn btn-primary" href="files/Guidelines_TermPapersTheses_Rauh_Potsdam.pdf" download> <i class="fas fa-download"></i> <strong>Supervision Guidelines (PDF)<strong> </a></center>
 
-[Fall 2024](https://www.google.com), &nbsp; [Fall 2023](https://www.google.com)
-
-Class 1 introduction.
-
-:::
-
-:::
+<br>
 
 
-## Class 2
-
-::: {.grid}
-
-::: {.g-col-12 .g-col-md-2}
-![](files/images/placeholder2.JPG)
-
-:::
-
-::: {.g-col-12 .g-col-md-10}
-
-[Spring 2025](https://www.google.com), &nbsp; [Fall 2023](https://www.google.com)
-
-Class 2 introduction.
-
+::: callout-note
+Use the guidelines as a checklist and fill out the proposal template before contacting me with your plans.
 :::
 
 :::
 
+## Courses
 
-## Class 3
+Below are my current and past classes. The list shows the three most recent; use the pager to see earlier courses.
 
-::: {.grid}
-
-::: {.g-col-12 .g-col-md-2}
-![](files/images/placeholder3.JPG)
-
+:::{#seminars}
 :::
-
-::: {.g-col-12 .g-col-md-10}
-
-[Spring 2025](https://www.google.com), &nbsp; [Spring 2024](https://www.google.com)
-
-Class 3 introduction. 
-
-:::
-
-:::
-
-
