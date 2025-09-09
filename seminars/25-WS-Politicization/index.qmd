@@ -44,7 +44,7 @@ All details on course organization, assignments, literature and individual sessi
 
 ## Materials
 
-Syllabus will be available in the first week of October. For a general introduction into the course topics, you may refer to [Rauh (2021)](https://www.researchgate.net/publication/332370421_Between_neo-functionalist_optimism_and_post-functionalist_pessimism_Integrating_politicisation_into_integration_theory) or the [prior class on the same theme](../seminars/24-WS-Politicization/).
+Syllabus will be available in the first week of October. For a general introduction into the course topics, you may refer to [Rauh (2021)](https://www.researchgate.net/publication/332370421_Between_neo-functionalist_optimism_and_post-functionalist_pessimism_Integrating_politicisation_into_integration_theory) or the [prior class on the same theme](https://chrauh.github.io/seminars/24-WS-Politicization/).
 
 
 <!-- <a class="btn btn-primary" href="./syllabus.pdf" download> -->

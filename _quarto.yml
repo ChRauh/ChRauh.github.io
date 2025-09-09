@@ -6,6 +6,10 @@ project:
 description-meta: "Prof. Dr. Christian Rauh"
 author-meta: "Christian Rauh"
 
+execute: 
+  freeze: false
+  cache: false
+
 website:
   title: "Christian Rauh"
   image: files/images/CR_card.png

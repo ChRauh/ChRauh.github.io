@@ -51,8 +51,7 @@ a:hover {
 
 .skills progress { width: 100%; height: .6rem; }
 .skills progress::-webkit-progress-bar { background: var(--bs-gray-200, #e9ecef); }
-.skills progress::-webkit-progress-value { background: var(--bs-primary, #0d6efd); }
-.skills progress::-moz-progress-bar { background: var(--bs-primary, #0d6efd); }
-
+.skills progress::-webkit-progress-value { background: var(--bs-primary, #003399); }
+.skills progress::-moz-progress-bar { background: var(--bs-primary, #003399); }
 
 

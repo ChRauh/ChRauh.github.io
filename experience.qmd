@@ -114,7 +114,14 @@ title-block-banner: true
    <i class="fas fa-download"></i> Download CV (pdf)
 </a>
 
-<iframe src="files/CV_Rauh_EN.pdf" width="100%" height="1000px" style="border:none;">
+<iframe 
+  src="files/CV_Rauh_EN.pdf"
+  style="
+    width: 100%;
+    aspect-ratio: 210 / 297; /* A4 portrait ratio */
+    border: none;
+    display: block;
+  ">
 </iframe>
 
 <br>   
@@ -126,7 +133,7 @@ title-block-banner: true
 
 |  |  |
 |---|---:|
-| Private interests: | Cycling and bikes (n+1) <br> Rap & Slam Poetry <br> Photography <br> Basketball |
+| <strong>Personal interests</strong> | Cycling and bikes (n+1) <br> Rap & Slam Poetry <br> Photography <br> Basketball |
 
 :::
 

@@ -137,21 +137,21 @@
     "href": "data-and-resources.html#general-purpose-data-and-tools",
     "title": "Data and resources",
     "section": "General purpose data and tools",
-    "text": "General purpose data and tools\n\nParlLawSpeech - Linked full-text corpora of 43,582 bills, 28,124 laws, and 3,092,431 plenary speeches from eight European parliaments - Schwalbach / Hetzer / Proksch / Rauh / Sebők\nParlSpeech V2 - Full-text corpora of 6.3 million parliamentary speeches in the key legislative chambers of nine representative democracies - Rauh / Schwalbach\nParlSpeech - Full-text corpora of 3.9 million plenary speeches in seven European states - Rauh / De Wilde / Schwalbach\nEU Commissioner speeches - Full-text of corpus of all 13,618 speeches between 1985 and 2020\nEU Commission press releases - Full-text corpus of all 44,978 press releases published between January 17, 1985, and January 8, 2021\nSentiment dicitionary for German political language\nPastTwitter - R functions to scrape and plot Twitter account info for past points in time from web.archive.org snapshots\nShinyApps for human coding of text snippets\nShinyApps for descriptive analysis and sharing of text corpora"
+    "text": "General purpose data and tools\n\nParlLawSpeech - Linked full-text corpora of 43,582 bills, 28,124 laws, and 3,092,431 plenary speeches from eight European parliaments - Schwalbach / Hetzer / Proksch / Rauh / Sebők\nParlSpeech V2 - Full-text corpora of 6.3 million parliamentary speeches in the key legislative chambers of nine representative democracies - Rauh / Schwalbach\nParlSpeech - Full-text corpora of 3.9 million plenary speeches in seven European states - Rauh / De Wilde / Schwalbach\n\nEU Commissioner speeches - Full-text of corpus of all 13,618 speeches between 1985 and 2020\nEU Commission press releases - Full-text corpus of all 44,978 press releases published between January 17, 1985, and January 8, 2021\n\nSentiment dicitionary for German political language\nPastTwitter - R functions to scrape and plot Twitter account info for past points in time from web.archive.org snapshots\nShinyApps for human coding of text snippets\nShinyApps for descriptive analysis and sharing of text corpora"
   },
   {
     "objectID": "data-and-resources.html#replication-data-and-scripts",
     "href": "data-and-resources.html#replication-data-and-scripts",
     "title": "Data and resources",
     "section": "Replication data and scripts",
-    "text": "Replication data and scripts\nIf you are missing something here, please do not hesitate to contact (christian.rauh at wzb dot eu) me directly.\n\nRauh (2022) - Clarity of EU Commission press releases - Journal of European Integration\nRauh (2021) - Emergency emphasis in supranational speeches - Journal of European Public Policy\nRauh / Zürn (2020) - Global economic governance legitimation - Review of International Political Economy\nRauh / Bes / Schoonvelde (2020) - Executive EU communication - European Journal of Political Research\nRauh / De Wilde (2018) - EU salience in parliaments - European Journal of Political Research\nRauh (2018) - Validation of German sentiment dictionary - Journal of Information Technology & Politics\nRauh (2016) - EU politicisation and EC consumer policy - ECPR Press\nMeijers / Rauh (2016) - EP election campaigns NL/FR - Politics & Governance\nRauh (2015) - EU salience in Bundestag - European Union Politics\nRauh / Schneider (2013) - Air transport regulation and stock markets - Journal of Common Market Studies\nRauh / Kirchner / Kappe (2011) - Partisan funding of higher education in Germany - West European Politics"
+    "text": "Replication data and scripts\n\nHere I list and link replication files for the data analyses in my published academic work. If you are missing something here, please do not hesitate to contact (christian.rauh at wzb dot eu) me directly.\n\n\nRauh (2025) - EU actorness in UNGD speeches - International Interactions\nRauh / Parizek (2024) - EU in media debates - Journal of European Public Policy\nRauh (2022) - Clarity of EU Commission press releases - Journal of European Integration\nRauh (2021) - Emergency emphasis in supranational speeches - Journal of European Public Policy\nRauh / Zürn (2020) - Global economic governance legitimation - Review of International Political Economy\nRauh / Bes / Schoonvelde (2020) - Executive EU communication - European Journal of Political Research\nRauh / De Wilde (2018) - EU salience in parliaments - European Journal of Political Research\nRauh (2018) - Validation of German sentiment dictionary - Journal of Information Technology & Politics\nRauh (2016) - EU politicisation and EC consumer policy - ECPR Press\nMeijers / Rauh (2016) - EP election campaigns NL/FR - Politics & Governance\nRauh (2015) - EU salience in Bundestag - European Union Politics\nRauh / Schneider (2013) - Air transport regulation and stock markets - Journal of Common Market Studies\nRauh / Kirchner / Kappe (2011) - Partisan funding of higher education in Germany - West European Politics"
   },
   {
-    "objectID": "data-and-resources.html#data-viz-examples",
-    "href": "data-and-resources.html#data-viz-examples",
+    "objectID": "data-and-resources.html#data-visualization-examples",
+    "href": "data-and-resources.html#data-visualization-examples",
     "title": "Data and resources",
-    "section": "Data viz examples",
-    "text": "Data viz examples\n When generating data in either my consultancy or academic work, I try to visualize the relevant patterns meaningfully. Here are some examples from original, published analyses:"
+    "section": "Data visualization examples",
+    "text": "Data visualization examples\n\nBoth in my consultancy or academic work, I try to meaningfully visualize the relevant patterns in the data I produce. Here are some published examples (click to enlarge)."
   },
   {
     "objectID": "blog.html",
@@ -333,7 +333,7 @@
     "href": "experience.html#what-else",
     "title": "Professional experience",
     "section": "What else?",
-    "text": "What else?\n\n\n\n\n\n\n\n\nPrivate interests:\nCycling and bikes (n+1)  Rap & Slam Poetry  Photography  Basketball"
+    "text": "What else?\n\n\n\n\n\n\n\n\nPersonal interests\nCycling and bikes (n+1)  Rap & Slam Poetry  Photography  Basketball"
   },
   {
     "objectID": "people.html",
