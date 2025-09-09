@@ -16,33 +16,47 @@ listing:
   fields: [image, date, title, description]
   contents: 
       - seminars
-  
 ---
 
-Briefly describe your teaching interests, approach, and where you’ve taught.
+## Portfolio and approach
+
+:::: {style="text-align: justify;"}
+I have held teaching assignments and taken on supervision and examination roles at various German and European universities, conducted targeted sessions and block seminars at summer and graduate schools, and gained experience in running workshops and simulations for pupils at the pre-university level. <br>
+
+My teaching portfolio adapts to the needs of specific audiences and is closely tied to my research interests. I offer both introductory and specialized classes on *European and EU politics*, as well as on the *functioning of representative democracy in multilevel settings*. In terms of methods, I provide workshops on *applied human- and (semi-)automated content and text analysis*, often making use of *open-source software and datasets*. <br>
+
+Fostering *analytical thinking about politics* is the cornerstone of my teaching philosophy. Questions about politics can (and often should) be normatively motivated, but answering them ought to be as objective and systematic as possible. <br>
+
+Accordingly, I encourage students to reflect on the empirical implications of different perspectives and arguments. Especially at the university level, I also motivate them to collect and analyze empirical information or data on their own. <br>
+::::
 
 ## Term papers and theses
 
-::: {style="text-align: justify;"}
-
-I am open to supervise your research projects in the form of term papers or BA/MA theses at the Chair of Politics of Multilevel Governance. Before reaching out, please inspect the guidelines below carefully: they sketch potential topic areas, define basic requirements, and outline my evaluation standards. If these parameters fit your project, I look forward to learning about your plans!
-
-<br>
-
-<center><a class="btn btn-primary" href="files/Guidelines_TermPapersTheses_Rauh_Potsdam.pdf" download> <i class="fas fa-download"></i> <strong>Supervision Guidelines (PDF)<strong> </a></center>
+:::: {style="text-align: justify;"}
+I am generally open to supervising research projects in the form of term papers or BA/MA theses, subject to the capacity of my Chair at the University of Potsdam. Before contacting me, please read the guidelines below carefully. They outline potential topic areas, basic requirements, and evaluation standards, and will help you assess whether your project fits within these parameters.
 
 <br>
 
+<center><a class="btn btn-primary" href="files/Guidelines_TermPapersTheses_Rauh_Potsdam.pdf" download> <i class="fas fa-download"></i> <strong>Supervision Guidelines (PDF)</strong> </a></center>
+
+<br>
+:::
 
 ::: callout-note
-Use the guidelines as a checklist and fill out the proposal template before contacting me with your plans.
+Use the guidelines as a checklist and fill out the provided proposal template before contacting me with your plans.
 :::
 
+
+<br>
+
+## Current and past classes   
+    
+    
+:::: {style="text-align: justify;"}
+Below you find my ongoing and (selected) past courses, workshops, and seminars. Each item offers a brief outline as well as additional materials and links regarding the full syllabi, teaching resources, and evaluation results. For classes at the University of Potsdam, additional materials will be distributed through the respective Moodle class.    
+<br>
+The list shows the three most recent classes; use the pager or filter to see older courses.
 :::
 
-## Courses
-
-Below are my current and past classes. The list shows the three most recent; use the pager to see earlier courses.
-
-:::{#seminars}
+::: {#seminars}
 :::

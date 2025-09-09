@@ -2,11 +2,16 @@
   {
     "listing": "/teaching.html",
     "items": [
-      "/seminars/25-SS-EUpolitics/index.html"
+      "/seminars/25-WS-Politicization/index.html",
+      "/seminars/25-SS-EUpolitics/index.html",
+      "/seminars/24-WS-Politicization/index.html",
+      "/seminars/24-SS-EUpolitics/index.html",
+      "/seminars/23-WS-NatParl/index.html",
+      "/seminars/23-WS-Commission/index.html"
     ]
   },
   {
-    "listing": "/people.html",
+    "listing": "/projects.html",
     "items": []
   },
   {
@@ -28,7 +33,7 @@
     ]
   },
   {
-    "listing": "/projects.html",
+    "listing": "/people.html",
     "items": []
   }
 ]

@@ -1,0 +1,51 @@
+---
+title: "Nationale Parlamente in der europäischen und internationalen Politik"
+description: "2 SWS BA-level seminar, University of Potsdam, Winter 2023"
+date: 2023-10-01        # #Encode semester via date for sorting
+image: featured.png
+categories: [EU, BA, WS2023]
+---
+
+
+
+## Outline and learning goals
+
+::: {style="text-align: justify;"}
+
+In repräsentativen Demokratien sind unmittelbar gewählte Parlamente ein entscheidendes Bindeglied zwischen dem Willen der Bürger:innen und politischen Entscheidungen. Die Übertragung politischer Befugnisse auf die Europäische Union und andere internationale Institutionen stellt diesen parlamentarischen Einfluss auf kollektive Entscheidungen jedoch stark in Frage. Wie nehmen nationale Parlamente ihre Funktionen im Rahmen dieses politischen Mehrebenensystems wahr? Inwiefern kontrollieren sie die europäische und internationale Politik? Auf Basis aktueller, vorrangig empirischer Forschung führt das Seminar die Teilnehmer:innen in die institutionellen Kapazitäten und die parteipolitischen Anreize ein, die die Rolle nationaler Parlamente in der internationalen Politik bestimmen.<br>
+
+Der erste Block des Seminars schafft die *theoretischen Grundlagen*, indem grundlegende parlamentarische Funktionen sowie die Wechselwirkungen zwischen nationaler und internationaler Politik beleuchtet werden. Der zweite und größte Block konzentriert sich auf die *Rolle nationaler Parlamente in der Europäischen Union*. Wir analysieren, ob und wie nationale Parlamente ihre institutionelle Rolle in der europäischen Entscheidungsfindung verbessert haben und welche parteipolitischen Anreize das parlamentarische Engagement in der europäischen Politik erklären oder behindern. Der dritte und letzte Block weitet diese Erkenntnisse auf ausgewählte, besonders *internationalisierte Politikfelder jenseits der EU* wie der internationalen Handels-, Klima- und Sicherheitspolitik aus.<br>
+
+:::
+
+## Course organization
+
+::: {style="text-align: justify;"}
+
+Das Seminar richtete sich vorrangig an fortgeschrittene Studierende in politikwissenschaftlichen Bachelorstudiengängen, die an den Wechselwirkungen zwischen nationaler, europäischer und internationaler Politik interessiert sind. Die Bereitschaft, sich mit den substantiellen und methodischen Thematiken der vorrangig englischsprachigen Literatur sowie die regelmäßige, aktive Teilnahme an den Diskussionen (einschl. einer Präsentation) im Seminar sind Voraussetzung für einen erfolgreichen Abschluss des Seminars.<br>
+
+Alle weiteren Angaben finden Sie im Syllabus unten.
+
+:::
+
+::: callout-note
+All details on course organization, assignments, literature and individual sessions are provided in the <strong>syllabus</strong> below.
+:::
+
+<br>
+
+
+
+## Materials
+
+<a class="btn btn-primary" href="./syllabus.pdf" download>
+  <i class="fa-solid fa-scroll"></i> Syllabus (PDF)
+</a>&nbsp;&nbsp;&nbsp;
+<!-- <a class="btn btn-primary" href="https://youtube.com/playlist?list=PL6rqiIXWuNAcN4ECuIdGocDDo-Y5wq07R&feature=shared"> -->
+<!--   <i class="fa-brands fa-youtube"></i> Lecture videos -->
+<!-- </a>&nbsp;&nbsp;&nbsp; -->
+<a class="btn btn-primary" href="./evaluation.pdf" download>
+  <i class="fa-solid fa-magnifying-glass"></i> Evaluation (PDF)
+</a>&nbsp;&nbsp;&nbsp;
+
+

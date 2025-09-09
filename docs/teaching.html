@@ -81,7 +81,8 @@ ul.task-list li input[type="checkbox"] {
 
     const options = {
       valueNames: ['listing-image','listing-date','listing-title','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
+      page: 3,
+    pagination: { item: "<li class='page-item'><a class='page page-link' href='#'></a></li>" },
       searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description"],
     };
 
@@ -185,15 +186,15 @@ window.Quarto = {
 <link rel="stylesheet" href="styles.css">
 <meta property="og:title" content="Teaching – Christian Rauh">
 <meta property="og:description" content="Personal website of Prof.&nbsp;Dr.&nbsp;Christian Rauh">
-<meta property="og:image" content="https://chrauh.github.io/seminars/25-SS-EUpolitics/featured.png">
+<meta property="og:image" content="https://chrauh.github.io/seminars/25-WS-Politicization/featured.png">
 <meta property="og:site_name" content="Christian Rauh">
 <meta property="og:image:height" content="1024">
-<meta property="og:image:width" content="1536">
+<meta property="og:image:width" content="1024">
 <meta name="twitter:title" content="Teaching – Christian Rauh">
 <meta name="twitter:description" content="Personal website of Prof.&nbsp;Dr.&nbsp;Christian Rauh">
-<meta name="twitter:image" content="https://chrauh.github.io/seminars/25-SS-EUpolitics/featured.png">
+<meta name="twitter:image" content="https://chrauh.github.io/seminars/25-WS-Politicization/featured.png">
 <meta name="twitter:image-height" content="1024">
-<meta name="twitter:image-width" content="1536">
+<meta name="twitter:image-width" content="1024">
 <meta name="twitter:card" content="summary_large_image">
 </head>
 
@@ -287,8 +288,9 @@ window.Quarto = {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#term-papers-and-theses" id="toc-term-papers-and-theses" class="nav-link active" data-scroll-target="#term-papers-and-theses">Term papers and theses</a></li>
-  <li><a href="#courses" id="toc-courses" class="nav-link" data-scroll-target="#courses">Courses</a></li>
+  <li><a href="#portfolio-and-approach" id="toc-portfolio-and-approach" class="nav-link active" data-scroll-target="#portfolio-and-approach">Portfolio and approach</a></li>
+  <li><a href="#term-papers-and-theses" id="toc-term-papers-and-theses" class="nav-link" data-scroll-target="#term-papers-and-theses">Term papers and theses</a></li>
+  <li><a href="#current-and-past-classes" id="toc-current-and-past-classes" class="nav-link" data-scroll-target="#current-and-past-classes">Current and past classes</a></li>
   </ul>
 </nav>
     </div>
@@ -299,16 +301,25 @@ window.Quarto = {
 
 
 
-<p>Briefly describe your teaching interests, approach, and where you’ve taught.</p>
+<section id="portfolio-and-approach" class="level2">
+<h2 class="anchored" data-anchor-id="portfolio-and-approach">Portfolio and approach</h2>
+<div style="text-align: justify;">
+<p>I have held teaching assignments and taken on supervision and examination roles at various German and European universities, conducted targeted sessions and block seminars at summer and graduate schools, and gained experience in running workshops and simulations for pupils at the pre-university level. <br></p>
+<p>My teaching portfolio adapts to the needs of specific audiences and is closely tied to my research interests. I offer both introductory and specialized classes on <em>European and EU politics</em>, as well as on the <em>functioning of representative democracy in multilevel settings</em>. In terms of methods, I provide workshops on <em>applied human- and (semi-)automated content and text analysis</em>, often making use of <em>open-source software and datasets</em>. <br></p>
+<p>Fostering <em>analytical thinking about politics</em> is the cornerstone of my teaching philosophy. Questions about politics can (and often should) be normatively motivated, but answering them ought to be as objective and systematic as possible. <br></p>
+<p>Accordingly, I encourage students to reflect on the empirical implications of different perspectives and arguments. Especially at the university level, I also motivate them to collect and analyze empirical information or data on their own. <br></p>
+</div>
+</section>
 <section id="term-papers-and-theses" class="level2">
 <h2 class="anchored" data-anchor-id="term-papers-and-theses">Term papers and theses</h2>
 <div style="text-align: justify;">
-<p>I am open to supervise your research projects in the form of term papers or BA/MA theses at the Chair of Politics of Multilevel Governance. Before reaching out, please inspect the guidelines below carefully: they sketch potential topic areas, define basic requirements, and outline my evaluation standards. If these parameters fit your project, I look forward to learning about your plans!</p>
+<p>I am generally open to supervising research projects in the form of term papers or BA/MA theses, subject to the capacity of my Chair at the University of Potsdam. Before contacting me, please read the guidelines below carefully. They outline potential topic areas, basic requirements, and evaluation standards, and will help you assess whether your project fits within these parameters.</p>
 <p><br></p>
 <center>
-<a class="btn btn-primary" href="files/Guidelines_TermPapersTheses_Rauh_Potsdam.pdf" download=""> <i class="fas fa-download"></i> <strong>Supervision Guidelines (PDF)<strong> </strong></strong></a><strong><strong>
-</strong></strong></center><strong><strong>
+<a class="btn btn-primary" href="files/Guidelines_TermPapersTheses_Rauh_Potsdam.pdf" download=""> <i class="fas fa-download"></i> <strong>Supervision Guidelines (PDF)</strong> </a>
+</center>
 <p><br></p>
+</div>
 <div class="callout callout-style-default callout-note callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
@@ -319,14 +330,17 @@ Note
 </div>
 </div>
 <div class="callout-body-container callout-body">
-<p>Use the guidelines as a checklist and fill out the proposal template before contacting me with your plans.</p>
+<p>Use the guidelines as a checklist and fill out the provided proposal template before contacting me with your plans.</p>
 </div>
 </div>
-</strong></strong></div><strong><strong>
-</strong></strong></section><strong><strong>
-<section id="courses" class="level2">
-<h2 class="anchored" data-anchor-id="courses">Courses</h2>
-<p>Below are my current and past classes. The list shows the three most recent; use the pager to see earlier courses.</p>
+<p><br></p>
+</section>
+<section id="current-and-past-classes" class="level2">
+<h2 class="anchored" data-anchor-id="current-and-past-classes">Current and past classes</h2>
+<div style="text-align: justify;">
+<p>Below you find my ongoing and (selected) past courses, workshops, and seminars. Each item offers a brief outline as well as additional materials and links regarding the full syllabi, teaching resources, and evaluation results. For classes at the University of Potsdam, additional materials will be distributed through the respective Moodle class.<br>
+<br> The list shows the three most recent classes; use the pager or filter to see older courses.</p>
+</div>
 <div id="seminars">
 
 </div>
@@ -335,7 +349,7 @@ Note
 
 </section>
 
-</strong></strong><div class="quarto-listing quarto-listing-container-default" id="listing-listing">
+<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
 <div class="listing-actions-group">
    <div class="input-group input-group-sm quarto-listing-sort">
      <span class="input-group-text"><i class="bi bi-sort-down"></i></span>
@@ -359,7 +373,32 @@ Note
     </div>
 </div>
 <div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="RVUlMkNNQSUyQ1NTMjAyNQ==" data-listing-date-sort="1743458400000" data-listing-file-modified-sort="1757364746716" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="599">
+<div class="quarto-post image-right" data-index="0" data-categories="RVUlMkNCQSUyQ1dTMjAyNQ==" data-listing-date-sort="1759269600000" data-listing-file-modified-sort="1757430371736" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="572">
+<div class="thumbnail">
+<p><a href="./seminars/25-WS-Politicization/index.html" class="no-external"></a></p><a href="./seminars/25-WS-Politicization/index.html" class="no-external">
+<p><img loading="lazy" src="./seminars/25-WS-Politicization/featured.png" class="thumbnail-image"></p>
+</a><p><a href="./seminars/25-WS-Politicization/index.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./seminars/25-WS-Politicization/index.html" class="no-external">The public politicization of the European Union</a>
+</h3>
+<div class="listing-subtitle">
+<a href="./seminars/25-WS-Politicization/index.html" class="no-external"></a>
+</div>
+<div class="listing-description">
+<a href="./seminars/25-WS-Politicization/index.html" class="no-external">2 SWS BA-level seminar, University of Potsdam, Winter 2025</a>
+</div>
+</div>
+<div class="metadata">
+<a href="./seminars/25-WS-Politicization/index.html" class="no-external">
+<div class="listing-date">
+Oct 1, 2025
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="1" data-categories="RVUlMkNNQSUyQ1NTMjAyNQ==" data-listing-date-sort="1743458400000" data-listing-file-modified-sort="1757364746000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="599">
 <div class="thumbnail">
 <p><a href="./seminars/25-SS-EUpolitics/index.html" class="no-external"></a></p><a href="./seminars/25-SS-EUpolitics/index.html" class="no-external">
 <p><img loading="lazy" src="./seminars/25-SS-EUpolitics/featured.png" class="thumbnail-image"></p>
@@ -384,11 +423,114 @@ Apr 1, 2025
 </a>
 </div>
 </div>
+<div class="quarto-post image-right" data-index="2" data-categories="RVUlMkNCQSUyQ1NTMjAyNA==" data-listing-date-sort="1727733600000" data-listing-file-modified-sort="1757429884973" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="523">
+<div class="thumbnail">
+<p><a href="./seminars/24-WS-Politicization/index.html" class="no-external"></a></p><a href="./seminars/24-WS-Politicization/index.html" class="no-external">
+<p><img loading="lazy" src="./seminars/24-WS-Politicization/featured.png" class="thumbnail-image"></p>
+</a><p><a href="./seminars/24-WS-Politicization/index.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./seminars/24-WS-Politicization/index.html" class="no-external">The public politicization of the European Union</a>
+</h3>
+<div class="listing-subtitle">
+<a href="./seminars/24-WS-Politicization/index.html" class="no-external"></a>
+</div>
+<div class="listing-description">
+<a href="./seminars/24-WS-Politicization/index.html" class="no-external">2 SWS BA-level seminar, University of Potsdam, Winter 2024</a>
+</div>
+</div>
+<div class="metadata">
+<a href="./seminars/24-WS-Politicization/index.html" class="no-external">
+<div class="listing-date">
+Oct 1, 2024
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="3" data-categories="RVUlMkNNQSUyQ1NTMjAyNA==" data-listing-date-sort="1711922400000" data-listing-file-modified-sort="1757430893109" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="574">
+<div class="thumbnail">
+<p><a href="./seminars/24-SS-EUpolitics/index.html" class="no-external"></a></p><a href="./seminars/24-SS-EUpolitics/index.html" class="no-external">
+<p><img loading="lazy" data-src="./seminars/24-SS-EUpolitics/featured.png" class="thumbnail-image"></p>
+</a><p><a href="./seminars/24-SS-EUpolitics/index.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./seminars/24-SS-EUpolitics/index.html" class="no-external">European Union Politics - contemporary research perspectives</a>
+</h3>
+<div class="listing-subtitle">
+<a href="./seminars/24-SS-EUpolitics/index.html" class="no-external"></a>
+</div>
+<div class="listing-description">
+<a href="./seminars/24-SS-EUpolitics/index.html" class="no-external">2 SWS Master-level seminar, University of Potsdam, Summer 2024</a>
+</div>
+</div>
+<div class="metadata">
+<a href="./seminars/24-SS-EUpolitics/index.html" class="no-external">
+<div class="listing-date">
+Apr 1, 2024
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="4" data-categories="RVUlMkNCQSUyQ1dTMjAyMw==" data-listing-date-sort="1696111200000" data-listing-file-modified-sort="1757431233453" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="304">
+<div class="thumbnail">
+<p><a href="./seminars/23-WS-NatParl/index.html" class="no-external"></a></p><a href="./seminars/23-WS-NatParl/index.html" class="no-external">
+<p><img loading="lazy" data-src="./seminars/23-WS-NatParl/featured.png" class="thumbnail-image"></p>
+</a><p><a href="./seminars/23-WS-NatParl/index.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./seminars/23-WS-NatParl/index.html" class="no-external">Nationale Parlamente in der europäischen und internationalen Politik</a>
+</h3>
+<div class="listing-subtitle">
+<a href="./seminars/23-WS-NatParl/index.html" class="no-external"></a>
+</div>
+<div class="listing-description">
+<a href="./seminars/23-WS-NatParl/index.html" class="no-external">2 SWS BA-level seminar, University of Potsdam, Winter 2023</a>
+</div>
+</div>
+<div class="metadata">
+<a href="./seminars/23-WS-NatParl/index.html" class="no-external">
+<div class="listing-date">
+Oct 1, 2023
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="5" data-categories="RVUlMkNNQSUyQ1dTMjAyMw==" data-listing-date-sort="1696111200000" data-listing-file-modified-sort="1757431500626" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="430">
+<div class="thumbnail">
+<p><a href="./seminars/23-WS-Commission/index.html" class="no-external"></a></p><a href="./seminars/23-WS-Commission/index.html" class="no-external">
+<p><img loading="lazy" data-src="./seminars/23-WS-Commission/featured.png" class="thumbnail-image"></p>
+</a><p><a href="./seminars/23-WS-Commission/index.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./seminars/23-WS-Commission/index.html" class="no-external">Tensions of multilevel governance: The European Commission in focus</a>
+</h3>
+<div class="listing-subtitle">
+<a href="./seminars/23-WS-Commission/index.html" class="no-external"></a>
+</div>
+<div class="listing-description">
+<a href="./seminars/23-WS-Commission/index.html" class="no-external">2 SWS MA-level seminar, University of Potsdam, Winter 2023</a>
+</div>
+</div>
+<div class="metadata">
+<a href="./seminars/23-WS-Commission/index.html" class="no-external">
+<div class="listing-date">
+Oct 1, 2023
+</div>
+</a>
+</div>
+</div>
 </div>
 <div class="listing-no-matching d-none">
 No matching items
 </div>
-</div></main><strong><strong> <!-- /main -->
+<nav id="listing-pagination" class="listing-pagination" aria-label="Page Navigation">
+  <ul class="pagination"></ul>
+</nav>
+</div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -811,7 +953,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
 });
 </script>
-</strong></strong></div><strong><strong> <!-- /content -->
+</div> <!-- /content -->
 <footer class="footer">
   <div class="nav-footer">
     <div class="nav-footer-left">
@@ -849,4 +991,4 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 
 
 
-</strong></strong></body></html>
+</body></html>

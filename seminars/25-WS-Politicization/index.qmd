@@ -1,0 +1,60 @@
+---
+title: "The public politicization of the European Union"
+description: "2 SWS BA-level seminar, University of Potsdam, Winter 2025"
+date: 2025-10-01        # #Encode semester via date for sorting
+image: featured.png
+categories: [EU, BA, WS2025]
+---
+
+
+
+## Outline and learning goals
+
+::: {style="text-align: justify;"}
+
+Political decisions of the European Union (EU) increasingly permeate national politics but are often taken in rather closed settings dominated by executive or technocratic actors. Yet, this mode of decision-making is increasingly challenged by controversial public debates. Decisions taken on levels beyond the nation state figure prominently in the news, the respective public opinion is much more aware but also more diversified, and various societal actors ranging from social movements to political parties, in particular, actively mobilize on European questions.<br>
+
+Based on the current research agenda, the seminar provides students with a systematic overview of this public EU politicization. By reading and discussing recent and mostly empirical literature, the participants delve into the different arenas in which EU politicization takes place, carve out the emerging lines of political conflict on governance beyond the nation state, and finally discuss the resulting challenges for decision-making in the EU. This should enable participants to assess and to apply the politicization concept to various questions of contemporary European politics (and to support own research projects in this regard).<br>
+
+As a participant, you should be willing to engage in both the substantial and methodological issues of the literature to be read, and be prepared to actively participate during the individual sessions. Besides regular participation, assignments include one active participation role (presenter, minute-taker, or debater) and a term paper which applies one of the discussed aspects to a freely chosen empirical issue of (contemporary) EU politics.<br> 
+
+:::
+
+## Course organization
+
+::: {style="text-align: justify;"}
+
+The seminar addresses advanced Bachelor students in political science and related disciplines (e.g. international relations, comparative politics, public administration, or political sociology) who already control some basic knowledge on EU decision-making. Pprospective participants should be willing to:<br>
+    
+* Engage with the substantive and methodological aspects of political science literature,    
+* Invest in active self-learning based on the various materials provided,    
+* Contribute their knowledge, views, and questions to our active learning in class.    
+    
+The seminar is organized around the idea of an [inverted or flipped classroom](https://en.wikipedia.org/wiki/Flipped_classroom). Contrary to traditional teaching in class, I will offer the lecture and content delivery part of the seminar before our meetings. This will typically be one or two introductory texts for your own reading and a lecture video shared via Moodle roughly three days before each session. For you, this approach has two key advantages. First, it allows you to learn about the key contents of each session at your own speed. Second, it frees up in-class time for joint, active learning: together we will deepen the key contents of each session on the basis of your questions, group discussions and debates, as well as presentations of more advanced topics. To realize these advantages all participants should take both their own preparation phase as well as our joint in-class work seriously.
+
+:::
+
+::: callout-note
+All details on course organization, assignments, literature and individual sessions are provided in the <strong>syllabus</strong> below.
+:::
+
+<br>
+
+
+
+## Materials
+
+Syllabus will be available in the first week of October. For a general introduction into the course topics, you may refer to [Rauh (2021)](https://www.researchgate.net/publication/332370421_Between_neo-functionalist_optimism_and_post-functionalist_pessimism_Integrating_politicisation_into_integration_theory) or the [prior class on the same theme](../seminars/24-WS-Politicization/).
+
+
+<!-- <a class="btn btn-primary" href="./syllabus.pdf" download> -->
+<!--   <i class="fa-solid fa-scroll"></i> Syllabus (PDF) -->
+<!-- </a>&nbsp;&nbsp;&nbsp; -->
+<!-- <a class="btn btn-primary" href="https://youtube.com/playlist?list=PL6rqiIXWuNAetGhWOV1pSA2AyZfPn47Gz&feature=shared"> -->
+<!--   <i class="fa-brands fa-youtube"></i> Lecture videos -->
+<!-- </a>&nbsp;&nbsp;&nbsp; -->
+<!-- <a class="btn btn-primary" href="./evaluation.pdf" download> -->
+<!--   <i class="fa-solid fa-magnifying-glass"></i> Evaluation (PDF) -->
+<!-- </a>&nbsp;&nbsp;&nbsp; -->
+
+

@@ -1,0 +1,53 @@
+---
+title: "Tensions of multilevel governance: The European Commission in focus"
+description: "2 SWS MA-level seminar, University of Potsdam, Winter 2023"
+date: 2023-10-01        # #Encode semester via date for sorting
+image: featured.png
+categories: [EU, MA, WS2023]
+---
+
+
+
+## Outline and learning goals
+
+::: {style="text-align: justify;"}
+
+The European Commission serves as an ideal laboratory for examining the complexities of contemporary multilevel governance. Initially designed as an independent, expertise-driven secretariat to facilitate efficient international cooperation, the Commission now wields more political competences than almost any other international bureaucracy. Simultaneously, it faces significant constraints from national governments, the European Parliament, and increasingly contentious public debates on inter- and supranational decision-making. How does the Commission navigate these tensions? Can it continue to generate effective solutions to cross-national challenges in an increasingly politicized environment?<br>
+
+This seminar aims to provide Master students with current perspectives on the functioning of this crucial supranational institution. The first block reviews the various roles assigned to the European Commission by theories of European integration, international organization, and public administration. The second block delves into the Commission's formal competences, organizational structure, and staffing patterns in light of these roles. Building on this foundation, the third and most extensive block examines recent studies on the Commission's political and administrative behavior, specifically its legislative influence, its agenda-setting abilities, its responsiveness to contentious public debates, and its public communication.<br>
+
+Along this route, the seminar will equip students with an encompassing perspective on a key supranational institution, provides them with analytical tools to grasp the Commission’s behavior in contemporary European politics, and offers them different theoretical lenses and empirical research approaches to study this and comparable institutions more generally.<br>
+
+:::
+
+## Course organization
+
+::: {style="text-align: justify;"}
+
+In this seminar, we want to jointly develop a comprehensive and systematic understanding of the European Commission and its role(s) in European politics. To this end, we will explore some classic scholarly arguments but will then mostly focus on studies covering different aspects of the European Commission and its actions empirically and systematically. To achieve this together, I expect you to engage with both the substantive and methodological aspects of this literature prior to each session: what do you think about the arguments and the evidence presented? What questions remain unanswered from your point of view? <br>
+
+Each weekly session will begin with a teaching-oriented introduction to the respective topic and you are invited to submit your questions beforehand or raise them during the seminar. We will then delve deeper into each topic through presentations of relevant research projects. Further details are specified in the syllabus below.<br>
+
+:::
+
+::: callout-note
+All details on course organization, assignments, literature and individual sessions are provided in the <strong>syllabus</strong> below.
+:::
+
+<br>
+
+
+
+## Materials
+
+<a class="btn btn-primary" href="./syllabus.pdf" download>
+  <i class="fa-solid fa-scroll"></i> Syllabus (PDF)
+</a>&nbsp;&nbsp;&nbsp;
+<!-- <a class="btn btn-primary" href="https://youtube.com/playlist?list=PL6rqiIXWuNAcN4ECuIdGocDDo-Y5wq07R&feature=shared"> -->
+<!--   <i class="fa-brands fa-youtube"></i> Lecture videos -->
+<!-- </a>&nbsp;&nbsp;&nbsp; -->
+<a class="btn btn-primary" href="./evaluation.pdf" download>
+  <i class="fa-solid fa-magnifying-glass"></i> Evaluation (PDF)
+</a>&nbsp;&nbsp;&nbsp;
+
+
