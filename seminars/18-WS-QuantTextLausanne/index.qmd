@@ -1,0 +1,35 @@
+---
+title: "Introduction to automated text analyses in the Political Sciences"
+description: "1-day MA-level workshop, Université de Lausanne, Winter 2018"
+date: 2018-11-20        # #Encode semester via date for sorting
+image: featured.png
+categories: [Methods, MA, WS2018]
+---
+
+## Workshop presentation
+
+  <iframe src="https://www.slideshare.net/slideshow/embed_code/key/x7HO1FH8IVVwB5?startSlide=1" width="597" height="486" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border: var(--border-1) solid #CCC; border-width:1px; margin-bottom:5px;max-width: 100%;" allowfullscreen></iframe>
+  <div style="margin-bottom:5px"><strong>
+  <a href="https://www.slideshare.net/slideshow/introduction-to-automated-text-analyses-in-the-political-sciences/123388277" title="Introduction to automated text analyses in the Political Sciences" target="_blank">Introduction to automated text analyses in the Political Sciences</a>
+  </strong> from <strong>
+  <a href="https://de.slideshare.net/ChristianRauh2" target="_blank">ChristianRauh2</a>
+  </strong></div>
+
+
+## Materials
+
+<a class="btn btn-primary" href="./slides.pdf" download>
+  <i class="fa-solid fa-person-chalkboard"></i> Teaching slides (PDF)
+</a>&nbsp;&nbsp;&nbsp;
+
+<!-- <a class="btn btn-primary" href="./syllabus.pdf" download> -->
+<!--   <i class="fa-solid fa-scroll"></i> Syllabus (PDF) -->
+<!-- </a>&nbsp;&nbsp;&nbsp; -->
+<!-- <a class="btn btn-primary" href="https://youtube.com/playlist?list=PL6rqiIXWuNAetGhWOV1pSA2AyZfPn47Gz&feature=shared"> -->
+<!--   <i class="fa-brands fa-youtube"></i> Lecture videos -->
+<!-- </a>&nbsp;&nbsp;&nbsp; -->
+<!-- <a class="btn btn-primary" href="./evaluation.pdf" download> -->
+<!--   <i class="fa-solid fa-magnifying-glass"></i> Evaluation (PDF) -->
+<!-- </a>&nbsp;&nbsp;&nbsp; -->
+
+

@@ -101,6 +101,33 @@
   <media:content url="https://chrauh.github.io/blog/antrittsvorlesung/featured.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
+  <title>What web-scraping and text-as-data approaches reveal about EU politics</title>
+  <dc:creator>Christian Rauh</dc:creator>
+  <link>https://chrauh.github.io/blog/sicss-berlin/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>My contribution to the first <a href="https://sicss.io/2024/berlin/people">Summer Institute in Computational Social Sciences (SICCS)</a> in Berlin:</p>
+<p><br> <br></p>
+<iframe src="https://www.slideshare.net/slideshow/embed_code/key/jIWNS4A29o81ws?startSlide=1" width="597" height="486" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border: var(--border-1) solid #CCC; border-width:1px; margin-bottom:5px;max-width: 100%;" allowfullscreen=""></iframe>
+<div style="margin-bottom:5px">
+<strong> <a href="https://www.slideshare.net/slideshow/what-web-scraping-and-text-as-data-approaches-reveal-about-eu-politics/283165517" title="What web-scraping and text-as-data approaches reveal about EU politics" target="_blank">What web-scraping and text-as-data approaches reveal about EU politics</a> </strong> from <strong> <a href="https://de.slideshare.net/ChristianRauh2" target="_blank">ChristianRauh2</a> </strong>
+</div>
+
+
+
+ ]]></description>
+  <category>event</category>
+  <category>presentation</category>
+  <category>teaching</category>
+  <category>text analysis</category>
+  <guid>https://chrauh.github.io/blog/sicss-berlin/</guid>
+  <pubDate>Thu, 06 Jul 2023 22:00:00 GMT</pubDate>
+  <media:content url="https://chrauh.github.io/blog/sicss-berlin/featured.png" medium="image" type="image/png" height="120" width="144"/>
+</item>
+<item>
   <title>Technokratisches BlaBla</title>
   <link>https://chrauh.github.io/</link>
   <description>Feature im ORF Radio zu Pressemitteilungen der EU Kommission</description>
@@ -279,6 +306,33 @@
   <guid>https://chrauh.github.io/blog/demokratie-grenzenlos/</guid>
   <pubDate>Tue, 18 Jun 2019 22:00:00 GMT</pubDate>
   <media:content url="https://chrauh.github.io/blog/demokratie-grenzenlos/featured.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Introduction to automated text analyses in the Political Sciences</title>
+  <dc:creator>Christian Rauh</dc:creator>
+  <link>https://chrauh.github.io/blog/lausanne-workshop/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Today I was happy to give a full-day workshop on automated text analysis methods for advanced M.A.&nbsp;students in the political sciences at the Université de Lausanne (as part of Nicole Helmerich’s class ‘Atelier documents, archives, discours 2018-2019’). <br> You can check out the in-class slides below.</p>
+<p><br> <br></p>
+<iframe src="https://www.slideshare.net/slideshow/embed_code/key/x7HO1FH8IVVwB5?startSlide=1" width="597" height="486" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border: var(--border-1) solid #CCC; border-width:1px; margin-bottom:5px;max-width: 100%;" allowfullscreen=""></iframe>
+<div style="margin-bottom:5px">
+<strong> <a href="https://www.slideshare.net/slideshow/introduction-to-automated-text-analyses-in-the-political-sciences/123388277" title="Introduction to automated text analyses in the Political Sciences" target="_blank">Introduction to automated text analyses in the Political Sciences</a> </strong> from <strong> <a href="https://de.slideshare.net/ChristianRauh2" target="_blank">ChristianRauh2</a> </strong>
+</div>
+
+
+
+ ]]></description>
+  <category>event</category>
+  <category>presentation</category>
+  <category>text analysis</category>
+  <category>teaching</category>
+  <guid>https://chrauh.github.io/blog/lausanne-workshop/</guid>
+  <pubDate>Mon, 19 Nov 2018 23:00:00 GMT</pubDate>
+  <media:content url="https://chrauh.github.io/blog/lausanne-workshop/featured.png" medium="image" type="image/png" height="78" width="144"/>
 </item>
 <item>
   <title>beRechnen &amp; Beschreiben</title>

@@ -1,0 +1,30 @@
+---
+title: "What web-scraping and text-as-data approaches reveal about EU politics"
+description: "Keynote session at the Summer Institute in Computational Social Sciences (SICCS) Berlin"
+subtitle: ""
+author: 
+  - name: Christian Rauh
+date: "2023-07-07"
+categories: [event, presentation, teaching, text analysis]
+image: "featured.png"
+
+---
+
+My contribution to the first [Summer Institute in Computational Social Sciences (SICCS)](https://sicss.io/2024/berlin/people) in Berlin:
+
+<br>
+<br>
+  
+
+  
+  <iframe src="https://www.slideshare.net/slideshow/embed_code/key/jIWNS4A29o81ws?startSlide=1" width="597" height="486" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border: var(--border-1) solid #CCC; border-width:1px; margin-bottom:5px;max-width: 100%;" allowfullscreen></iframe>
+  <div style="margin-bottom:5px"><strong>
+  <a href="https://www.slideshare.net/slideshow/what-web-scraping-and-text-as-data-approaches-reveal-about-eu-politics/283165517" title="What web-scraping and text-as-data approaches reveal about EU politics" target="_blank">What web-scraping and text-as-data approaches reveal about EU politics</a>
+  </strong> from <strong>
+  <a href="https://de.slideshare.net/ChristianRauh2" target="_blank">ChristianRauh2</a>
+  </strong></div>
+  
+
+  
+  
+  

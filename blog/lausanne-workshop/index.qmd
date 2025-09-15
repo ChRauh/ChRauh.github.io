@@ -1,0 +1,32 @@
+---
+title: "Introduction to automated text analyses in the Political Sciences"
+description: "Workshop, Université de Lausanne"
+subtitle: ""
+author: 
+  - name: Christian Rauh
+date: "2018-11-20"
+categories: [event, presentation, text analysis, teaching]
+image: "featured.png"
+
+---
+
+Today I was happy to give a full-day workshop on automated text analysis methods for advanced M.A. students in the political sciences at the Université de Lausanne (as part of Nicole Helmerich's class 'Atelier documents, archives, discours 2018-2019').
+<br>
+You can check out the in-class slides below.
+
+<br>
+<br>
+  
+
+  
+  <iframe src="https://www.slideshare.net/slideshow/embed_code/key/x7HO1FH8IVVwB5?startSlide=1" width="597" height="486" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border: var(--border-1) solid #CCC; border-width:1px; margin-bottom:5px;max-width: 100%;" allowfullscreen></iframe>
+  <div style="margin-bottom:5px"><strong>
+  <a href="https://www.slideshare.net/slideshow/introduction-to-automated-text-analyses-in-the-political-sciences/123388277" title="Introduction to automated text analyses in the Political Sciences" target="_blank">Introduction to automated text analyses in the Political Sciences</a>
+  </strong> from <strong>
+  <a href="https://de.slideshare.net/ChristianRauh2" target="_blank">ChristianRauh2</a>
+  </strong></div>
+  
+
+  
+  
+  

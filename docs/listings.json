@@ -7,11 +7,12 @@
       "/seminars/24-WS-Politicization/index.html",
       "/seminars/24-SS-EUpolitics/index.html",
       "/seminars/23-WS-NatParl/index.html",
-      "/seminars/23-WS-Commission/index.html"
+      "/seminars/23-WS-Commission/index.html",
+      "/seminars/18-WS-QuantTextLausanne/index.html"
     ]
   },
   {
-    "listing": "/projects.html",
+    "listing": "/people.html",
     "items": []
   },
   {
@@ -19,11 +20,13 @@
     "items": [
       "/blog/pdt-mitteilungen/index.html",
       "/blog/antrittsvorlesung/index.html",
+      "/blog/sicss-berlin/index.html",
       "/blog/mitteilungen-russland/index.html",
       "/blog/interview-EU-salience/index.html",
       "/blog/ec-country-mentions/index.html",
       "/blog/hard-to-explain/index.html",
       "/blog/demokratie-grenzenlos/index.html",
+      "/blog/lausanne-workshop/index.html",
       "/blog/academic-rap/index.html",
       "/blog/secgen/index.html",
       "/blog/legislative-proposals/index.html",
@@ -33,7 +36,7 @@
     ]
   },
   {
-    "listing": "/people.html",
+    "listing": "/projects.html",
     "items": []
   }
 ]
