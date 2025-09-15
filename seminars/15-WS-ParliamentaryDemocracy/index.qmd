@@ -1,0 +1,47 @@
+---
+title: "Analyzing Parliamentary Democracy with advanced content analysis methods"
+description: "2 Day PhD level training workshop with *Pieter de Wilde*, funded by the PADEMIA network, WZB Berlin, Winter 2015"
+date: 2015-11-12        # #Encode semester via date for sorting
+image: featured.png
+categories: [EU, PhD, WS2015]
+---
+
+
+
+## Outline and learning goals
+
+::: {style="text-align: justify;"}
+
+This PADEMIA  training workshop focuses on methodological and practical considerations in the rigorous analysis of parliamentary democracy in Europe. It addresses the different forms and shapes of the discourses produced in and by parliaments. This ranges from transcripts of plenary debates and committee reports to media and online resonance of parliamentary affairs. These empirically observable outputs of parliamentary activity come mostly as written documents but also in the form of live streams and other vehicles amenable to systematic content analysis methods. We thus discuss the methodological challenges in approaching this wealth of empirical material, including most notably concerns about sampling as well as the reliability and validity of measurement instruments.<br> 
+    
+The workshop aims to allow doctoral students of parliamentary affairs in Europe to exchange ideas and discuss their research with their peers and senior academic colleagues with a particular focus on methodological options, techniques and practical considerations. To this end it is organised around alternating teaching and presentation sessions.<br> 
+     
+The teaching sessions condense the basic methodological parameters of content analysing the products of parliamentary democracy and will discuss the promises and pitfalls of specific methodological approaches - ranging from human coding, particularly in the form of representative claims analysis, to various forms of automated text analysis. For each session some indicative background literature will be provided to the participants.
+In the paper sessions, the participants will present their own research projects. The presentation should mainly focus on the purpose of content analyses in the particular project. We kindly ask the presenters to discuss the key concepts (to be) measured, the sampled documents, the methodological options considered and the practical challenges that the analyses face. The presentations should not exceed 20 mins and will be followed by 20 mins group discussion. To get the most out of the workshop for all participants, we expect that everybody has read the submitted project papers.<br> 
+    
+:::
+
+::: callout-note
+All details on course organization, assignments, literature and individual sessions are provided in the <strong>syllabus</strong> below.
+:::
+
+<br>
+
+
+
+## Materials
+
+::: {style="line-height: 2.8;"}
+<a class="btn btn-primary" href="./syllabus.pdf" download>
+  <i class="fa-solid fa-scroll"></i> Syllabus (PDF)
+</a>&nbsp;&nbsp;&nbsp;
+<!-- <a class="btn btn-primary" href="https://youtube.com/playlist?list=PL6rqiIXWuNAetGhWOV1pSA2AyZfPn47Gz&feature=shared"> -->
+<!--   <i class="fa-brands fa-youtube"></i> Lecture videos -->
+<!-- </a>&nbsp;&nbsp;&nbsp; -->
+<a class="btn btn-primary" href="./evaluation.pdf" download>
+  <i class="fa-solid fa-magnifying-glass"></i> Evaluation (PDF)
+</a>&nbsp;&nbsp;&nbsp;
+:::
+
+
+

@@ -1,0 +1,92 @@
+---
+title: "Text-mining international politics"
+description: "One-week block seminar, MA-level, Charles University Prague, Spring 2019"
+date: 2019-05-07        # #Encode semester via date for sorting
+image: featured.png
+categories: [Methods, MA, WS2018]
+---
+
+
+
+## Outline and learning goals
+
+::: {style="text-align: justify;"}
+
+Politics takes place in and through texts. Speeches, debates, position papers, press releases, traditional and social media coverage, as well as the resulting laws, agreements, or resolutions can tell us much on the priorities, preferences, and power of political actors. This holds especially for politics beyond the nation state. For studying international politics across long time periods or broad actor sets, political text is often the only consistently available information source that we have. The challenge, however, lies in extracting systematic information from largely unstructured texts in a reliable and systematic fashion. This is a promise of automated content analyses: various algorithms offer means to reveal relevant patterns in the vast amount of political language that we can nowadays access in digital formats.<br>
+    
+The block seminar thus introduces the strengths but also the limitations of various approaches to treat text as data. Based on my own work with and on these tools, students will learn about the basic intuitions behind the most prominent text analysis methods in recent political science research. We will work along concrete examples by discussing extant and possible applications of these methods to EU and international politics. These examples are also useful to highlight the pragmatic issues involved in collecting, analysing, and visualizing large-scale digital text corpora.<br>
+    
+The course targets advanced BA as well as MA students in the political sciences or related disciplines who wish to broaden their empirical toolkit. Prior knowledge in content analysis or quantitative methods is not required but may be an asset. The seminar pursues three related teaching goals:<br>    
+    
+* Enable students to read and to assess studies using automated text analyses
+* Allow informed methodological choices and provide pragmatic tips/resources for conducting own text analyses
+* Create awareness for the more general promises and pitfalls of analysing human language with automated algorithms
+<br>
+    
+Successful participants will be awarded with 4 ECTS. The evaluation of student performance will be based on three criteria:
+    
+* Thorough reading of the obligatory literature marked with (O) in the syllabus below
+* Regular and active participation in the individual six sessions of the seminar
+* A short research-design paper (4,000-5,000 words) that discusses whether and which automated text analyses might be suited to address a freely chosen question on the EU, international politics, or related fields (more details during the seminar)
+    
+
+Ideally, this course convinces you that conducting text analyses can be fun and insightful at the same time. In any case, I am very much looking forward to work with you!
+:::
+
+::: callout-note
+All details on course organization, assignments, literature and individual sessions are provided in the <strong>syllabus</strong> below.
+:::
+
+<br>
+<br>
+
+
+## Materials
+
+
+::: {style="line-height: 2.8;"}
+<a class="btn btn-primary" href="./syllabus.pdf" download>
+  <i class="fa-solid fa-scroll"></i> Syllabus (PDF)
+</a>&nbsp;&nbsp;&nbsp;
+<a class="btn btn-primary" href="./Rauh_TextAnalysis_Prague_Session1.pdf">
+  <i class="fa-solid fa-person-chalkboard"></i> Slides Session 1 (PDF)
+</a>&nbsp;&nbsp;&nbsp;
+<a class="btn btn-primary" href="./Rauh_TextAnalysis_Prague_Session2.pdf">
+  <i class="fa-solid fa-person-chalkboard"></i> Slides Session 2 (PDF)
+</a>&nbsp;&nbsp;&nbsp;
+<a class="btn btn-primary" href="./Rauh_TextAnalysis_Prague_Session3.pdf">
+  <i class="fa-solid fa-person-chalkboard"></i> Slides Session 3 (PDF)
+</a>&nbsp;&nbsp;&nbsp;
+<a class="btn btn-primary" href="./Rauh_TextAnalysis_Prague_Session4.pdf">
+  <i class="fa-solid fa-person-chalkboard"></i> Slides Session 4 (PDF)
+</a>&nbsp;&nbsp;&nbsp;
+<a class="btn btn-primary" href="./Rauh_TextAnalysis_Prague_Session5.pdf">
+  <i class="fa-solid fa-person-chalkboard"></i> Slides Session 5 (PDF)
+</a>&nbsp;&nbsp;&nbsp;
+<a class="btn btn-primary" href="./Rauh_TextAnalysis_Prague_Session6.pdf">
+  <i class="fa-solid fa-person-chalkboard"></i> Slides Session 6 (PDF)
+</a>&nbsp;&nbsp;&nbsp;
+<!-- <a class="btn btn-primary" href="https://youtube.com/playlist?list=PL6rqiIXWuNAcN4ECuIdGocDDo-Y5wq07R&feature=shared"> -->
+<!--   <i class="fa-brands fa-youtube"></i> Lecture videos -->
+<!-- </a>&nbsp;&nbsp;&nbsp; -->
+<!-- <a class="btn btn-primary" href="./evaluation.pdf" download> -->
+<!--   <i class="fa-solid fa-magnifying-glass"></i> Evaluation (PDF) -->
+<!-- </a>&nbsp;&nbsp;&nbsp; -->
+:::
+
+
+<br>
+<br>
+
+## R code tutorials
+
+R code to implement some of the discussed methods in climate-change related talk in the United Nations General Debate corpus.
+
+* [Session 2: Climate-change salience](./Prague_Session2-Tutorial_UNGA-ClimateChangeSalience.html)
+* [Session 3: Climate-change sentiment](./Prague_Session3-Tutorial_ClimateChangeSentiment.html)
+* [Session 4: Climate-change topics](./Prague_Session4_Tutorial_ClimateChangeTopics.html)
+* [Session 5: Climate-change scaling (Wordfish)](./Prague_Session5_Tutorial-ClimateChangeScaling_Wordfish.html)
+* [Session 5: Climate-change scaling (Wordscores)](./Prague_Session5_Tutorial-ClimateChangeScaling_Wordscores.html)
+
+
+

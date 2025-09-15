@@ -1,0 +1,63 @@
+---
+title: "Quantitative Textanalyse in den Politikwissenschaften"
+subtitle: "Grundlagen, Methoden und aktuelle Anwendungen"
+description: "2 SWS MA-level seminar, Universität Potsdam, Winter 2014"
+date: 2014-10-01        # #Encode semester via date for sorting
+image: featured.png
+categories: [Methods, MA, WS2014]
+---
+
+## Kursbeschreibung und Lernziele
+
+::: {style="text-align: justify;"}
+
+Politik findet durch und in Texten statt. Reden und Presserklärungen, Debatten und Parteiprogramme, Gesetze und Positionspapiere oder aber Zeitungsberichte und Blogs verraten viel über inhaltliche Prioritäten, Positionen und die Macht politischer Akteure. Solche Texte liefern die relevante Information aber häufig nur in unstrukturierter und interpretationsbedürftiger Form. Das Seminar vermittelt den TeilnehmerInnen deshalb die Methoden, mit denen sie systematische, vergleichende Informationen zu eigenen Fragestellungen aus größeren Textmengen gewinnen können.<br> 
+    
+Der Kurs gliedert sich dazu in drei Blöcke. In einem ersten Teil besprechen wir die Grundlagen der Inhalts- und insbesondere der Textanalyse anhand einzelner Lehrbuchkapitel. Themen sind der Aufbau eines typischen Forschungsprojekts, das Sampling relevanter Texte, mögliche Kodierungsverfahren und die Qualitätskriterien inhaltsanalytischer Forschungsdesigns. Im zweiten Block geht es dann um klassische politikwissenschaftliche Anwendungen von Textanalysen etwa zur Parteien-positionierung, zur Salienz politischer Themen oder zur Gewinnung von Protestdaten aus der Medienberichterstattung.
+ Darauf aufbauend werden im dritten Block moderne Verfahren zur (halb-) automatisierten Textanalyse vorgestellt, mit denen aktuell etwa der Einfluss von Interessengruppen, der Wandel politischer Interpretationsmuster oder aber die Salienz internationaler Politik in nationalen Parlamentsdebatten untersucht wird.<br> 
+     
+Die TeilnehmerInnen erörtern so die Stärken und Schwächen einzelner Ansätze an konkreten Beispielen und erhalten zudem praktische Tipps zu relevanten Analyseverfahren, Datenquellen und Werkzeugen.<br> 
+    
+:::
+
+## Kursorganisation und Leistungsnachweise
+
+::: {style="text-align: justify;"}
+
+Der Kurs richtet sich an Master StudentInnen, die erste Kenntnisse in quantitativen politikwissenschaftlichen Methoden und Forschungsdesigns vertiefen wollen und ggf. eigene Textanalyseprojekte anstreben. Teilnahmevoraussetzungen sind die regelmäßige vorbereitende Auseinandersetzung mit der zumeist englischsprachigen Pflichtliteratur, die aktive Mitwirkung im Seminar sowie mindestens eine Präsentation eines wissenschaftlichen Aufsatzes. Für einen Leistungsschein ist zudem bis zum 31.03.2015 eine Hausarbeit verlangt, in der entweder ein textanalytisches Projekt fachlich kritisiert oder aber ein eigenes textanalytisches Forschungsdesign zu einer selbstgewählten Fragestellung – etwa zur Vorbereitung von Masterarbeiten – entwickelt wird. Weitere Details zu den Leistungsnachweisen besprechen wir im Kurs.<br> 
+    
+Pflichttexte für die einzelnen Sitzungen sind in der nachfolgenden Kursübersicht mit (PL) markiert. Die für die Präsentationen vorgesehenen Texte sind mit (PR) gekennzeichnet; gerne könne Sie aber auch selbst gewählte Literatur oder eigene Projekte vorstellen sofern sie zum Inhalt der jeweiligen Sitzung passen. Freiwillige weiterführende Informationsquellen sind mit (WF) vermerkt. Als einführende Literatur empfehle ich die folgenden Bücher, stelle Ihnen aber die wichtigsten Kapitel mit der übrigen Literatur auch per Moodle zur Verfügung:<br> 
+    
+* Krippendorff, Klaus (2004) Content Analysis: An Introduction to Its Methodology. 2nd Edition. London: Sage Publications.
+* Neuendorf, Kimberly (2002) The Content Analysis Guidebook. SAGE Publications.
+     
+Am Ende der Übersicht finden Sie zudem einige weiterführende Online-Ressourcen zu einzelnen Sitzungen. <br> 
+    
+
+    
+:::
+
+::: callout-note
+All details on course organization, assignments, literature and individual sessions are provided in the <strong>syllabus</strong> below.
+:::
+
+<br>
+
+
+
+## Materials
+
+::: {style="line-height: 2.8;"}
+<a class="btn btn-primary" href="./syllabus.pdf" download>
+  <i class="fa-solid fa-scroll"></i> Syllabus (PDF)
+</a>&nbsp;&nbsp;&nbsp;
+<!-- <a class="btn btn-primary" href="https://youtube.com/playlist?list=PL6rqiIXWuNAetGhWOV1pSA2AyZfPn47Gz&feature=shared"> -->
+<!--   <i class="fa-brands fa-youtube"></i> Lecture videos -->
+<!-- </a>&nbsp;&nbsp;&nbsp; -->
+<a class="btn btn-primary" href="./evaluation.pdf" download>
+  <i class="fa-solid fa-magnifying-glass"></i> Evaluation (PDF)
+</a>&nbsp;&nbsp;&nbsp;
+:::
+
+
+

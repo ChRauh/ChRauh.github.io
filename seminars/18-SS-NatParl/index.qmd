@@ -1,0 +1,45 @@
+---
+title: "National parliaments, international politics"
+subtitle: "Enhanced democratic control?"
+description: "2 SWS Master-level seminar, Freie Universität Berlin, Summer 2018"
+date: 2018-04-01        # #Encode semester via date for sorting
+image: featured.png
+categories: [EU, MA, SS2018]
+---
+
+
+
+## Outline and learning goals
+
+::: {style="text-align: justify;"}
+
+Parliaments are key institutions of representative democracy. As directly elected, collective actors they deliberate and decide on legislation while also selecting and controlling the national executive. Parliaments thus provide a crucial link between voter preferences and domestic political choices. However, the increasing transfer of political powers to the European Union and other international institutions strongly challenges this traditional parliamentary influence on political outcomes. How do national parliaments perform their legislative, control, and legitimating functions in the context of multi-level governance? The seminar exposes the participants to contemporary and empirically rigorous research on the institutional capacities and the partisan incentives of parliamentary actors to engage with international politics.<br>
+     
+The first, primarily theoretical block discusses and links classical literature on parliamentary functions on the one hand and on the relationships between domestic and international politics on the other. The second and largest block focusses on the role of national parliaments in European integration. We will analyse whether and how national parliaments have improved their institutional role in European affairs over time and member states but we will also study varying partisan incentives to exploit this capacity. The third and final block applies these insights to selected, particularly internationalized policy fields, most notably trade and security.<br>
+     
+The course addresses advanced BA and MA students who already control some knowledge on European and international multilevel governance, who are willing to engage in both the substantial and methodological issues of the literature to be read, and who are prepared to actively participate during the sessions. Besides regular participation and reading, assignments include at least one presentation of a scholarly article and a term paper that applies one of the discussed aspects to a freely chosen empirical issue of supra- or international governance.<br>
+     
+:::
+
+
+::: callout-note
+All details on course organization, assignments, literature and individual sessions are provided in the <strong>syllabus</strong> below.
+:::
+
+<br>
+
+
+
+## Materials
+
+::: {style="line-height: 2.8;"}
+<a class="btn btn-primary" href="./syllabus.pdf" download>
+  <i class="fa-solid fa-scroll"></i> Syllabus (PDF)
+</a>&nbsp;&nbsp;&nbsp;
+<a class="btn btn-primary" href="./evaluation.html">
+  <i class="fa-solid fa-magnifying-glass"></i> Evaluation (HTML)
+</a>&nbsp;&nbsp;&nbsp;
+:::
+
+
+

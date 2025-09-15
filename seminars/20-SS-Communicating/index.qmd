@@ -1,0 +1,69 @@
+---
+title: "Communicating international politics"
+description: "2 SWS BA-level seminar, Freie Universität Berlin, Summer 2020"
+date: 2020-04-01        # #Encode semester via date for sorting
+image: featured.png
+categories: [IR, BA, SS2020]
+---
+
+*Due to Covid-19 restrictions, the seminar was provided as a partially asynchronous digital course.*
+<br> 
+<br> 
+    
+## Outline and learning goals
+
+::: {style="text-align: justify;"}
+
+Highly controversial public debates have recently constrained institutionalized political cooperation across national borders. What drives the underlying public attention to international politics and how do supra- and international institutions respond?<br> 
+    
+This seminar builds on a current research agenda and provides participants with analytical tools to analyze the public communication of and about the European Union and other international organizations, such as the IMF or the World Bank for example. It proceeds in three steps. First, we review key arguments on the public politicization of international institutions from different fields of political science. Second, we read and discuss empirical studies on the frequency, timing, content, and style of political communication about international institutions in domestic media, parliamentary debates, or election campaigns. Third, we will study whether and how the communication efforts of international institutions themselves live up to the increasing public politicization they face.<br> 
+    
+The seminar addresses advanced B.A. students who want to deepen their knowledge on contemporary European and international multilevel governance (possibly in preparation for a thesis in the above mentioned fields), who are willing to engage in both the substantial and methodological issues of the literature, and who are prepared to engage in mutual learning during the seminar. Assignments include a presentation or summary of a scholarly article and a term paper applying one of the discussed aspects to a freely chosen empirical issue of international politics.
+<br> 
+
+:::
+
+## Course organization
+
+::: {style="text-align: justify;"}
+
+Since we cannot meet physically in this semester, the seminar will be conducted in a digital environment. Nevertheless, the ambition is the same as for my physical seminars: I want to (a) equip you with the state of the art of the contemporary research agenda, ensure (b) that we can learn from each other by giving room for your questions, comments, and critique, while (c) also monitoring your achievements fairly.
+Our primary ‘meeting space’ will be the seminar website on the [FU Blackboard](https://lms.fu-berlin.de/).    
+    
+* Your weekly self-study along the obligatory literature for each session (see section 3 below) 
+* A weekly video lecture (ppt voiceover, asynchronous, by Thursday at latest) by myself that runs you through key arguments, blind spots, and overall placement of the arguments in this literature
+* An open message board in which each participant can and should raise questions and comments while also providing input on those of others – please review this board at least weekly
+* Two video conferences (sessions 5 and 14), presumably organized via WebEx
+* Summary of at least one scholarly article (see section 3 below) that replaces the presentation. This summary should summarize the main arguments and empirical analysis for the other course participant while also fitting it into the seminar context and providing a critical assessment by yourself. The resource is shared via Blackboard with all participants and I accept the following formats:
+  * Self-recorded video/audio presentation (e.g. ppt voiceover, podcast)
+  * Scientific poster 
+  * Written summary (pdf) of about 2000-3000 words
+*	Individual contacts via e-mail and/or Skype
+
+
+:::
+
+::: callout-note
+All details on course organization, assignments, literature and individual sessions are provided in the <strong>syllabus</strong> below.
+:::
+
+<br>
+
+
+
+## Materials
+
+::: {style="line-height: 2.8;"}
+<a class="btn btn-primary" href="./syllabus.pdf" download>
+  <i class="fa-solid fa-scroll"></i> Syllabus (PDF)
+</a>&nbsp;&nbsp;&nbsp;
+<!-- <a class="btn btn-primary" href="https://youtube.com/playlist?list=PL6rqiIXWuNAetGhWOV1pSA2AyZfPn47Gz&feature=shared"> -->
+<!--   <i class="fa-brands fa-youtube"></i> Lecture videos -->
+<!-- </a>&nbsp;&nbsp;&nbsp; -->
+<!-- <a class="btn btn-primary" href="./evaluation.pdf" download> -->
+<!--   <i class="fa-solid fa-magnifying-glass"></i> Evaluation (PDF) -->
+<!-- </a>&nbsp;&nbsp;&nbsp; -->
+:::
+
+
+

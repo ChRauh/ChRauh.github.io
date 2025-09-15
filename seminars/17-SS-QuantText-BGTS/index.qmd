@@ -1,0 +1,51 @@
+---
+title: "Content Analysis in the Social Sciences"
+description: "Two-day PhD-level, workshop Berlin Graduate School of Transnational Studies, Spring 2017"
+date: 2017-05-08        # #Encode semester via date for sorting
+image: featured.jpg
+categories: [Methods, PhD, SS2017]
+---
+
+
+
+## Workshop outline
+
+::: {style="text-align: justify;"}
+
+Text is the most prevalent and easy-to-access type of information about various social phenomena in time and space. Texts as diverse as speeches, diaries, media reports, letters, or blogs bear witness of the priorities, positions, demands, or even values and norms of social actors. However, texts often come in comparatively unstructured form and require different levels of interpretation in order to extract the systematic information that social scientists require.<br>
+    
+The workshop thus aims to support PhD students considering a content analysis in choosing and implementing adequate and feasible methods for their research questions. Based on seminal literature and my experiences in conducting and supervising respective projects (mainly in the political sciences) we will first identify key methodological and pragmatic challenges to then discuss the students’ research design ideas in this light.
+The first two sessions offer general introductions to the fundamentals of content analyses. Depending on student demand, sessions three to five then zoom in to specific qualitative, but especially quantitative (human-coding), and (semi-)automated approaches to data collection. Based on short introductions to these methods, these latter sessions will primarily revolve around the discussion of your corresponding research projects.<br>
+    
+Along this line I expect a thorough study of the obligatory literature before the workshop, an active participation during the workshop and one presentation per participant. To adapt the workshop to your needs, I would appreciate a short summary of your project plans (including working title, research question, and envisaged usage of content analysis) until April 24. Students not willing to discuss an own project may also present one of the texts marked with a (P) below.
+<br>
+    
+
+:::
+
+::: callout-note
+All details on course organization, assignments, literature and individual sessions are provided in the <strong>syllabus</strong> below.
+:::
+
+<br>
+<br>
+
+
+## Materials
+
+
+::: {style="line-height: 2.8;"}
+<a class="btn btn-primary" href="./syllabus.pdf" download>
+  <i class="fa-solid fa-scroll"></i> Syllabus (PDF)
+</a>&nbsp;&nbsp;&nbsp;
+<!-- <a class="btn btn-primary" href="https://youtube.com/playlist?list=PL6rqiIXWuNAcN4ECuIdGocDDo-Y5wq07R&feature=shared"> -->
+<!--   <i class="fa-brands fa-youtube"></i> Lecture videos -->
+<!-- </a>&nbsp;&nbsp;&nbsp; -->
+<a class="btn btn-primary" href="./evaluation.pdf" download>
+  <i class="fa-solid fa-magnifying-glass"></i> Evaluation (PDF)
+</a>&nbsp;&nbsp;&nbsp;
+:::
+
+
+
+

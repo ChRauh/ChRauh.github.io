@@ -1,0 +1,48 @@
+---
+title: "The politicization of supranational governance in the EU and beyond"
+description: "2 SWS Master-level seminar with *Pieter De Wilde*, Freie Universität Berlin, Otto-Suhr Institut, Summer 2013"
+date: 2013-04-01        # #Encode semester via date for sorting
+image: featured.png
+categories: [EU, MA, SS2013]
+---
+
+
+
+## Outline and learning goals
+
+::: {style="text-align: justify;"}
+
+Supranational decisions increasingly permeate national politics but are often taken in rather closed settings which involve executive or technocratic actors only. Yet, as the examples of the failed 2005 referenda on a European Constitution or debates on European policies amid the debt crisis show, this mode of decision-making is increasingly challenged in public. Supranational decisions figure prominently in the news, public opinion is much more aware but also more diversified, and various societal actors ranging from social movements to political parties actively mobilize on European and international questions.<br> 
+    
+Based on the emerging research agenda, the course provides a systematic overview of this politicization of supranational governance. Based on recent empirical literature, the participants delve into the different arenas in which politicization takes place, carve out the emerging lines of political conflict on European integration, and finally discuss the resulting challenges for decision-making in the EU and other international institutions. On this basis, the course aims to enable participants to asses and to apply the politicization concept to various questions of European and international politics.<br> 
+    
+We address students who already control some knowledge on European multilevel governance, who are willing to engage in both the substantial and methodological issues of the literature discussed, and who are prepared to actively participate during the individual sessions. Assignments include one presentation of a scholarly article and a term paper which applies one of the discussed aspects to a freely chosen empirical issue of supranational governance.
+
+<br> 
+    
+:::
+
+::: callout-note
+All details on course organization, assignments, literature and individual sessions are provided in the <strong>syllabus</strong> below.
+:::
+
+<br>
+
+
+
+## Materials
+
+::: {style="line-height: 2.8;"}
+<a class="btn btn-primary" href="./syllabus.pdf" download>
+  <i class="fa-solid fa-scroll"></i> Syllabus (PDF)
+</a>&nbsp;&nbsp;&nbsp;
+<!-- <a class="btn btn-primary" href="https://youtube.com/playlist?list=PL6rqiIXWuNAetGhWOV1pSA2AyZfPn47Gz&feature=shared"> -->
+<!--   <i class="fa-brands fa-youtube"></i> Lecture videos -->
+<!-- </a>&nbsp;&nbsp;&nbsp; -->
+<a class="btn btn-primary" href="./evaluation.pdf" download>
+  <i class="fa-solid fa-magnifying-glass"></i> Evaluation (PDF)
+</a>&nbsp;&nbsp;&nbsp;
+:::
+
+
+

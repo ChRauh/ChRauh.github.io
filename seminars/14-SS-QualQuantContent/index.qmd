@@ -1,0 +1,46 @@
+---
+title: "Qualitative and Quantitative Content Analysis in the Social Sciences"
+description: "3-Day PhD level training workshop with *Pieter de Wilde*, Freie Universität Berlin, Graduate School in East Asia Studies, Summer 2014"
+date: 2014-05-19        # #Encode semester via date for sorting
+image: featured.png
+categories: [Methods, PhD, SS2014]
+---
+
+
+
+## Outline and learning goals
+
+::: {style="text-align: justify;"}
+
+Text is the most prevalent and easy-to-access type of information about various social phenomena in time and space. Texts as diverse as speeches, diaries, news reports, letters, or blogs bear witness of the priorities, positions, demands, or even values and norms of social actors. However, texts often come in comparatively unstructured form and require different levels of interpretation in order to extract the systematic information that social scientists require.<br> 
+     
+The course provides PhD students with a broad overview of content analysis methods in the social sciences. We discuss basic issues in designing a content analysis project and then briefly introduce the different approaches and methods that have been developed and used so far. The aim is to provide students with a broad overview of the various methodological aspects of content analysis and a range of different forms, ranging from very qualitative to very quantitative. It enables informed decisions on whether and how content analysis methodology is suitable for answering students’ respective research questions. Given our own expertise, most examples will come from political science but we are of course open to take up suggestions from other disciplines as well.<br> 
+    
+Assignments: We expect a thorough study of the provided literature before the seminar, an active participation during the seminar and one presentation per student. The presentation is either based on one text marked with a (P) below or – if applicable – the discussion of a student’s own content analysis research design.<br> 
+    
+:::
+
+::: callout-note
+All details on course organization, assignments, literature and individual sessions are provided in the <strong>syllabus</strong> below.
+:::
+
+<br>
+
+
+
+## Materials
+
+::: {style="line-height: 2.8;"}
+<a class="btn btn-primary" href="./syllabus.pdf" download>
+  <i class="fa-solid fa-scroll"></i> Syllabus (PDF)
+</a>&nbsp;&nbsp;&nbsp;
+<!-- <a class="btn btn-primary" href="https://youtube.com/playlist?list=PL6rqiIXWuNAetGhWOV1pSA2AyZfPn47Gz&feature=shared"> -->
+<!--   <i class="fa-brands fa-youtube"></i> Lecture videos -->
+<!-- </a>&nbsp;&nbsp;&nbsp; -->
+<a class="btn btn-primary" href="./evaluation.pdf" download>
+  <i class="fa-solid fa-magnifying-glass"></i> Evaluation (PDF)
+</a>&nbsp;&nbsp;&nbsp;
+:::
+
+
+

@@ -8,11 +8,22 @@
       "/seminars/24-SS-EUpolitics/index.html",
       "/seminars/23-WS-NatParl/index.html",
       "/seminars/23-WS-Commission/index.html",
-      "/seminars/18-WS-QuantTextLausanne/index.html"
+      "/seminars/20-SS-Communicating/index.html",
+      "/seminars/20-SS-QuantText/index.html",
+      "/seminars/19-SS-QuantText-BGTS/index.html",
+      "/seminars/19-SS-QuantTextPrague/index.html",
+      "/seminars/18-WS-QuantTextLausanne/index.html",
+      "/seminars/18-SS-NatParl/index.html",
+      "/seminars/17-SS-QuantText-BGTS/index.html",
+      "/seminars/16-SS-Politicizing/index.html",
+      "/seminars/15-WS-ParliamentaryDemocracy/index.html",
+      "/seminars/14-SS-QuantText/index.html",
+      "/seminars/14-SS-QualQuantContent/index.html",
+      "/seminars/13-SS-Politicization/index.html"
     ]
   },
   {
-    "listing": "/people.html",
+    "listing": "/projects.html",
     "items": []
   },
   {
@@ -36,7 +47,7 @@
     ]
   },
   {
-    "listing": "/projects.html",
+    "listing": "/people.html",
     "items": []
   }
 ]

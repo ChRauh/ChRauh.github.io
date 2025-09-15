@@ -1,0 +1,73 @@
+---
+title: "Quantitative Textanalyse in den Politikwissenschaften"
+subtitle: "Grundlagen, Methoden und aktuelle Anwendungen"
+description: "2 SWS BA-level seminar, Freie Universität Berlin, Summer 2020"
+date: 2020-04-01        # #Encode semester via date for sorting
+image: featured.png
+categories: [Methods, BA, SS2020]
+---
+
+*Wegen der Covid-19 bedingten Einschränkungen fand die Lehre als weitgehend asynchrones digitales Seminar statt.*
+<br> 
+<br> 
+    
+## Kursbeschreibung und Lernziele
+
+::: {style="text-align: justify;"}
+
+Politik findet durch und in Texten statt. Reden und Presserklärungen, Debatten und Parteiprogramme, Gesetze und Positionspapiere oder aber Zeitungsberichte und Blogs verraten viel über inhaltliche Prioritäten, Positionen und die Macht politischer Akteure. Solche Texte liefern die relevante Information aber häufig nur in unstrukturierter und interpretationsbedürftiger Form. Das Seminar bietet den TeilnehmerInnen deshalb einen einführenden Überblick zu Methoden, mit denen sie systematische, vergleichende Informationen zu eigenen Fragestellungen aus größeren Textmengen gewinnen können.<br> 
+    
+Der Kurs gliedert sich dazu in drei Blöcke. In einem ersten Teil besprechen wir die Grundlagen der Inhalts- und insbesondere der Textanalyse anhand einzelner Lehrbuchkapitel. Themen sind der Aufbau eines typischen Forschungsprojekts, das Sampling relevanter Texte, mögliche Kodierungsverfahren und die Qualitätskriterien inhaltsanalytischer Forschungsdesigns. Im zweiten Block geht es dann um klassische politikwissenschaftliche Anwendungen von Inhaltsanalysenanalysen etwa zur Parteienpositionierung, zur Salienz politischer Themen oder zur Gewinnung von Protestdaten aus der Medienberichterstattung. Darauf aufbauend werden im dritten Block moderne Verfahren zur (halb-) automatisierten Textanalyse vorgestellt, mit denen aktuell etwa der Einfluss von Interessengruppen, der Wandel politischer Interpretationsmuster oder aber die Salienz internationaler Politik in nationalen Parlamentsdebatten untersucht wird.<br> 
+    
+Die TeilnehmerInnen erörtern so die Stärken und Schwächen einzelner Ansätze an konkreten Beispielen und erhalten zudem praktische Tipps zu relevanten Analyseverfahren, Datenquellen und Werkzeugen.
+
+<br> 
+
+:::
+
+## Kursorganisation und Leistungsnachweise
+
+::: {style="text-align: justify;"}
+
+Der Kurs richtet sich an fortgeschrittene Bachelorstudierende, die erste Kenntnisse in quantitativen politikwissenschaftlichen Methoden und Forschungsdesigns vertiefen wollen und ggf. eigene Inhalts- oder Textanalyseprojekte anstreben. Teilnahmevoraussetzungen sind die regelmäßige vorbereitende Auseinandersetzung mit der zumeist englischsprachigen Pflichtliteratur, die aktive Mitwirkung sowie mindestens eine Präsentation eines wissenschaftlichen Aufsatzes. Für einen Leistungsschein ist zudem eine Hausarbeit verlangt, in der entweder ein textanalytisches Projekt fachlich kritisiert oder aber ein eigenes textanalytisches Forschungsdesign zu einer selbstgewählten Fragestellung – etwa zur Vorbereitung von Bachelorarbeiten – entwickelt wird.<br>   
+    
+Da wir uns in diesem Semester nicht physisch treffen können, wird das Seminar in einer digitalen Umgebung durchgeführt. Trotzdem ist der Anspruch der gleiche: Ich möchte (a) Sie mit der gegenwärtigen Forschungsagenda vertraut machen, (b) sicherstellen, dass wir voneinander lernen können, indem es Raum für Ihre Fragen, Kommentare und Kritik gibt, und (c) auch eine faire Bewertung Ihrer Leistungen möglich machen.
+Unser primärer „Treffpunkt“ wird die Seminar-Website auf dem [FU-Blackboard](https://lms.fu-berlin.de/) sein. Dort wird das Seminar entlang folgender Parameter organisiert:<br>   
+    
+Ihr wöchentliches Selbststudium entlang der Pflichtliteratur für jede Sitzung (siehe Abschnitt C unten)
+    
+* Eine wöchentliche kurze Videovorlesung (ppt Voiceover, asynchron, jeweils bis spätestens Donnerstag) von mir, die Sie durch die wichtigsten Argumente und Schwachstellen der Pflichtliteratur führt.
+* Ein offenes Diskussionsforum, in dem jeder Teilnehmer Fragen und Beobachtungen teilen kann (und sollte) und gleichzeitig Kommentare zu denen der anderen Teilnehmer liefert. Bitte überprüfen Sie dieses Board mindestens wöchentlich,
+* Zwei Videokonferenzen (KW23 und KW29), die vermutlich über WebEx organisiert werden
+* Zusammenfassung von mindestens einer wissenschaftlichen Studie (siehe Abschnitt C unten), der die Präsentation ersetzt. Diese Zusammenfassung sollte die Forschungsfrage und Befunde der Studie vorstellen, diskutieren warum und wie ein inhaltsanalytisches Verfahren gewählt wurde und dieses dann anhand der im Seminar entwickelten Kriterien kritisieren. Analog zu einer Präsentation wird das Ergebnis über Blackboard allen Teilnehmern zur Verfügung gestellt. Ich akzeptiere die folgenden Formate:
+  * Selbstaufgezeichnete Video- oder Audiopräsentation (z. B. ppt Voiceover)
+  * Wissenschaftliches Poster
+  * Schriftliche Zusammenfassung (pdf) von ca. 2000-3000 Wörtern
+* Individuell vereinbarte Kontakte per E-Mail und / oder Skype
+    
+:::
+
+::: callout-note
+All details on course organization, assignments, literature and individual sessions are provided in the <strong>syllabus</strong> below.
+:::
+
+<br>
+
+
+
+## Materials
+
+::: {style="line-height: 2.8;"}
+<a class="btn btn-primary" href="./syllabus.pdf" download>
+  <i class="fa-solid fa-scroll"></i> Syllabus (PDF)
+</a>&nbsp;&nbsp;&nbsp;
+<!-- <a class="btn btn-primary" href="https://youtube.com/playlist?list=PL6rqiIXWuNAetGhWOV1pSA2AyZfPn47Gz&feature=shared"> -->
+<!--   <i class="fa-brands fa-youtube"></i> Lecture videos -->
+<!-- </a>&nbsp;&nbsp;&nbsp; -->
+<a class="btn btn-primary" href="./evaluation.pdf" download>
+  <i class="fa-solid fa-magnifying-glass"></i> Evaluation (PDF)
+</a>&nbsp;&nbsp;&nbsp;
+:::
+
+
+

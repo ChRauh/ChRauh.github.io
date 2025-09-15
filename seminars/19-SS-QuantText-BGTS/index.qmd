@@ -1,0 +1,58 @@
+---
+title: "Content Analysis in the Social Sciences"
+description: "One-week block seminar, PhD-level, Berlin Graduate School of Transnational Studies, Spring 2019"
+date: 2019-05-27        # #Encode semester via date for sorting
+image: featured.png
+categories: [Methods, PhD, WS2018]
+---
+
+
+
+## Outline and learning goals
+
+::: {style="text-align: justify;"}
+
+Text is the most prevalent and easy-to-access type of information about various political phenomena in time and space. Sources as diverse as speeches, position papers, diaries, media reports, or blogs and tweets bear witness of the priorities, positions, demands, or even values and norms of political actors. However, texts often come in comparatively unstructured form and – depending on the research question - require different levels of interpretation in order to extract the systematic information that political scientists require.<br>
+    
+The workshop thus addresses PhD students considering a content analysis. It aims to support them in reading studies using content analyses and should help in choosing and implementing adequate and feasible methods for their own research questions. Based on seminal literature and my experiences in conducting and supervising respective projects we will first identify key methodological and pragmatic challenges. Then we will focus on the strength and weaknesses of individual human-coding and (semi-)automated approaches to content analysis.<br>
+    
+While the first two sessions offer general discussions of the methodological fundamentals of content analyses, the later sessions present the intuition, exemplary applications and software tools of specific individual approaches to extract systematic information from texts.<br>
+    
+On this basis, we will then commonly discuss how these methods relate to your research projects. Each participant is asked to prepare a 7-10 mins presentation on his/her project roughly structured around the following for points:<br>
+    
+* What is your research question (and what are possible answers)?
+* Why may content analysis help you to answer this question?
+* What are the relevant documents/texts and where can you get them from?
+* How would you extract the information you need from these texts?
+    
+Note that these presentations do not have to be highly polished – the may range from preliminary results, initial drafts of a research design, to very initial ideas or options you might have with regard to the four structuring questions. This will initially help individual participants by gathering ideas and suggestions for their specific projects. But this way we will also commonly train how to evaluate different methods in the light of concrete research questions.<br>
+    
+
+:::
+
+::: callout-note
+All details on course organization, assignments, literature and individual sessions are provided in the <strong>syllabus</strong> below.
+:::
+
+<br>
+<br>
+
+
+## Materials
+
+
+::: {style="line-height: 2.8;"}
+<a class="btn btn-primary" href="./syllabus.pdf" download>
+  <i class="fa-solid fa-scroll"></i> Syllabus (PDF)
+</a>&nbsp;&nbsp;&nbsp;
+<!-- <a class="btn btn-primary" href="https://youtube.com/playlist?list=PL6rqiIXWuNAcN4ECuIdGocDDo-Y5wq07R&feature=shared"> -->
+<!--   <i class="fa-brands fa-youtube"></i> Lecture videos -->
+<!-- </a>&nbsp;&nbsp;&nbsp; -->
+<a class="btn btn-primary" href="./evaluation.pdf" download>
+  <i class="fa-solid fa-magnifying-glass"></i> Evaluation (PDF)
+</a>&nbsp;&nbsp;&nbsp;
+:::
+
+
+
+

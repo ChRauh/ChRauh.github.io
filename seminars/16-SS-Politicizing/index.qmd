@@ -1,0 +1,50 @@
+---
+title: "Politicizing governance beyond the nation state"
+description: "2 SWS Master-level seminar, Freie Universität Berlin, Summer 2016"
+date: 2016-04-01        # #Encode semester via date for sorting
+image: featured.png
+categories: [EU, MA, SS2016]
+---
+
+
+
+## Outline and learning goals
+
+::: {style="text-align: justify;"}
+
+Supra- and international decisions increasingly permeate national politics but are often taken in rather closed settings which involve executive or technocratic actors only. Yet, as the examples of the failed 2005 referenda on a European Constitution, the debates on European policies amid the debt crisis, as well as the history of the ACTA and TTIP agreements show, this mode of decision-making is increasingly challenged in public. Decisions taken on levels beyond the nation state figure prominently in the news, the respective public opinion is much more aware but also more diversified, and various societal actors ranging from social movements to political parties actively mobilize on European and international questions.<br> 
+     
+Based on the current research agenda, the seminar provides a systematic overview of this politicization of supra- and international governance. By reading recent empirical literature, the participants delve into the different arenas in which politicization takes place, carve out the emerging lines of political conflict on governance beyond the nation state, and finally discuss the resulting challenges for decision-making in the EU and other international institutions. On this basis, the course aims to enable participants to assess and to apply the politicization concept to various questions of European and international politics.<br> 
+     
+The course addresses students who already control some knowledge on European and international multilevel governance, who are willing to engage in both the substantial and methodological issues of the literature to be read, and who are prepared to actively participate during the individual sessions. Besides regular participation, assignments include at least one presentation of a scholarly article and a term paper which applies one of the discussed aspects to a freely chosen empirical issue of supranational governance.<br> 
+    
+ 
+Participation, provision of course materials and all course-related communication will be managed via the FU’s eLearning tools. Please go the [FU blackboard](lms.fu-berlin.de) and search for the course ‘POLSOZ_S_15396_16S’. The password needed for enrollment will be handed out in the first session!
+<br> 
+    
+:::
+
+::: callout-note
+All details on course organization, assignments, literature and individual sessions are provided in the <strong>syllabus</strong> below.
+:::
+
+<br>
+
+
+
+## Materials
+
+::: {style="line-height: 2.8;"}
+<a class="btn btn-primary" href="./syllabus.pdf" download>
+  <i class="fa-solid fa-scroll"></i> Syllabus (PDF)
+</a>&nbsp;&nbsp;&nbsp;
+<!-- <a class="btn btn-primary" href="https://youtube.com/playlist?list=PL6rqiIXWuNAetGhWOV1pSA2AyZfPn47Gz&feature=shared"> -->
+<!--   <i class="fa-brands fa-youtube"></i> Lecture videos -->
+<!-- </a>&nbsp;&nbsp;&nbsp; -->
+<a class="btn btn-primary" href="./evaluation.pdf" download>
+  <i class="fa-solid fa-magnifying-glass"></i> Evaluation (PDF)
+</a>&nbsp;&nbsp;&nbsp;
+:::
+
+
+

@@ -44,6 +44,7 @@ All details on course organization, assignments, literature and individual sessi
 
 ## Materials
 
+::: {style="line-height: 2.8;"}
 <a class="btn btn-primary" href="./syllabus.pdf" download>
   <i class="fa-solid fa-scroll"></i> Syllabus (PDF)
 </a>&nbsp;&nbsp;&nbsp;
@@ -53,5 +54,7 @@ All details on course organization, assignments, literature and individual sessi
 <a class="btn btn-primary" href="./evaluation.pdf" download>
   <i class="fa-solid fa-magnifying-glass"></i> Evaluation (PDF)
 </a>&nbsp;&nbsp;&nbsp;
+:::
+
 
 
