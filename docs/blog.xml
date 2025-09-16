@@ -6,22 +6,32 @@
       version="2.0">
 <channel>
 <title>Christian Rauh</title>
-<link>https://chrauh.github.io/blog.html</link>
-<atom:link href="https://chrauh.github.io/blog.xml" rel="self" type="application/rss+xml"/>
+<link>https://christian-rauh.eu/blog.html</link>
+<atom:link href="https://christian-rauh.eu/blog.xml" rel="self" type="application/rss+xml"/>
 <description>Personal website of Prof. Dr. Christian Rauh</description>
 <image>
-<url>https://chrauh.github.io/files/images/CR_card.png</url>
+<url>https://christian-rauh.eu/files/images/CR_card.png</url>
 <title>Christian Rauh</title>
-<link>https://chrauh.github.io/blog.html</link>
+<link>https://christian-rauh.eu/blog.html</link>
 </image>
 <generator>quarto-1.6.42</generator>
-<lastBuildDate>Thu, 14 Mar 2024 23:00:00 GMT</lastBuildDate>
+<lastBuildDate>Mon, 28 Oct 2024 23:00:00 GMT</lastBuildDate>
+<item>
+  <title>Wie viel Europa steckt in unserem Alltag?</title>
+  <link>https://christian-rauh.eu/</link>
+  <description>Feature im Portal Zwei 2024</description>
+  <category>media</category>
+  <category>interview</category>
+  <guid>https://christian-rauh.eu/</guid>
+  <pubDate>Mon, 28 Oct 2024 23:00:00 GMT</pubDate>
+  <media:content url="https://christian-rauh.eu/files/images/Rauh-Liese.jpg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>System unter Druck</title>
   <dc:creator>Christian Rauh</dc:creator>
   <dc:creator>Heiko Giebler</dc:creator>
   <dc:creator>Jan Paul Heisig</dc:creator>
-  <link>https://chrauh.github.io/blog/pdt-mitteilungen/</link>
+  <link>https://christian-rauh.eu/blog/pdt-mitteilungen/</link>
   <description><![CDATA[ 
 
 
@@ -61,14 +71,14 @@
 
  ]]></description>
   <category>commentary</category>
-  <guid>https://chrauh.github.io/blog/pdt-mitteilungen/</guid>
+  <guid>https://christian-rauh.eu/blog/pdt-mitteilungen/</guid>
   <pubDate>Thu, 14 Mar 2024 23:00:00 GMT</pubDate>
-  <media:content url="https://chrauh.github.io/blog/pdt-mitteilungen/featured.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://christian-rauh.eu/blog/pdt-mitteilungen/featured.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Kommunikationsdefizite in der EU-Politik</title>
   <dc:creator>Christian Rauh</dc:creator>
-  <link>https://chrauh.github.io/blog/antrittsvorlesung/</link>
+  <link>https://christian-rauh.eu/blog/antrittsvorlesung/</link>
   <description><![CDATA[ 
 
 
@@ -84,14 +94,14 @@
   <category>event</category>
   <category>presentation</category>
   <category>video</category>
-  <guid>https://chrauh.github.io/blog/antrittsvorlesung/</guid>
+  <guid>https://christian-rauh.eu/blog/antrittsvorlesung/</guid>
   <pubDate>Tue, 05 Mar 2024 23:00:00 GMT</pubDate>
-  <media:content url="https://chrauh.github.io/blog/antrittsvorlesung/featured.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://christian-rauh.eu/blog/antrittsvorlesung/featured.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>What web-scraping and text-as-data approaches reveal about EU politics</title>
   <dc:creator>Christian Rauh</dc:creator>
-  <link>https://chrauh.github.io/blog/sicss-berlin/</link>
+  <link>https://christian-rauh.eu/blog/sicss-berlin/</link>
   <description><![CDATA[ 
 
 
@@ -111,15 +121,25 @@
   <category>presentation</category>
   <category>teaching</category>
   <category>text analysis</category>
-  <guid>https://chrauh.github.io/blog/sicss-berlin/</guid>
+  <guid>https://christian-rauh.eu/blog/sicss-berlin/</guid>
   <pubDate>Thu, 06 Jul 2023 22:00:00 GMT</pubDate>
-  <media:content url="https://chrauh.github.io/blog/sicss-berlin/featured.png" medium="image" type="image/png" height="120" width="144"/>
+  <media:content url="https://christian-rauh.eu/blog/sicss-berlin/featured.png" medium="image" type="image/png" height="120" width="144"/>
+</item>
+<item>
+  <title>Technokratisches BlaBla</title>
+  <link>https://christian-rauh.eu/</link>
+  <description>Feature im ORF Radio zu Pressemitteilungen der EU Kommission</description>
+  <category>media</category>
+  <category>interview</category>
+  <guid>https://christian-rauh.eu/</guid>
+  <pubDate>Fri, 04 Nov 2022 23:00:00 GMT</pubDate>
+  <media:content url="https://christian-rauh.eu/files/images/orf-cover.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Widersprüchliche Signale</title>
   <dc:creator>Christian Rauh</dc:creator>
   <dc:creator>Johannes Scherzinger</dc:creator>
-  <link>https://chrauh.github.io/blog/mitteilungen-russland/</link>
+  <link>https://christian-rauh.eu/blog/mitteilungen-russland/</link>
   <description><![CDATA[ 
 
 
@@ -139,18 +159,18 @@
 <p>Wir sind dieser Frage auf Basis eines Volltextkorpus nachgegangen, der alle Reden vor der Vollversammlung der Vereinten Nationen bis 2020 enthält. In diesem zentralen Forum der Weltpolitik haben alle Regierungen jedes Jahr die Chance, ihre außenpolitischen Prioritäten und Positionierungen vor der Weltöffentlichkeit kundzutun. Die Reden von EU-Mitgliedstaaten auf dieser Bühne enthalten also wertvolle Informationen über die Konsistenz und Stärke der Signale von der EU an Russland im Zeitverlauf. Wir extrahieren diese Informationen mit modernen Algorithmen der natürlichen Sprachverarbeitung. Im ersten Schritt nutzen wir ein ‚semantic role labelling‘-Verfahren, um alle Sätze zu identifizieren, in denen Russland (bzw. die Sowjetunion als dessen Vorgängerstaat) als handelnder Akteur benannt wird.</p>
 <p>Im zweiten Schritt skalieren wir die Sprache dieser Sätze mit einem Wortvektormodell entlang ihrer semantischen Ähnlichkeit zu konfliktbetonten und kooperativen Begriffen in der diplomatischen Kommunikation (u.a. z.B. ‚Feind/Freund‘, ‚Krieg/Frieden‘, ‚aggressiv/kooperativ‘ usw.). Eine Zufallsstichprobe von 150 Sätzen zeigt, dass sich diese Skalierung weitgehend mit der Interpretation zweier menschlicher Kodierer deckt.</p>
 <p><br></p>
-<p><img src="https://chrauh.github.io/blog/mitteilungen-russland/IllustrateScalingModel.png" class="img-fluid" style="border:1px solid black; border-radius:2px;"></p>
+<p><img src="https://christian-rauh.eu/blog/mitteilungen-russland/IllustrateScalingModel.png" class="img-fluid" style="border:1px solid black; border-radius:2px;"></p>
 <p><br></p>
 <p>Die folgende Abbildung fasst zusammen, was uns dieser Ansatz über die Signale aller EU-Mitgliedsstaaten in Richtung Russland im Zeitverlauf verrät.</p>
 <p><br></p>
-<p><img src="https://chrauh.github.io/blog/mitteilungen-russland/OverTime.png" class="img-fluid" style="border:1px solid black; border-radius:2px;"></p>
+<p><img src="https://christian-rauh.eu/blog/mitteilungen-russland/OverTime.png" class="img-fluid" style="border:1px solid black; border-radius:2px;"></p>
 <p><br></p>
 <p>EU-Mitgliedsstaaten haben Russland bzw. die Sowjetunion vor allem nach der Invasion in Afghanistan 1979 und der darauffolgenden letzten Hochphase des Kalten Kriegs als handelnden Akteur auf der Weltbühne benannt. Diese Signale waren nicht nur häufig, sondern auch stark konfliktbetont. Teilweise liegen die Werte unseres Skalierungsmodels fast drei Standardabweichungen unter der durchschnittlichen Konflikthaftigkeit der fast einer Million gesprochenen Sätze in der UN-Vollversammlung.</p>
 <p>Dies ändert sich schlagartig mit dem kurz nach dem Austritt der Ukraine erfolgten Zusammenbruch der Sowjetunion 1991. Ab diesem Zeitpunkt sprachen EU-Mitliedstaaten vor der UN deutlich seltener über Russland. Und wenn sie es taten, sandten sie klar kooperative Signale. Für unsere Frage besonders bedeutsam: An diesem schwach kooperativen Signal der EU-Mitglieder an Russland änderte weder der erste noch der zweite Tschetschenienkrieg etwas. Nach den verheerenden Bildern des zerbombten Grosny im Jahr 2000 schweigen EU-Regierungen in diesem zentralen Forum der Weltpolitik gegenüber Russland und senden ab 2003 sogar wieder vereinzelt kooperative Signale. In einer Welt, in der politische Rhetorik abschreckenden Charakter durch klare Positionierungen haben kann, kommt das Schweigen auf dieser zentralen Weltbühne einem Signal der Gleichgültigkeit nahe.</p>
 <p>Die internationale Kommunikation der EU-Staaten dreht sich erst langsam mit der russischen Intervention im Kaukasuskrieg 2008 und dann vor allem mit der Annexion der Krim 2014 und der Intervention in Syrien 2015. Die rhetorische Priorisierung von Russland als handelndem Akteur nimmt in EU-Reden wieder deutlich zu und tendiert im Mittel zu eher konfliktbetonten Signalen.</p>
 <p>War die Krim also der notwendige Weckruf, den es brauchte, damit die Regierungen der EU sich zu einer gemeinsamen internationalen Kommunikation an und über Russland aufrafften? Nicht wirklich. Im Vergleich zur Hochphase des Kalten Krieges sprach man ab 2014 immer noch nicht sonderlich häufig über Russland– insbesondere, wenn man bedenkt, dass sich die Anzahl an EU-Mitgliedsstaaten seit den 1980-er Jahren fast verdoppelt hat. Zudem sehen wir eine hohe Bandbereite in der Art, wie EU-Staaten über Russland sprechen: In den drei auf die Krim-Annexion folgenden Jahren finden wir immer noch viele Statements in einer tendenziell kooperativen Sprache. Die folgende Abbildung verdeutlicht, dass dies an einer Divergenz zwischen den einzelnen EU-Regierungen liegt.</p>
 <p><br></p>
-<p><img src="https://chrauh.github.io/blog/mitteilungen-russland/PostCrimeaCountries.png" class="img-fluid" style="border:1px solid black; border-radius:2px;"></p>
+<p><img src="https://christian-rauh.eu/blog/mitteilungen-russland/PostCrimeaCountries.png" class="img-fluid" style="border:1px solid black; border-radius:2px;"></p>
 <p><br></p>
 <p>Sie zeigt zunächst, dass nur 20 der damals noch 28 EU-Mitgliedstaaten Russland in ihrer jährlich wichtigsten außenpolitischen Rede überhaupt als Akteur benannt haben. Der Großteil dieser Regierungen hat das in den sechs hier beobachten Jahren auch nur ein einziges Mal getan. Und sie setzen Russland dabei oft auch in einen eher kooperativen Kontext – etwa in den wenigen Statements der Regierungen von Luxemburg, der Slowakei oder Ungarn.</p>
 <p>Die Regierungen der als führende EU-Nationen verstandenen Staaten Deutschland und Frankreich benannten Russland zwar etwas häufiger als Akteur, nutzten dies aber, um im Mittel eher neutrale bzw. tendenziell kooperative Botschaften zu senden.</p>
@@ -179,15 +199,15 @@
   <category>text analysis</category>
   <category>visualization</category>
   <category>data</category>
-  <guid>https://chrauh.github.io/blog/mitteilungen-russland/</guid>
+  <guid>https://christian-rauh.eu/blog/mitteilungen-russland/</guid>
   <pubDate>Fri, 10 Jun 2022 22:00:00 GMT</pubDate>
-  <media:content url="https://chrauh.github.io/blog/mitteilungen-russland/featured.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://christian-rauh.eu/blog/mitteilungen-russland/featured.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Wer spricht wie über die EU?</title>
   <dc:creator>Christian Rauh</dc:creator>
   <dc:creator>Gabriele Kammerer</dc:creator>
-  <link>https://chrauh.github.io/blog/interview-EU-salience/</link>
+  <link>https://christian-rauh.eu/blog/interview-EU-salience/</link>
   <description><![CDATA[ 
 
 
@@ -204,14 +224,14 @@
  ]]></description>
   <category>video</category>
   <category>interview</category>
-  <guid>https://chrauh.github.io/blog/interview-EU-salience/</guid>
+  <guid>https://christian-rauh.eu/blog/interview-EU-salience/</guid>
   <pubDate>Tue, 13 Oct 2020 22:00:00 GMT</pubDate>
-  <media:content url="https://chrauh.github.io/blog/interview-EU-salience/featured.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://christian-rauh.eu/blog/interview-EU-salience/featured.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Preference heterogeneity in the EU Council of Ministers</title>
   <dc:creator>Christian Rauh</dc:creator>
-  <link>https://chrauh.github.io/blog/council-preferences/</link>
+  <link>https://christian-rauh.eu/blog/council-preferences/</link>
   <description><![CDATA[ 
 
 
@@ -224,15 +244,15 @@
 <p><br> <br></p>
 <section id="static-perspective" class="level2">
 <h2 class="anchored" data-anchor-id="static-perspective">Static perspective</h2>
-<p><img src="https://chrauh.github.io/blog/council-preferences/Moments.png" class="img-fluid"> <br> <br></p>
+<p><img src="https://christian-rauh.eu/blog/council-preferences/Moments.png" class="img-fluid"> <br> <br></p>
 </section>
 <section id="distributions-of-positions-over-time" class="level2">
 <h2 class="anchored" data-anchor-id="distributions-of-positions-over-time">Distributions of positions over time</h2>
-<p><img src="https://chrauh.github.io/blog/council-preferences/Density.gif" class="img-fluid"> <br> <br></p>
+<p><img src="https://christian-rauh.eu/blog/council-preferences/Density.gif" class="img-fluid"> <br> <br></p>
 </section>
 <section id="gridlockagreement-intervals-by-decision-rule-over-time" class="level2">
 <h2 class="anchored" data-anchor-id="gridlockagreement-intervals-by-decision-rule-over-time">Gridlock/agreement intervals by decision-rule over time</h2>
-<p><img src="https://chrauh.github.io/blog/council-preferences/GridlockIntervalls.gif" class="img-fluid"></p>
+<p><img src="https://christian-rauh.eu/blog/council-preferences/GridlockIntervalls.gif" class="img-fluid"></p>
 
 
 </section>
@@ -241,14 +261,14 @@
   <category>visualization</category>
   <category>data</category>
   <category>teaching</category>
-  <guid>https://chrauh.github.io/blog/council-preferences/</guid>
+  <guid>https://christian-rauh.eu/blog/council-preferences/</guid>
   <pubDate>Sat, 10 Aug 2019 22:00:00 GMT</pubDate>
-  <media:content url="https://chrauh.github.io/blog/council-preferences/featured.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://christian-rauh.eu/blog/council-preferences/featured.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Which countries get mentioned in EC press releases?</title>
   <dc:creator>Christian Rauh</dc:creator>
-  <link>https://chrauh.github.io/blog/ec-country-mentions/</link>
+  <link>https://christian-rauh.eu/blog/ec-country-mentions/</link>
   <description><![CDATA[ 
 
 
@@ -257,7 +277,7 @@
 <p><br></p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://chrauh.github.io/blog/ec-country-mentions/ec_countries.gif" class="img-fluid figure-img"></p>
+<p><img src="https://christian-rauh.eu/blog/ec-country-mentions/ec_countries.gif" class="img-fluid figure-img"></p>
 <figcaption>gif</figcaption>
 </figure>
 </div>
@@ -268,14 +288,14 @@
   <category>visualization</category>
   <category>data</category>
   <category>text analysis</category>
-  <guid>https://chrauh.github.io/blog/ec-country-mentions/</guid>
+  <guid>https://christian-rauh.eu/blog/ec-country-mentions/</guid>
   <pubDate>Sat, 10 Aug 2019 22:00:00 GMT</pubDate>
-  <media:content url="https://chrauh.github.io/blog/ec-country-mentions/featured.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://christian-rauh.eu/blog/ec-country-mentions/featured.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Is Europe that hard to explain?</title>
   <dc:creator>Christian Rauh</dc:creator>
-  <link>https://chrauh.github.io/blog/hard-to-explain/</link>
+  <link>https://christian-rauh.eu/blog/hard-to-explain/</link>
   <description><![CDATA[ 
 
 
@@ -288,7 +308,7 @@
 <p>In an <a href="https://ejpr.onlinelibrary.wiley.com/doi/abs/10.1111/1475-6765.12222">earlier study</a>, Pieter De Wilde and I analysed the supply of EU debate in four national parliaments across more than 20 years. In these key institutions of representative democracy mainly governing parties speak about the EU. Independent from their partisan colours, established opposition parties offer systematically less debate about Europe in contrast. What is worse, the parliamentary supply of political signals about the EU falters when domestic elections are close and when public EU opinion deteriorates. These findings bolster the view that conflict defusion is the dominant EU communication strategy of established political representatives.</p>
 <p>This is emphasized further if one considers the quality of these political signals. For the conference ‘<a href="https://www.podchaser.com/podcasts/europes-stories-project-2117915/episodes/10th-anniversary-dahrendorf-le-132472857">What stories does Europe tell?</a>’ I extracted three-sentence windows around literal references to the EU or European integration from almost two million parliamentary speeches in Germany, the Netherlands, Spain, and the UK. For each of these text bits I then calculated the <a href="https://en.wikipedia.org/wiki/Flesch%E2%80%93Kincaid_readability_tests">Flesh Reading Ease Score</a> and compared it to a 1% random sample of parliamentary speeches from each country (a total of 19,260 speeches; data source: <a href="https://dataverse.harvard.edu/dataverse/ParlSpeech">ParlSpeech</a>).</p>
 <p>The score presents a weighted index of sentence and term length. It is typically used in psycholinguistics to quantify the cognitive investment needed to decipher a text. With this instrument we can at least roughly assess how easily voters can understand political communication about Europe as compared to a random political speech.</p>
-<p><img src="https://chrauh.github.io/blog/hard-to-explain/OBB_Complexity_English.png" class="img-fluid" alt="Complexity of EU sentences in parliamentary debates"></p>
+<p><img src="https://christian-rauh.eu/blog/hard-to-explain/OBB_Complexity_English.png" class="img-fluid" alt="Complexity of EU sentences in parliamentary debates"></p>
 <p>Caution is warranted when interpreting these scores in absolute terms or comparing them across languages. But in relative terms the findings are unequivocally clear: In the more than 20 years of parliamentary discourse across all four covered countries, the language around European integration messages is much harder to decipher than the average political speech. When it comes to the EU, in other words, voters receive much less clear political signals.</p>
 <p>One might argue that EU topics are just more complex per se. Yet, for two reasons I consider this implausible. First, there are also national topics of high technical complexity – think of tax legislation or social insurance systems, for example. From a purely factual perspective our comparative sample should thus not be as systematically different as it is. Second, it is plausible that domestic MPs approach communication professionally. Especially in prepared speeches they should be able to express complex topics in short sentences with understandable terminology as well. Thus also for these findings we can assume that the language on Europe is intentionally diffuse for strategic reasons.</p>
 <p>This strategic perspective is furthermore bolstered by a <a href="https://doi.org/10.1111/1475-6765.12350">recent study</a> with Bart Bes and Martijn Schoonvelde. We analysed around 9,000 public speeches of national leaders and European Commissioners during the onset of the Eurocrisis 2007-2015. One key finding: The complexity of their communication on European integration increases when domestic public EU opinion deteriorates in conjunction with soaring Eurosceptic parties. Also in this analysis, thus, established political actors apparently try to defuse European integration conflicts rather than sending clear stances.</p>
@@ -299,14 +319,14 @@
  ]]></description>
   <category>commentary</category>
   <category>text analysis</category>
-  <guid>https://chrauh.github.io/blog/hard-to-explain/</guid>
+  <guid>https://christian-rauh.eu/blog/hard-to-explain/</guid>
   <pubDate>Tue, 30 Jul 2019 22:00:00 GMT</pubDate>
-  <media:content url="https://chrauh.github.io/blog/hard-to-explain/featured.png" medium="image" type="image/png" height="81" width="144"/>
+  <media:content url="https://christian-rauh.eu/blog/hard-to-explain/featured.png" medium="image" type="image/png" height="81" width="144"/>
 </item>
 <item>
   <title>Demokratie, grenzenlos(?)</title>
   <dc:creator>Christian Rauh</dc:creator>
-  <link>https://chrauh.github.io/blog/demokratie-grenzenlos/</link>
+  <link>https://christian-rauh.eu/blog/demokratie-grenzenlos/</link>
   <description><![CDATA[ 
 
 
@@ -321,14 +341,14 @@
  ]]></description>
   <category>video</category>
   <category>rap</category>
-  <guid>https://chrauh.github.io/blog/demokratie-grenzenlos/</guid>
+  <guid>https://christian-rauh.eu/blog/demokratie-grenzenlos/</guid>
   <pubDate>Tue, 18 Jun 2019 22:00:00 GMT</pubDate>
-  <media:content url="https://chrauh.github.io/blog/demokratie-grenzenlos/featured.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://christian-rauh.eu/blog/demokratie-grenzenlos/featured.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Introduction to automated text analyses in the Political Sciences</title>
   <dc:creator>Christian Rauh</dc:creator>
-  <link>https://chrauh.github.io/blog/lausanne-workshop/</link>
+  <link>https://christian-rauh.eu/blog/lausanne-workshop/</link>
   <description><![CDATA[ 
 
 
@@ -348,14 +368,14 @@
   <category>presentation</category>
   <category>text analysis</category>
   <category>teaching</category>
-  <guid>https://chrauh.github.io/blog/lausanne-workshop/</guid>
+  <guid>https://christian-rauh.eu/blog/lausanne-workshop/</guid>
   <pubDate>Mon, 19 Nov 2018 23:00:00 GMT</pubDate>
-  <media:content url="https://chrauh.github.io/blog/lausanne-workshop/featured.png" medium="image" type="image/png" height="78" width="144"/>
+  <media:content url="https://christian-rauh.eu/blog/lausanne-workshop/featured.png" medium="image" type="image/png" height="78" width="144"/>
 </item>
 <item>
   <title>beRechnen &amp; Beschreiben</title>
   <dc:creator>Christian Rauh</dc:creator>
-  <link>https://chrauh.github.io/blog/academic-rap/</link>
+  <link>https://christian-rauh.eu/blog/academic-rap/</link>
   <description><![CDATA[ 
 
 
@@ -383,14 +403,14 @@
 
  ]]></description>
   <category>rap</category>
-  <guid>https://chrauh.github.io/blog/academic-rap/</guid>
+  <guid>https://christian-rauh.eu/blog/academic-rap/</guid>
   <pubDate>Wed, 21 Mar 2018 23:00:00 GMT</pubDate>
-  <media:content url="https://chrauh.github.io/blog/academic-rap/featured.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://christian-rauh.eu/blog/academic-rap/featured.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Why so much fuss about one supranational official?</title>
   <dc:creator>Christian Rauh</dc:creator>
-  <link>https://chrauh.github.io/blog/secgen/</link>
+  <link>https://christian-rauh.eu/blog/secgen/</link>
   <description><![CDATA[ 
 
 
@@ -409,14 +429,14 @@
 
  ]]></description>
   <category>commentary</category>
-  <guid>https://chrauh.github.io/blog/secgen/</guid>
+  <guid>https://christian-rauh.eu/blog/secgen/</guid>
   <pubDate>Wed, 21 Mar 2018 23:00:00 GMT</pubDate>
-  <media:content url="https://chrauh.github.io/blog/secgen/featured.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://christian-rauh.eu/blog/secgen/featured.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Legislative proposals from the European Commission (1986-2016)</title>
   <dc:creator>Christian Rauh</dc:creator>
-  <link>https://chrauh.github.io/blog/legislative-proposals/</link>
+  <link>https://christian-rauh.eu/blog/legislative-proposals/</link>
   <description><![CDATA[ 
 
 
@@ -424,7 +444,7 @@
 
 <p>Been dancing around this since my early PhD days, but now I have finally build a scraper collecting comprehensive data on the legislative proposals of the European Commission.</p>
 <p>An initial analysis of this data is provided in the working paper “<a href="https://www.researchgate.net/publication/325828650_An_agenda-setter_in_decline_Legislative_activity_of_the_European_Commission_1985-2016">An agenda-setter in decline?</a>”, but the descriptive overview below already contains quite some food for thought. <br></p>
-<p><img src="https://chrauh.github.io/blog/legislative-proposals/overview.png" class="img-fluid"></p>
+<p><img src="https://christian-rauh.eu/blog/legislative-proposals/overview.png" class="img-fluid"></p>
 
 
 
@@ -432,14 +452,14 @@
   <category>data</category>
   <category>visualization</category>
   <category>text analysis</category>
-  <guid>https://chrauh.github.io/blog/legislative-proposals/</guid>
+  <guid>https://christian-rauh.eu/blog/legislative-proposals/</guid>
   <pubDate>Sun, 28 Jan 2018 23:00:00 GMT</pubDate>
-  <media:content url="https://chrauh.github.io/blog/legislative-proposals/featured.png" medium="image" type="image/png" height="86" width="144"/>
+  <media:content url="https://christian-rauh.eu/blog/legislative-proposals/featured.png" medium="image" type="image/png" height="86" width="144"/>
 </item>
 <item>
   <title>Did you publish in a top-top journal?</title>
   <dc:creator>Christian Rauh</dc:creator>
-  <link>https://chrauh.github.io/blog/impact-factors/</link>
+  <link>https://christian-rauh.eu/blog/impact-factors/</link>
   <description><![CDATA[ 
 
 
@@ -457,24 +477,24 @@
 <section id="distributions-of-citation-counts" class="level2">
 <h2 class="anchored" data-anchor-id="distributions-of-citation-counts">Distributions of citation counts</h2>
 <p>When preparing an upcoming group evaluation, I wanted to make these points clear for my team. I thus collected citation counts for all manuscripts published over the last five years in those political science journals that were considered as leading along their current 5-year impact factor. The plots below show this journal list in descending order of IF and illustrate the distribution of individual manuscripts’ citation counts as densities and jittered dot plots.<br></p>
-<p><img src="https://chrauh.github.io/blog/impact-factors/1_DistrSmaller200.png" class="img-fluid" style="border:1px solid black;"> <br> <img src="https://chrauh.github.io/blog/impact-factors/2_DistrFullRange.png" class="img-fluid" style="border:1px solid black;"></p>
+<p><img src="https://christian-rauh.eu/blog/impact-factors/1_DistrSmaller200.png" class="img-fluid" style="border:1px solid black;"> <br> <img src="https://christian-rauh.eu/blog/impact-factors/2_DistrFullRange.png" class="img-fluid" style="border:1px solid black;"></p>
 <p><br><br>
 We clearly see that most journals – especially those at the top of the ranking - feature rare but strong outliers of highly cited manuscripts. Those affect the impact factors disproportionately which also means that the average provides little information about most manuscripts in that journal.<br></p>
 <p>We also see that the distributions are heavily right-skewed in most cases – the overarching majority of manuscripts receives much less citations than the what the average impact factor would suggest.<br></p>
 <p>Moreover, the modes of the citation distributions across journals vary in a much narrower range than their averages. If we were to randomly pick two manuscripts from, say, the third-ranked journal and from the tenth-ranked journal, their citations counts would probably be not that different.<br></p>
 <p>Accordingly, there is no particularly strong relationship of a journal’s impact factor and the citation counts of individual manuscripts therein.</p>
-<p><img src="https://chrauh.github.io/blog/impact-factors/3_Relationships.png" class="img-fluid" style="border:1px solid black;"> <br></p>
+<p><img src="https://christian-rauh.eu/blog/impact-factors/3_Relationships.png" class="img-fluid" style="border:1px solid black;"> <br></p>
 <p><strong><em>In short, the “top-top journal” heuristic seems to be rather flawed when it comes to inferring the (citation) impact of individual manuscripts (and their authors).</em></strong> Please avoid that simple shortcut when assessing the work of your peers. <br> <br></p>
 </section>
 <section id="flipping-the-perspective" class="level2">
 <h2 class="anchored" data-anchor-id="flipping-the-perspective">Flipping the perspective</h2>
 <p>Of course, criticizing the evaluation criteria is hardly a winning strategy while you are being assessed. But to nevertheless preempt this overly simple heuristic in our particular case, I used the evaluation report to indirectly flag the idea that <em>manuscripts make impact factors (and not the other way around)</em>. To this end I collected citation counts for all works published by our group in the evaluation period, pooled them into a fictitious journal, and then ranked this journal relative to the other journals in political science and international relations (resorting to Google Scholar data and classification schemes). That message was well received …</p>
-<p><img src="https://chrauh.github.io/blog/impact-factors/4_GGjournalComparison.png" class="img-fluid" style="border:1px solid black;"><br>
+<p><img src="https://christian-rauh.eu/blog/impact-factors/4_GGjournalComparison.png" class="img-fluid" style="border:1px solid black;"><br>
 <br> <br></p>
 <p><strong><em>Update May 2024:</em></strong> In another evaluation I signed responsible for (sigh…), I pushed this idea further by also asking whether our publications actually have a positive effect on the impact factors of the journals that they appear in …<br></p>
-<p><img src="https://chrauh.github.io/blog/impact-factors/CombinedJournalComparison.png" class="img-fluid" style="border:1px solid black;"><br>
+<p><img src="https://christian-rauh.eu/blog/impact-factors/CombinedJournalComparison.png" class="img-fluid" style="border:1px solid black;"><br>
 <br></p>
-<p><img src="https://chrauh.github.io/blog/impact-factors/GG-ImpactFactor.png" class="img-fluid" style="border:1px solid black;"></p>
+<p><img src="https://christian-rauh.eu/blog/impact-factors/GG-ImpactFactor.png" class="img-fluid" style="border:1px solid black;"></p>
 </section>
 </div>
 
@@ -485,14 +505,14 @@ We clearly see that most journals – especially those at the top of the ranking
   <category>commentary</category>
   <category>visualization</category>
   <category>data</category>
-  <guid>https://chrauh.github.io/blog/impact-factors/</guid>
+  <guid>https://christian-rauh.eu/blog/impact-factors/</guid>
   <pubDate>Tue, 19 Dec 2017 23:00:00 GMT</pubDate>
-  <media:content url="https://chrauh.github.io/blog/impact-factors/featured.png" medium="image" type="image/png" height="144" width="144"/>
+  <media:content url="https://christian-rauh.eu/blog/impact-factors/featured.png" medium="image" type="image/png" height="144" width="144"/>
 </item>
 <item>
   <title>Scholars, public intellectuals, pundits?</title>
   <dc:creator>Christian Rauh</dc:creator>
-  <link>https://chrauh.github.io/blog/pundits/</link>
+  <link>https://christian-rauh.eu/blog/pundits/</link>
   <description><![CDATA[ 
 
 
@@ -500,7 +520,7 @@ We clearly see that most journals – especially those at the top of the ranking
 
 <p>I recently often find myself in discussions about the extent to which academics can and should contribute to public (often meaning: mediatized) debates or even actual consultation of policy-makers (at my current institution particularly triggered by <a href="https://www.faz.net/aktuell/feuilleton/debatten/berliner-studenten-werfen-ruud-koopmans-nationalismus-vor-14357049.html">this</a>, in the otherwise rather dozy German Political Science Association hotly debated <a href="https://www.faz.net/aktuell/feuilleton/forschung-und-lehre/politikwissenschaft-und-ihre-lage-der-in-der-oeffentlichkeit-14186054.html">here</a>).</p>
 <p>Thus the recently published ‘F.A.Z. Ökonomeneranking’, which annually crowns the top 100 ‘most influential’ German-speaking economists, caught my interest: it aims to combine measures for both public and academic impact.</p>
-<p>Academic impact is measured by the count of Scopus citations in the last four years, media impact is captured by named references in the German-speaking print and radio press during the last year, and political impact is retrieved from references in a survey that asked German MPs and government officials (n=89) for their sources of economic guidance (more detail here). I scraped the raw data table and played with it a bit. Here’s what I found: <br> <img src="https://chrauh.github.io/blog/pundits/pundits.jpg" class="img-fluid"> <br></p>
+<p>Academic impact is measured by the count of Scopus citations in the last four years, media impact is captured by named references in the German-speaking print and radio press during the last year, and political impact is retrieved from references in a survey that asked German MPs and government officials (n=89) for their sources of economic guidance (more detail here). I scraped the raw data table and played with it a bit. Here’s what I found: <br> <img src="https://christian-rauh.eu/blog/pundits/pundits.jpg" class="img-fluid"> <br></p>
 <p>Not much, essentially. In contrast to some of the arguments frequently invoked in the discussions with my colleagues, the different ‘spheres’ of academic impact seem hardly related. Neither is there evidence for a trade-off between scholarly impact on the one hand, and public or political presence on the other (often heard by those particularly successful on the former dimension). Nor is there evidence that scholarly impact is a sort of necessary condition for influence in public and political debates (often the lowest-common denominator agreement from a somewhat more normative perspective).</p>
 <p>So, what do you read from this? And is there comparable data for political scientists?</p>
 
@@ -511,14 +531,14 @@ We clearly see that most journals – especially those at the top of the ranking
   <category>academia</category>
   <category>data</category>
   <category>visualization</category>
-  <guid>https://chrauh.github.io/blog/pundits/</guid>
+  <guid>https://christian-rauh.eu/blog/pundits/</guid>
   <pubDate>Mon, 05 Sep 2016 22:00:00 GMT</pubDate>
-  <media:content url="https://chrauh.github.io/blog/pundits/featured.png" medium="image" type="image/png" height="144" width="144"/>
+  <media:content url="https://christian-rauh.eu/blog/pundits/featured.png" medium="image" type="image/png" height="143" width="144"/>
 </item>
 <item>
   <title>BREXIT is wrong - and should thus be implemented quickly</title>
   <dc:creator>Christian Rauh</dc:creator>
-  <link>https://chrauh.github.io/blog/brexit/</link>
+  <link>https://christian-rauh.eu/blog/brexit/</link>
   <description><![CDATA[ 
 
 
@@ -538,15 +558,15 @@ We clearly see that most journals – especially those at the top of the ranking
 
  ]]></description>
   <category>commentary</category>
-  <guid>https://chrauh.github.io/blog/brexit/</guid>
+  <guid>https://christian-rauh.eu/blog/brexit/</guid>
   <pubDate>Fri, 01 Jul 2016 22:00:00 GMT</pubDate>
-  <media:content url="https://chrauh.github.io/blog/brexit/featured.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://christian-rauh.eu/blog/brexit/featured.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Big data in the social sciences</title>
   <dc:creator>Alexandros Tokhi</dc:creator>
   <dc:creator>Christian Rauh</dc:creator>
-  <link>https://chrauh.github.io/blog/bigdata/</link>
+  <link>https://christian-rauh.eu/blog/bigdata/</link>
   <description><![CDATA[ 
 
 
@@ -582,9 +602,9 @@ We clearly see that most journals – especially those at the top of the ranking
  ]]></description>
   <category>academia</category>
   <category>commentary</category>
-  <guid>https://chrauh.github.io/blog/bigdata/</guid>
+  <guid>https://christian-rauh.eu/blog/bigdata/</guid>
   <pubDate>Fri, 01 Jan 2016 23:00:00 GMT</pubDate>
-  <media:content url="https://chrauh.github.io/blog/bigdata/featured.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://christian-rauh.eu/blog/bigdata/featured.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>

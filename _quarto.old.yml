@@ -6,33 +6,23 @@ project:
 description-meta: "Prof. Dr. Christian Rauh"
 author-meta: "Christian Rauh"
 
-execute:
+execute: 
   freeze: false
   cache: false
 
-# SEO niceties
-sitemap: true
-lang: en
-
 website:
   title: "Christian Rauh"
+  image: /files/images/CR_card.png
   description: "Personal website of Prof. Dr. Christian Rauh"
-  image: /files/images/CR_card.png         
-  favicon: /files/favicon_CR.png           
-  site-url: "https://christian-rauh.eu"    
-  
-  # Robots.txt - allowing bots to crawl - manually created
-  # robots: |
-  #   User-agent: *
-  #   Allow: /
-  #   Sitemap: https://chrauh.github.io/sitemap.xml
-
+  favicon: files/favicon_CR.png
+ 
   navbar:
-    background: "#003399"
+    background: "#003399"  # You can change the background color here
     foreground: white
-    left:
+
+    left:   # Visible navigation items
       - text: Experience
-        href: experience.qmd
+        href: experience.qmd             
       - text: Publications
         href: publications.qmd
       - text: Data & Resources
@@ -40,56 +30,65 @@ website:
       - text: Teaching
         href: teaching.qmd
       - text: Blog et al.
-        href: blog.qmd
-    right:
+        href: blog.qmd                   
+
+
+    right: 
       - text: <strong>CV</strong>
-        href: /files/CV_Rauh_EN.pdf
+        href: files/CV_Rauh_EN.pdf 
       - icon: envelope
-        href: mailto:christian.rauh@wzb.eu
+        href: mailto:christian.rauh@wzb.eu 
       - icon: linkedin
         href: https://www.linkedin.com/in/chrauh/
         target: _blank
       - icon: github
-        href: https://github.com/ChRauh         # use https
+        href: http://www.github.com/ChRauh
         target: _blank
-
+  
   page-navigation: true
-
-  page-footer:
-    left: "![](/files/favicon_CR.png){width=30px height=30px}  [Christian Rauh](https://github.com/ChRauh) &copy; <script>document.write(new Date().getFullYear())</script>"
+  
+  page-footer: 
+    left: "![](/files/favicon_CR.png){width=30px height=30px}  [Christian Rauh](http://www.github.com/ChRauh) &copy; <script>document.write(new Date().getFullYear())</script>" 
     center: ""
-    right:
+    right:  
       - icon: envelope
-        href: mailto:christian.rauh@wzb.eu
+        href: mailto:christian.rauh@wzb.eu 
       - icon: linkedin
         href: https://www.linkedin.com/in/chrauh/
         target: _blank
       - icon: github
-        href: https://github.com/ChRauh
+        href: https://www.github.com/ChRauh
         target: _blank
 
+  
   search:
     location: navbar
     type: textbox
-
+  
   reader-mode: false
-  draft-mode: visible                         # consider removing for prod
 
+  draft-mode: visible
+  
   repo-url: https://github.com/ChRauh/ChRauh.github.io
-  # repo-actions: [source, issue]             # optional, handy on pages
-
-  # Social cards — explicit and absolute (key to fixing previews)
-  open-graph:
+#  repo-actions: [edit, issue, source]
+  
+  open-graph: 
     image: /files/images/CR_card.png
-  twitter-card:
+  
+  twitter-card: 
     image: /files/images/CR_card.png
-    card-style: summary_large_image
+  
+  site-url: "https://chrauh.github.io"
+  
+  # SEO niceties
+  sitemap: true
+  lang: en
+  
+  google-analytics:
+    tracking-id: ""  # Please delete or replace with your own tracking ID
+    anonymize-ip: true 
 
-  # google-analytics:                           # remove if unused, GA analytics under GDPR only with explicit consent!
-    # tracking-id: "G-XXXXXXX"
-    # anonymize-ip: true
-
-bibliography: references.bib
+bibliography: references.bib  # Add references.bib to the root folder to enable the bibliography function
 
 format:
   html:
@@ -106,6 +105,4 @@ format:
     email-obfuscation: javascript
     link-external-filter: '^(?:http:|https:)\/\/chrauh\.github\.io\/custom'
     include-in-header: "files/includes/_academic.qmd"
-    anchor-sections: true                     # nice for deep-linking
-
 
