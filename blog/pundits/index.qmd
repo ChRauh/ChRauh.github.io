@@ -5,7 +5,7 @@ subtitle: ""
 author: 
   - name: Christian Rauh
 date: "2016-09-06"
-categories: [commentary, data, visualization]
+categories: [commentary, academia, data, visualization]
 image: "featured.png"
 ---
 

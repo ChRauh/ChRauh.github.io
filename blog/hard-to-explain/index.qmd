@@ -5,7 +5,7 @@ subtitle: ""
 author: 
   - name: Christian Rauh
 date: "2019-07-31"
-categories: [commentary]
+categories: [commentary, text analysis]
 image: "featured.png"
 ---
 

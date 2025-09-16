@@ -1,0 +1,38 @@
+---
+title: "Preference heterogeneity in the EU Council of Ministers"
+description: "Assessing the space for intergovernmental agreement in the EU over time"
+subtitle: ""
+author: 
+  - name: Christian Rauh
+date: "2019-08-11"
+categories: [visualization, data, teaching]
+image: "featured.jpg"
+
+---
+<br>
+    
+::: {style="text-align: justify;"}    
+    
+For my teaching on spatial / institutionalist analysis of EU decision-making, I followed the leads by Holger Döring ([2013](https://journals.sagepub.com/doi/full/10.1177/1465116512461189)) and plotted the aggregated positions of EU member state governments in the Council on two key dimensions of partisan conflict (extracted from the [Comparative Manifesto Database](https://manifesto-project.wzb.eu/)).
+
+:::
+    
+<br>
+<br>
+   
+    
+## Static perspective
+
+![](Moments.png)
+<br>
+<br>
+
+## Distributions of positions over time
+![](Density.gif)
+<br>
+<br>
+
+## Gridlock/agreement intervals by decision-rule over time
+![](GridlockIntervalls.gif)
+
+

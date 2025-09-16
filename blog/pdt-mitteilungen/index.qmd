@@ -1,6 +1,6 @@
 ---
 title: "System unter Druck"
-description: "Beitrag in den WZB Mitteilungen über unsere Survey Experimente zu demokratischen Idelane während der Covid-19 Pandemie"
+description: "Beitrag in den WZB Mitteilungen über unsere Survey Experimente zu demokratischen Idealen während der Covid-19 Pandemie"
 subtitle: "Zur Krisenfestigkeit demokratischer Ideale"
 author: 
   - name: Christian Rauh

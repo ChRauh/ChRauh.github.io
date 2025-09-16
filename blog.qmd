@@ -19,7 +19,7 @@ draft-mode: unlinked
 page-navigation: false
 title-block-banner: false
 ---
-This page assembles my outputs and musings that do not easily fit into standard categories ... 
+This page assembles some of my outputs and musings that do not easily fit into standard categories ... 
 <br>
 <br>
 

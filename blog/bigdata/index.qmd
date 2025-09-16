@@ -1,12 +1,12 @@
 ---
 title: "Big data in the social sciences"
-description: "Contribution to the WZb Mitteilungen"
+description: "Contribution to the WZB Mitteilungen"
 subtitle: "Don’t believe the hype – at least not all of it"
 author: 
   - name: Alexandros Tokhi
   - name: Christian Rauh
 date: "2016-01-02"
-categories: [commentary]
+categories: [academia, commentary]
 image: "featured.jpg"
 ---
 

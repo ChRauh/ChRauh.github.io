@@ -5,7 +5,7 @@ subtitle: ""
 author: 
   - name: Christian Rauh
 date: "2019-08-11"
-categories: [visualization, data]
+categories: [visualization, data, text analysis]
 image: "featured.jpg"
 
 ---
