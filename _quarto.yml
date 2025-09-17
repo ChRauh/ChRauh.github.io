@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    - extras/**
 
 # Meta
 description-meta: "Prof. Dr. Christian Rauh"
