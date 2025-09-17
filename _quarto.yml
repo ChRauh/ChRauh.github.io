@@ -43,7 +43,7 @@ website:
         href: blog.qmd
     right:
       - text: <strong>CV</strong>
-        href: /files/CV_Rauh_EN.pdf
+        href: https://christian-rauh.eu/experience.html#full-cv
       - icon: envelope
         href: mailto:christian.rauh@wzb.eu
       - icon: linkedin

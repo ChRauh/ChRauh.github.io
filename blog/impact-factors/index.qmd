@@ -19,13 +19,13 @@ Honestly, this somewhat dismissive comment bugged me a bit at the time. After al
 <br>
 In later academic evaluation processes (sometimes also sitting on the other side of the table), I observed that this simple heuristic usually pops up very quickly – the work of a researcher, of groups or projects, or even of whole institutes is assessed by whether their work was in the top-3 or sometimes top-5 impact factor journals on whatever disciplinary list was considered most suitable.<br>
      
-This heuristic irritates me time and again. To be sure, I agree that publishing and influencing debates are key criteria for scholarly success. But even without getting started on the usual complaints about erratic review processes, potential Zeitgeitst-biases, and varying audience sizes, narrowing the benchmark to a very few selected outlets and especially the inference from aggregated impact factors to individual manuscripts or authors continues to annoy me.<br>
+This heuristic irritates me time and again. To be sure, I agree that publishing and influencing debates are key criteria for scholarly success. But even without getting started on the usual complaints about erratic review processes, potential Zeitgeist-biases, and varying audience sizes, narrowing the benchmark to a very few selected outlets and especially the inference from aggregated impact factors to individual manuscripts or authors continues to annoy me.<br>
     
-This hold in particular when this heuristic is pushed by quantitatively well-versed colleagues. Journal impact factors, after all, represent average values. And we hardly would get a paper published in a “top-top” journal if it would just draw inferences by looking at averages only. Averages are very sensitive to outliers and we usually would ask for more information about the underlying distribution – e.g. the standard deviation around the observed average. And we would be particularly sceptical about using the average as a comparative benchmark or the basis for inference when dealing with non-symmetric (=skewed) data distributions.<br>
+This hold in particular when this heuristic is pushed by quantitatively well-versed colleagues. Journal impact factors, after all, represent average values. And we hardly would get a paper published in a “top-top” journal if it would just draw inferences by looking at averages only. Averages are very sensitive to outliers and we usually would ask for more information about the underlying distribution – e.g. the standard deviation around the observed average. And we would be particularly skeptical about using the average as a comparative benchmark or the basis for inference when dealing with non-symmetric (=skewed) data distributions.<br>
     
 But rare outliers, large standard deviations, and skewed distributions is exactly what one would expect from the citation counts that make up journal impact factors: Amongst other things, we know about the prevalence of name-recognition dynamics and “Matthew effects” in scientific publishing for a long time ([Merton 1968](https://garfield.library.upenn.edu/merton/matthew1.pdf)).<br>
     
-But then, the averages that the impact factors represent are hardly informative for comparing journals and especially for drawing inferences about individual manuscripts within these journals.<br>
+Under these conditions *the citation averages that impact factors represent are hardly informative for comparing journals and especially for drawing inferences about individual manuscripts within these journals*.<br>
 <br>
     
 ## Distributions of citation counts    
@@ -37,13 +37,13 @@ When preparing an upcoming group evaluation, I wanted to make these points clear
 ![](2_DistrFullRange.png){style="border:1px solid black;"}       
     
 <br>    
-We clearly see that most journals – especially those at the top of the ranking - feature rare but strong outliers of highly cited manuscripts. Those affect the impact factors disproportionately which also means that the average provides little information about most manuscripts in that journal.<br>
+We clearly see that most journals – especially those at the top of the ranking - feature rare but strong outliers of highly cited manuscripts. Those affect the journal impact factors disproportionately which also means that they offer little information about most manuscripts in that journal.<br>
      
 We also see that the distributions are heavily right-skewed in most cases – the overarching majority of manuscripts receives much less citations than the what the average impact factor would suggest.<br>
      
-Moreover, the modes of the citation distributions across journals vary in a much narrower range than their averages. If we were to randomly pick two manuscripts from, say, the third-ranked journal and from the tenth-ranked journal, their citations counts would probably be not that different.<br>
+Moreover, the modes of the citation distributions across journals vary in a much narrower range than their averages. If we were to randomly pick two manuscripts from, say, the third-ranked journal and from the tenth-ranked journal, their citations counts would probably not be that different. Hardly a basis for distinguishing "top-top" from "top", I'd say ... <br>
     
-Accordingly, there is no particularly strong relationship of a journal's impact factor and the citation counts of individual manuscripts therein.
+All of this suggests that there is no particularly strong relationship of a journal's impact factor and the citation counts of individual manuscripts therein, as we also see below.
 
 ![](3_Relationships.png){style="border:1px solid black;"}
 <br>

@@ -1,7 +1,5 @@
 ---
-title: Page Unplugged
+title: Nothing here!?
 ---
 
-The page you requested cannot be found (perhaps it was unplugged).
-
-You may want to try searching to find the page's new plug.
+![](./files/images/ProfRauh-404.png)
