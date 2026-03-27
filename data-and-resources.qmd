@@ -63,6 +63,8 @@ If you have questions or build on these resources, I'd be happy to hear from you
 Here I list and link replication files for the data analyses in my published academic work. If you are missing something here, please do not hesitate to [contact](mailto:christian.rauh@wzb.eu) me directly.
 </div>
 
+-   [Bunea/Lipcean/Rauh (2026) - EU stakeholder comment quality - Governance](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/M606UR)
+
 -   [Rauh (2025) - EU actorness in UNGD speeches - International Interactions](https://github.com/ChRauh/EUactorness-II-replication)
 
 -   [Rauh / Parizek (2024) - EU in media debates - Journal of European Public Policy](https://doi.org/10.7910/DVN/SFFP0N)
@@ -120,6 +122,8 @@ Both in my consultancy or academic work, I try to meaningfully visualize the rel
 [![](files/images/dataviz/Fig1_EUMediaVisibility_EUshare_Combined_Monthly.png)](files/images/dataviz/Fig1_EUMediaVisibility_EUshare_Combined_Monthly.png)
 [![](files/images/dataviz/NumberOFSourcesByCountryAndMonth.png)](files/images/dataviz/NumberOFSourcesByCountryAndMonth.png)
 [![](files/images/dataviz/IllustrateScalingModel.png)](files/images/dataviz/IllustrateScalingModel.png)
+[![](files/images/dataviz/MigrationCrisis-Asylum.png)](files/images/dataviz/MigrationCrisis-Asylum.png)
+[![](files/images/dataviz/EUCO-meetings-1975-2025.png)](files/images/dataviz/EUCO-meetings-1975-2025.png)
 :::
 
 

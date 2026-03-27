@@ -29,6 +29,7 @@
   {
     "listing": "/blog.html",
     "items": [
+      "/blog/mitteilungen-milan/index.html",
       "/blog/pdt-mitteilungen/index.html",
       "/blog/antrittsvorlesung/index.html",
       "/blog/sicss-berlin/index.html",
