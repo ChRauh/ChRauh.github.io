@@ -2,6 +2,7 @@
   {
     "listing": "/teaching.html",
     "items": [
+      "/seminars/26-SS-EUpolitics/index.html",
       "/seminars/25-WS-Politicization/index.html",
       "/seminars/25-SS-EUpolitics/index.html",
       "/seminars/24-WS-Politicization/index.html",
@@ -23,7 +24,7 @@
     ]
   },
   {
-    "listing": "/projects.html",
+    "listing": "/people.html",
     "items": []
   },
   {
@@ -50,7 +51,7 @@
     ]
   },
   {
-    "listing": "/people.html",
+    "listing": "/projects.html",
     "items": []
   }
 ]

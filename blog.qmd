@@ -1,8 +1,8 @@
 ---
 title: "Blog et al."
-subtitle: ""
 description-meta: "Blog - Christian Rauh"
 listing: 
+  id: blog
   sort: "date desc"
   type: default
   page-size: 100
@@ -11,10 +11,9 @@ listing:
   filter-ui: true
   feed: true
   contents: 
-      - blog
-      - blog/blog-links.yml  # addd external links
+    - blog
+    - blog/blog-links.yml
 
-#page-layout: full
 draft-mode: unlinked
 page-navigation: false
 title-block-banner: false

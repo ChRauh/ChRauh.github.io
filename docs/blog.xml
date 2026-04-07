@@ -14,7 +14,7 @@
 <title>Christian Rauh</title>
 <link>https://christian-rauh.eu/blog.html</link>
 </image>
-<generator>quarto-1.7.32</generator>
+<generator>quarto-1.8.25</generator>
 <lastBuildDate>Sun, 14 Sep 2025 22:00:00 GMT</lastBuildDate>
 <item>
   <title>Zwischen Wirtschaft und Werten</title>
@@ -57,6 +57,16 @@
   <guid>https://christian-rauh.eu/blog/mitteilungen-milan/</guid>
   <pubDate>Sun, 14 Sep 2025 22:00:00 GMT</pubDate>
   <media:content url="https://christian-rauh.eu/blog/mitteilungen-milan/featured.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Wie viel Europa steckt in unserem Alltag?</title>
+  <link>https://christian-rauh.eu/</link>
+  <description>Feature im Portal Zwei 2024</description>
+  <category>media</category>
+  <category>interview</category>
+  <guid>https://christian-rauh.eu/</guid>
+  <pubDate>Mon, 28 Oct 2024 23:00:00 GMT</pubDate>
+  <media:content url="https://christian-rauh.eu/files/images/Rauh-Liese.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>System unter Druck</title>
@@ -156,6 +166,16 @@
   <guid>https://christian-rauh.eu/blog/sicss-berlin/</guid>
   <pubDate>Thu, 06 Jul 2023 22:00:00 GMT</pubDate>
   <media:content url="https://christian-rauh.eu/blog/sicss-berlin/featured.png" medium="image" type="image/png" height="120" width="144"/>
+</item>
+<item>
+  <title>Technokratisches BlaBla</title>
+  <link>https://christian-rauh.eu/</link>
+  <description>Feature im ORF Radio zu Pressemitteilungen der EU Kommission</description>
+  <category>media</category>
+  <category>interview</category>
+  <guid>https://christian-rauh.eu/</guid>
+  <pubDate>Fri, 04 Nov 2022 23:00:00 GMT</pubDate>
+  <media:content url="https://christian-rauh.eu/files/images/orf-cover.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Widersprüchliche Signale</title>
